@@ -4,5 +4,6 @@
     { "hr": "zvijezde", "de": "die Sterne" },
     { "hr": "dan", "de": "der Tag" },
     { "hr": "noć", "de": "die Nacht" },
-    { "hr": "spavati", "de": "schlafen" }
+    { "hr": "spavati", "de": "schlafen" },
+    { "hr": "probuditi se", "de": "aufwachen" }
 ]
