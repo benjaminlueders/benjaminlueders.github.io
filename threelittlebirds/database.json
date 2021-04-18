@@ -1,1 +1,8 @@
-[{"hr": "sunce","de": "die Sonne"},{"hr": "mjesec","de": "der Mond"},{"hr": "zvijezde","de": "die Sterne"},{"hr": "dan","de": "der Tag"},{"hr": "noć","de": "die Nacht"},{"hr": "spavati","de": "schlafen"}]
+[
+    { "hr": "sunce", "de": "die Sonne" },
+    { "hr": "mjesec", "de": "der Mond" },
+    { "hr": "zvijezde", "de": "die Sterne" },
+    { "hr": "dan", "de": "der Tag" },
+    { "hr": "noć", "de": "die Nacht" },
+    { "hr": "spavati", "de": "schlafen" }
+]
