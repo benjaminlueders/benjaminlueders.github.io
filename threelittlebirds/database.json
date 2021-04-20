@@ -7,4 +7,31 @@
     { "hr": "spavati", "de": "schlafen" },
     { "hr": "probuditi se", "de": "aufwachen" },
     { "hr": "smijati se", "de": "lachen" }
+,
+
+
+{
+
+   "de": "alltäglich",
+
+   "hr": "svakodnevni"
+
+ },
+
+ {
+
+   "de": "Alltag",
+
+   "hr": "svagdašnjica | svakodnevica"
+
+ },
+
+ {
+
+   "de": "Zahnfleisch",
+
+   "hr": "desni | zubno meso"
+
+ }
+
 ]
