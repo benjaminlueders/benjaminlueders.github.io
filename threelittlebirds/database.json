@@ -1,130 +1,158 @@
 [
- {
-   "hr": "tijelo",
-   "de": "der Körper"
- },
- {
-   "hr": "vrat",
-   "de": "der Hals"
- },
- {
-   "hr": "prsa | dojka",
-   "de": "die Brust"
- },
- {
-   "hr": "trbuh",
-   "de": "der Bauch"
- },
- {
-   "hr": "kuk",
-   "de": "die Hüfte"
- },
- {
-   "hr": "spolni organi",
-   "de": "die Geschlechtsteile"
- },
- {
-   "hr": "goljenica",
-   "de": "das Schienbein"
- },
- {
-   "hr": "muškarac",
-   "de": "der Mann"
- },
- {
-   "hr": "žena",
-   "de": "die Frau"
- },
- {
-   "hr": "stopalo",
-   "de": "der Fuß"
- },
- {
-   "hr": "noga",
-   "de": "das Bein"
- },
- {
-   "hr": "prepona",
-   "de": "die Leiste"
- },
- {
-   "hr": "koljeno",
-   "de": "das Knie"
- },
- {
-   "hr": "bedro",
-   "de": "der Oberschenkel"
- },
- {
-   "hr": "podlaktica",
-   "de": "der Unterarm"
- },
- {
-   "hr": "pupak",
-   "de": "der Nabel"
- },
- {
-   "hr": "struk",
-   "de": "die Taille"
- },
- {
-   "hr": "glava",
-   "de": "der Kopf"
- },
- {
-   "hr": "bradavica",
-   "de": "die Brustwarze"
- },
- {
-   "hr": "šija",
-   "de": "der Nacken"
- },
- {
-   "hr": "rame",
-   "de": "die Schulter"
- },
- {
-   "hr": "ruka",
-   "de": "der Arm"
- },
- {
-   "hr": "lakat",
-   "de": "der Ellbogen"
- },
- {
-   "hr": "zapešće",
-   "de": "das Handgelenk"
- },
- {
-   "hr": "šaka",
-   "de": "die Hand"
- },
- {
-   "hr": "gležanj",
-   "de": "der Knöchel"
- },
- {
-   "hr": "peta",
-   "de": "die Ferse"
- },
- {
-   "hr": "list",
-   "de": "die Wade"
- },
- {
-   "hr": "stražnjica",
-   "de": "das Gesäß"
- },
- {
-   "hr": "križa",
-   "de": "das Kreuz"
- },
- {
-   "hr": "pazuho",
-   "de": "die Achselhöhle"
- },
- {
-   "hr": "leđa",
-   "de": "der Rücken"
- }
+   [
+      {
+         "hr":"tijelo",
+         "de":"der Körper"
+      },
+      {
+         "hr":"vrat",
+         "de":"der Hals"
+      },
+      {
+         "hr":"prsa | dojka",
+         "de":"die Brust"
+      },
+      {
+         "hr":"trbuh",
+         "de":"der Bauch"
+      },
+      {
+         "hr":"kuk",
+         "de":"die Hüfte"
+      },
+      {
+         "hr":"spolni organi",
+         "de":"die Geschlechtsteile"
+      },
+      {
+         "hr":"goljenica",
+         "de":"das Schienbein"
+      },
+      {
+         "hr":"muškarac",
+         "de":"der Mann"
+      },
+      {
+         "hr":"žena",
+         "de":"die Frau"
+      },
+      {
+         "hr":"stopalo",
+         "de":"der Fuß"
+      },
+      {
+         "hr":"noga",
+         "de":"das Bein"
+      },
+      {
+         "hr":"prepona",
+         "de":"die Leiste"
+      },
+      {
+         "hr":"koljeno",
+         "de":"das Knie"
+      },
+      {
+         "hr":"bedro",
+         "de":"der Oberschenkel"
+      },
+      {
+         "hr":"podlaktica",
+         "de":"der Unterarm"
+      },
+      {
+         "hr":"pupak",
+         "de":"der Nabel"
+      },
+      {
+         "hr":"struk",
+         "de":"die Taille"
+      },
+      {
+         "hr":"glava",
+         "de":"der Kopf"
+      },
+      {
+         "hr":"bradavica",
+         "de":"die Brustwarze"
+      },
+      {
+         "hr":"šija",
+         "de":"der Nacken"
+      },
+      {
+         "hr":"rame",
+         "de":"die Schulter"
+      },
+      {
+         "hr":"ruka",
+         "de":"der Arm"
+      },
+      {
+         "hr":"lakat",
+         "de":"der Ellbogen"
+      },
+      {
+         "hr":"zapešće",
+         "de":"das Handgelenk"
+      },
+      {
+         "hr":"šaka",
+         "de":"die Hand"
+      },
+      {
+         "hr":"gležanj",
+         "de":"der Knöchel"
+      },
+      {
+         "hr":"peta",
+         "de":"die Ferse"
+      },
+      {
+         "hr":"list",
+         "de":"die Wade"
+      },
+      {
+         "hr":"stražnjica",
+         "de":"das Gesäß"
+      },
+      {
+         "hr":"križa",
+         "de":"das Kreuz"
+      },
+      {
+         "hr":"pazuho",
+         "de":"die Achselhöhle"
+      },
+      {
+         "hr":"leđa",
+         "de":"der Rücken"
+      }
+   ],
+   [
+      {
+         "hr":"pošiljatelj",
+         "de":"der Absender"
+      },
+      {
+         "hr":"preporučena pošiljka",
+         "de":"das Einschreiben"
+      },
+      {
+         "hr":"pražnjenje",
+         "de":"die Leerung"
+      },
+      {
+         "hr":"dostava",
+         "de":"die Zustellung"
+      },
+      {
+         "hr":"lomljivo",
+         "de":"zerbrechlich"
+      },
+      {
+         "hr":"savijati",
+         "de":"falten"
+      }
+   ]
 ]
