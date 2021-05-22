@@ -143,5 +143,21 @@
         {"hr":"grkljanski poklopac","de":"der Kehldeckel"},
         {"hr":"jednjak","de":"die Speiseröhre"},
         {"hr":"grlo","de":"die Kehle"}
+    ],
+    [
+        { "hr": "tjelesni sustavi", "de": "die Körpersysteme" },
+        { "hr": "dišni", "de": "das Atmungssystem" },
+        { "hr": "probavni", "de": "das Verdauungssystem" },
+        { "hr": "krvožilni", "de": "das Herz- und Gefäßsystem" },
+        { "hr": "limfni", "de": "das lymphatische System" },
+        { "hr": "mokraćni", "de": "das Harnsystem" },
+        { "hr": "endokrini", "de": "das endokrine System" },
+        { "hr": "živčani", "de": "das Nervensystem" },
+        { "hr": "spolni", "de": "das Fortpflanzungssystem" },
+        { "hr": "ošit", "de": "das Zwerchfell" },
+        { "hr": "vena", "de": "die Vene" },
+        { "hr": "arterija", "de": "die Arterie" },
+        { "hr": "žlijezda", "de": "die Drüse" },
+        { "hr": "živac", "de": "der Nerv" }
     ]
 ]
