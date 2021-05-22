@@ -113,5 +113,19 @@
         { "hr": "brdski bicikl", "de": "das Mountainbike" },
         { "hr": "turistički bicikl", "de": "das Tourenfahrrad" },
         { "hr": "cestovni bicikl", "de": "das Straßenrad" }
+    ],
+    [
+        { "hr": "unutarnji organi", "de": "die inneren Organe" },
+        { "hr": "jetra", "de": "die Leber" },
+        { "hr": "dvanaesnik", "de": "der Zwölffingerdarm" },
+        { "hr": "bubreg", "de": "die Niere" },
+        { "hr": "gušterača", "de": "die Bauchspeicheldrüse" },
+        { "hr": "tanko crijevo", "de": "der Dünndarm" },
+        { "hr": "debelo crijevo", "de": "der Dickdarm" },
+        { "hr": "crvuljak", "de": "der Wurmfortsatz" },
+        { "hr": "slijepo crijevo", "de": "der Blinddarm" },
+        { "hr": "štitnjača", "de": "die Schilddrüse" },
+        { "hr": "dušnik", "de": "die Luftröhre" },
+        { "hr": "pluća", "de": "die Lunge" }
     ]
 ]
