@@ -130,5 +130,18 @@
         {"hr":"srce","de":"das Herz"},
         {"hr":"želudac","de":"der Magen"},
         {"hr":"slezena","de":"die Milz"}
+    ],
+    [
+        {"hr":"sinus","de":"die Nebenhöhle"},
+        {"hr":"nepce","de":"der Gaumen"},
+        {"hr":"jezik","de":"die Zunge"},
+        {"hr":"grkljan","de":"der Kehlkopf"},
+        {"hr":"Adamova jabučica","de":"der Adamsapfel"},
+        {"hr":"glasnice","de":"die Stimmbänder"},
+        {"hr":"mozak","de":"das Gehirn"},
+        {"hr":"ždrijelo","de":"der Rachen"},
+        {"hr":"grkljanski poklopac","de":"der Kehldeckel"},
+        {"hr":"jednjak","de":"die Speiseröhre"},
+        {"hr":"grlo","de":"die Kehle"}
     ]
 ]
