@@ -126,6 +126,9 @@
         { "hr": "slijepo crijevo", "de": "der Blinddarm" },
         { "hr": "štitnjača", "de": "die Schilddrüse" },
         { "hr": "dušnik", "de": "die Luftröhre" },
-        { "hr": "pluća", "de": "die Lunge" }
+        { "hr": "pluća", "de": "die Lunge" },
+        {"hr":"srce","de":"das Herz"},
+        {"hr":"želudac","de":"der Magen"},
+        {"hr":"slezena","de":"die Milz"}
     ]
 ]
