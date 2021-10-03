@@ -1,165 +1,686 @@
 [
     [
-        { "hr": "prsa | dojka", "de": "die Brust" },
-        { "hr": "kuk", "de": "die Hüfte" },
-        { "hr": "spolni organi", "de": "die Geschlechtsteile" },
-        { "hr": "goljenica", "de": "das Schienbein" },
-        { "hr": "stopalo", "de": "der Fuß" },
-        { "hr": "prepona", "de": "die Leiste" },
-        { "hr": "koljeno", "de": "das Knie" },
-        { "hr": "bedro", "de": "der Oberschenkel" },
-        { "hr": "podlaktica", "de": "der Unterarm" },
-        { "hr": "pupak", "de": "der Nabel" },
-        { "hr": "struk", "de": "die Taille" },
-        { "hr": "bradavica", "de": "die Brustwarze" },
-        { "hr": "šija", "de": "der Nacken" },
-        { "hr": "lakat", "de": "der Ellbogen" },
-        { "hr": "zapešće", "de": "das Handgelenk" },
-        { "hr": "šaka", "de": "die Hand" },
-        { "hr": "gležanj", "de": "der Knöchel" },
-        { "hr": "peta", "de": "die Ferse" },
-        { "hr": "list", "de": "die Wade" },
-        { "hr": "stražnjica", "de": "das Gesäß" },
-        { "hr": "pazuho", "de": "die Achselhöhle" }
+        {
+            "hr": "prsa | dojka",
+            "de": "die Brust"
+        },
+        {
+            "hr": "kuk",
+            "de": "die Hüfte"
+        },
+        {
+            "hr": "spolni organi",
+            "de": "die Geschlechtsteile"
+        },
+        {
+            "hr": "goljenica",
+            "de": "das Schienbein"
+        },
+        {
+            "hr": "stopalo",
+            "de": "der Fuß"
+        },
+        {
+            "hr": "prepona",
+            "de": "die Leiste"
+        },
+        {
+            "hr": "koljeno",
+            "de": "das Knie"
+        },
+        {
+            "hr": "bedro",
+            "de": "der Oberschenkel"
+        },
+        {
+            "hr": "podlaktica",
+            "de": "der Unterarm"
+        },
+        {
+            "hr": "pupak",
+            "de": "der Nabel"
+        },
+        {
+            "hr": "struk",
+            "de": "die Taille"
+        },
+        {
+            "hr": "bradavica",
+            "de": "die Brustwarze"
+        },
+        {
+            "hr": "šija",
+            "de": "der Nacken"
+        },
+        {
+            "hr": "lakat",
+            "de": "der Ellbogen"
+        },
+        {
+            "hr": "zapešće",
+            "de": "das Handgelenk"
+        },
+        {
+            "hr": "šaka",
+            "de": "die Hand"
+        },
+        {
+            "hr": "gležanj",
+            "de": "der Knöchel"
+        },
+        {
+            "hr": "peta",
+            "de": "die Ferse"
+        },
+        {
+            "hr": "list",
+            "de": "die Wade"
+        },
+        {
+            "hr": "stražnjica",
+            "de": "das Gesäß"
+        },
+        {
+            "hr": "pazuho",
+            "de": "die Achselhöhle"
+        }
     ],
     [
-        { "de": "die Augenbraue", "hr": "obrva" },
-        { "de": "die Wimper", "hr": "trepavica" },
-        { "de": "das Muttermal", "hr": "madež" },
-        { "de": "das Kinn", "hr": "brada" },
-        { "de": "die Stirn", "hr": "čelo" },
-        { "de": "die Schläfe", "hr": "sljepoočnica" },
-        { "de": "die Wange", "hr": "obraz" },
-        { "de": "das Nasenloch", "hr": "nosnica" },
-        { "de": "der Unterkiefer", "hr": "vilica" },
-        { "de": "die Falte", "hr": "bora" },
-        { "de": "die Sommersprosse", "hr": "pjega" },
-        { "de": "die Pore", "hr": "pora" },
-        { "de": "das Grübchen", "hr": "jamica" },
-        { "de": "die Hand", "hr": "šaka" },
-        { "de": "der Ringfinger", "hr": "prstenjak" },
-        { "de": "der kleiner Finger", "hr": "mali prst" },
-        { "de": "das Handgelenk", "hr": "zapešće" },
-        { "de": "der Mittelfinger", "hr": "srednji prst" },
-        { "de": "der Zeigefinger", "hr": "kažiprst" },
-        { "de": "die Handfläche", "hr": "dlan" },
-        { "de": "der Daumen", "hr": "palac" },
-        { "de": "der Fingernagel", "hr": "nokat na ruci" },
-        { "de": "die Nagelhaut", "hr": "kožica" },
-        { "de": "der Handknöchel", "hr": "zglob prsta" },
-        { "de": "der Fuß", "hr": "stopalo" },
-        { "de": "der Zeh", "hr": "nožni prst" },
-        { "de": "die Fußsohle", "hr": "taban" },
-        { "de": "der Spann", "hr": "luk" },
-        { "de": "das Gewölbe", "hr": "svod" },
-        { "de": "die Ferse", "hr": "peta" },
-        { "de": "der Fußrücken", "hr": "most" },
-        { "de": "der große Zeh", "hr": "nožni palac" },
-        { "de": "der Zehennagel", "hr": "nožni nokat" },
-        { "de": "der kleine Zeh", "hr": "mali nožni prst" },
-        { "de": "der Knöchel", "hr": "gležanj" }
+        {
+            "de": "die Augenbraue",
+            "hr": "obrva"
+        },
+        {
+            "de": "die Wimper",
+            "hr": "trepavica"
+        },
+        {
+            "de": "das Muttermal",
+            "hr": "madež"
+        },
+        {
+            "de": "das Kinn",
+            "hr": "brada"
+        },
+        {
+            "de": "die Stirn",
+            "hr": "čelo"
+        },
+        {
+            "de": "die Schläfe",
+            "hr": "sljepoočnica"
+        },
+        {
+            "de": "die Wange",
+            "hr": "obraz"
+        },
+        {
+            "de": "das Nasenloch",
+            "hr": "nosnica"
+        },
+        {
+            "de": "der Unterkiefer",
+            "hr": "vilica"
+        },
+        {
+            "de": "die Falte",
+            "hr": "bora"
+        },
+        {
+            "de": "die Sommersprosse",
+            "hr": "pjega"
+        },
+        {
+            "de": "die Pore",
+            "hr": "pora"
+        },
+        {
+            "de": "das Grübchen",
+            "hr": "jamica"
+        },
+        {
+            "de": "die Hand",
+            "hr": "šaka"
+        },
+        {
+            "de": "der Ringfinger",
+            "hr": "prstenjak"
+        },
+        {
+            "de": "der kleiner Finger",
+            "hr": "mali prst"
+        },
+        {
+            "de": "das Handgelenk",
+            "hr": "zapešće"
+        },
+        {
+            "de": "der Mittelfinger",
+            "hr": "srednji prst"
+        },
+        {
+            "de": "der Zeigefinger",
+            "hr": "kažiprst"
+        },
+        {
+            "de": "die Handfläche",
+            "hr": "dlan"
+        },
+        {
+            "de": "der Daumen",
+            "hr": "palac"
+        },
+        {
+            "de": "der Fingernagel",
+            "hr": "nokat na ruci"
+        },
+        {
+            "de": "die Nagelhaut",
+            "hr": "kožica"
+        },
+        {
+            "de": "der Handknöchel",
+            "hr": "zglob prsta"
+        },
+        {
+            "de": "der Fuß",
+            "hr": "stopalo"
+        },
+        {
+            "de": "der Zeh",
+            "hr": "nožni prst"
+        },
+        {
+            "de": "die Fußsohle",
+            "hr": "taban"
+        },
+        {
+            "de": "der Spann",
+            "hr": "luk"
+        },
+        {
+            "de": "das Gewölbe",
+            "hr": "svod"
+        },
+        {
+            "de": "die Ferse",
+            "hr": "peta"
+        },
+        {
+            "de": "der Fußrücken",
+            "hr": "most"
+        },
+        {
+            "de": "der große Zeh",
+            "hr": "nožni palac"
+        },
+        {
+            "de": "der Zehennagel",
+            "hr": "nožni nokat"
+        },
+        {
+            "de": "der kleine Zeh",
+            "hr": "mali nožni prst"
+        },
+        {
+            "de": "der Knöchel",
+            "hr": "gležanj"
+        }
     ],
     [
-        { "hr": "stražnje svjetlo", "de": "das Rücklicht" },
-        { "hr": "mačje oko", "de": "das Katzenauge" },
-        { "hr": "stalak", "de": "der Ständer" },
-        { "hr": "pomoćni kotači", "de": "die Stützräder" },
-        { "hr": "kočna pločica", "de": "die Bremsscheibe" },
-        { "hr": "kabel", "de": "das Kabel" },
-        { "hr": "lančanik", "de": "das Kettenzahnrad" },
-        { "hr": "košara", "de": "der Korb" },
-        { "hr": "dinamo", "de": "der Dynamo" },
-        { "hr": "probušena guma", "de": "die Reifenpanne" },
-        { "hr": "klipser", "de": "der Rennbügel" },
-        { "hr": "remen za stopala", "de": "der Riemen" },
-        { "hr": "pedalirati", "de": "treten" },
-        { "hr": "kočiti", "de": "bremsen" },
-        { "hr": "voziti", "de": "fahren" },
-        { "hr": "mijenjati brzinu", "de": "schalten" }
+        {
+            "hr": "stražnje svjetlo",
+            "de": "das Rücklicht"
+        },
+        {
+            "hr": "mačje oko",
+            "de": "das Katzenauge"
+        },
+        {
+            "hr": "stalak",
+            "de": "der Ständer"
+        },
+        {
+            "hr": "pomoćni kotači",
+            "de": "die Stützräder"
+        },
+        {
+            "hr": "kočna pločica",
+            "de": "die Bremsscheibe"
+        },
+        {
+            "hr": "kabel",
+            "de": "das Kabel"
+        },
+        {
+            "hr": "lančanik",
+            "de": "das Kettenzahnrad"
+        },
+        {
+            "hr": "košara",
+            "de": "der Korb"
+        },
+        {
+            "hr": "dinamo",
+            "de": "der Dynamo"
+        },
+        {
+            "hr": "probušena guma",
+            "de": "die Reifenpanne"
+        },
+        {
+            "hr": "klipser",
+            "de": "der Rennbügel"
+        },
+        {
+            "hr": "remen za stopala",
+            "de": "der Riemen"
+        },
+        {
+            "hr": "pedalirati",
+            "de": "treten"
+        },
+        {
+            "hr": "kočiti",
+            "de": "bremsen"
+        },
+        {
+            "hr": "voziti",
+            "de": "fahren"
+        },
+        {
+            "hr": "mijenjati brzinu",
+            "de": "schalten"
+        }
     ],
     [
-        { "hr": "bicikl", "de": "das Fahrrad" },
-        { "hr": "sjedalo", "de": "der Sattel" },
-        { "hr": "nosač sjedala", "de": "die Sattelstütze" },
-        { "hr": "okvir", "de": "der Rahmen" },
-        { "hr": "kočnica", "de": "die Bremse" },
-        { "hr": "glavina", "de": "die Nabe" },
-        { "hr": "brzine", "de": "die Gänge" },
-        { "hr": "obruč", "de": "die Felge" },
-        { "hr": "guma", "de": "der Reifen" },
-        { "hr": "lanac", "de": "die Kette" },
-        { "hr": "zupčanik", "de": "das Zahnrad" },
-        { "hr": "pedala", "de": "das Pedal" },
-        { "hr": "ventil", "de": "das Ventil" },
-        { "hr": "profil gume", "de": "das Reifenprofil" },
-        { "hr": "kotač", "de": "das Rad" },
-        { "hr": "žbica", "de": "die Speiche" },
-        { "hr": "vilica", "de": "die Gabel" },
-        { "hr": "poluga kočnice", "de": "der Bremsgriff" },
-        { "hr": "poluga mjenjača", "de": "der Schalthebel" },
-        { "hr": "upravljač", "de": "der Lenker" },
-        { "hr": "gornja cijev okvira", "de": "die Stange" },
-        { "hr": "boca s vodom", "de": "die Wasserflasche" },
-        { "hr": "zračnica", "de": "der Schlauch" },
-        { "hr": "dječje sjedalo", "de": "der Kindersitz" },
-        { "hr": "pumpa", "de": "die Luftpumpe" },
-        { "hr": "ključ", "de": "der Schlüssel" },
-        { "hr": "alat za popravljanje", "de": "der Reparaturkasten" },
-        { "hr": "poluge za skidanje gume", "de": "der Reifenschlüssel" },
-        { "hr": "zakrpa", "de": "der Flicken" },
-        { "hr": "biciklistička staza", "de": "der Fahrradweg" },
-        { "hr": "tandem", "de": "das Tandem" },
-        { "hr": "trkaći bicikl", "de": "das Rennrad" },
-        { "hr": "brdski bicikl", "de": "das Mountainbike" },
-        { "hr": "turistički bicikl", "de": "das Tourenfahrrad" },
-        { "hr": "cestovni bicikl", "de": "das Straßenrad" }
+        {
+            "hr": "bicikl",
+            "de": "das Fahrrad"
+        },
+        {
+            "hr": "sjedalo",
+            "de": "der Sattel"
+        },
+        {
+            "hr": "nosač sjedala",
+            "de": "die Sattelstütze"
+        },
+        {
+            "hr": "okvir",
+            "de": "der Rahmen"
+        },
+        {
+            "hr": "kočnica",
+            "de": "die Bremse"
+        },
+        {
+            "hr": "glavina",
+            "de": "die Nabe"
+        },
+        {
+            "hr": "brzine",
+            "de": "die Gänge"
+        },
+        {
+            "hr": "obruč",
+            "de": "die Felge"
+        },
+        {
+            "hr": "guma",
+            "de": "der Reifen"
+        },
+        {
+            "hr": "lanac",
+            "de": "die Kette"
+        },
+        {
+            "hr": "zupčanik",
+            "de": "das Zahnrad"
+        },
+        {
+            "hr": "pedala",
+            "de": "das Pedal"
+        },
+        {
+            "hr": "ventil",
+            "de": "das Ventil"
+        },
+        {
+            "hr": "profil gume",
+            "de": "das Reifenprofil"
+        },
+        {
+            "hr": "kotač",
+            "de": "das Rad"
+        },
+        {
+            "hr": "žbica",
+            "de": "die Speiche"
+        },
+        {
+            "hr": "vilica",
+            "de": "die Gabel"
+        },
+        {
+            "hr": "poluga kočnice",
+            "de": "der Bremsgriff"
+        },
+        {
+            "hr": "poluga mjenjača",
+            "de": "der Schalthebel"
+        },
+        {
+            "hr": "upravljač",
+            "de": "der Lenker"
+        },
+        {
+            "hr": "gornja cijev okvira",
+            "de": "die Stange"
+        },
+        {
+            "hr": "boca s vodom",
+            "de": "die Wasserflasche"
+        },
+        {
+            "hr": "zračnica",
+            "de": "der Schlauch"
+        },
+        {
+            "hr": "dječje sjedalo",
+            "de": "der Kindersitz"
+        },
+        {
+            "hr": "pumpa",
+            "de": "die Luftpumpe"
+        },
+        {
+            "hr": "ključ",
+            "de": "der Schlüssel"
+        },
+        {
+            "hr": "alat za popravljanje",
+            "de": "der Reparaturkasten"
+        },
+        {
+            "hr": "poluge za skidanje gume",
+            "de": "der Reifenschlüssel"
+        },
+        {
+            "hr": "zakrpa",
+            "de": "der Flicken"
+        },
+        {
+            "hr": "biciklistička staza",
+            "de": "der Fahrradweg"
+        },
+        {
+            "hr": "tandem",
+            "de": "das Tandem"
+        },
+        {
+            "hr": "trkaći bicikl",
+            "de": "das Rennrad"
+        },
+        {
+            "hr": "brdski bicikl",
+            "de": "das Mountainbike"
+        },
+        {
+            "hr": "turistički bicikl",
+            "de": "das Tourenfahrrad"
+        },
+        {
+            "hr": "cestovni bicikl",
+            "de": "das Straßenrad"
+        }
     ],
     [
-        { "hr": "unutarnji organi", "de": "die inneren Organe" },
-        { "hr": "jetra", "de": "die Leber" },
-        { "hr": "dvanaesnik", "de": "der Zwölffingerdarm" },
-        { "hr": "bubreg", "de": "die Niere" },
-        { "hr": "gušterača", "de": "die Bauchspeicheldrüse" },
-        { "hr": "tanko crijevo", "de": "der Dünndarm" },
-        { "hr": "debelo crijevo", "de": "der Dickdarm" },
-        { "hr": "crvuljak", "de": "der Wurmfortsatz" },
-        { "hr": "slijepo crijevo", "de": "der Blinddarm" },
-        { "hr": "štitnjača", "de": "die Schilddrüse" },
-        { "hr": "dušnik", "de": "die Luftröhre" },
-        { "hr": "pluća", "de": "die Lunge" },
-        {"hr":"srce","de":"das Herz"},
-        {"hr":"želudac","de":"der Magen"},
-        {"hr":"slezena","de":"die Milz"}
+        {
+            "hr": "unutarnji organi",
+            "de": "die inneren Organe"
+        },
+        {
+            "hr": "jetra",
+            "de": "die Leber"
+        },
+        {
+            "hr": "dvanaesnik",
+            "de": "der Zwölffingerdarm"
+        },
+        {
+            "hr": "bubreg",
+            "de": "die Niere"
+        },
+        {
+            "hr": "gušterača",
+            "de": "die Bauchspeicheldrüse"
+        },
+        {
+            "hr": "tanko crijevo",
+            "de": "der Dünndarm"
+        },
+        {
+            "hr": "debelo crijevo",
+            "de": "der Dickdarm"
+        },
+        {
+            "hr": "crvuljak",
+            "de": "der Wurmfortsatz"
+        },
+        {
+            "hr": "slijepo crijevo",
+            "de": "der Blinddarm"
+        },
+        {
+            "hr": "štitnjača",
+            "de": "die Schilddrüse"
+        },
+        {
+            "hr": "dušnik",
+            "de": "die Luftröhre"
+        },
+        {
+            "hr": "pluća",
+            "de": "die Lunge"
+        },
+        {
+            "hr": "srce",
+            "de": "das Herz"
+        },
+        {
+            "hr": "želudac",
+            "de": "der Magen"
+        },
+        {
+            "hr": "slezena",
+            "de": "die Milz"
+        }
     ],
     [
-        {"hr":"sinus","de":"die Nebenhöhle"},
-        {"hr":"nepce","de":"der Gaumen"},
-        {"hr":"jezik","de":"die Zunge"},
-        {"hr":"grkljan","de":"der Kehlkopf"},
-        {"hr":"Adamova jabučica","de":"der Adamsapfel"},
-        {"hr":"glasnice","de":"die Stimmbänder"},
-        {"hr":"mozak","de":"das Gehirn"},
-        {"hr":"ždrijelo","de":"der Rachen"},
-        {"hr":"grkljanski poklopac","de":"der Kehldeckel"},
-        {"hr":"jednjak","de":"die Speiseröhre"},
-        {"hr":"grlo","de":"die Kehle"}
+        {
+            "hr": "sinus",
+            "de": "die Nebenhöhle"
+        },
+        {
+            "hr": "nepce",
+            "de": "der Gaumen"
+        },
+        {
+            "hr": "jezik",
+            "de": "die Zunge"
+        },
+        {
+            "hr": "grkljan",
+            "de": "der Kehlkopf"
+        },
+        {
+            "hr": "Adamova jabučica",
+            "de": "der Adamsapfel"
+        },
+        {
+            "hr": "glasnice",
+            "de": "die Stimmbänder"
+        },
+        {
+            "hr": "mozak",
+            "de": "das Gehirn"
+        },
+        {
+            "hr": "ždrijelo",
+            "de": "der Rachen"
+        },
+        {
+            "hr": "grkljanski poklopac",
+            "de": "der Kehldeckel"
+        },
+        {
+            "hr": "jednjak",
+            "de": "die Speiseröhre"
+        },
+        {
+            "hr": "grlo",
+            "de": "die Kehle"
+        }
     ],
     [
-        { "hr": "tjelesni sustavi", "de": "die Körpersysteme" },
-        { "hr": "dišni", "de": "das Atmungssystem" },
-        { "hr": "probavni", "de": "das Verdauungssystem" },
-        { "hr": "krvožilni", "de": "das Herz- und Gefäßsystem" },
-        { "hr": "limfni", "de": "das lymphatische System" },
-        { "hr": "mokraćni", "de": "das Harnsystem" },
-        { "hr": "endokrini", "de": "das endokrine System" },
-        { "hr": "živčani", "de": "das Nervensystem" },
-        { "hr": "spolni", "de": "das Fortpflanzungssystem" },
-        { "hr": "ošit", "de": "das Zwerchfell" },
-        { "hr": "vena", "de": "die Vene" },
-        { "hr": "arterija", "de": "die Arterie" },
-        { "hr": "žlijezda", "de": "die Drüse" },
-        { "hr": "živac", "de": "der Nerv" }
+        {
+            "hr": "tjelesni sustavi",
+            "de": "die Körpersysteme"
+        },
+        {
+            "hr": "dišni",
+            "de": "das Atmungssystem"
+        },
+        {
+            "hr": "probavni",
+            "de": "das Verdauungssystem"
+        },
+        {
+            "hr": "krvožilni",
+            "de": "das Herz- und Gefäßsystem"
+        },
+        {
+            "hr": "limfni",
+            "de": "das lymphatische System"
+        },
+        {
+            "hr": "mokraćni",
+            "de": "das Harnsystem"
+        },
+        {
+            "hr": "endokrini",
+            "de": "das endokrine System"
+        },
+        {
+            "hr": "živčani",
+            "de": "das Nervensystem"
+        },
+        {
+            "hr": "spolni",
+            "de": "das Fortpflanzungssystem"
+        },
+        {
+            "hr": "ošit",
+            "de": "das Zwerchfell"
+        },
+        {
+            "hr": "vena",
+            "de": "die Vene"
+        },
+        {
+            "hr": "arterija",
+            "de": "die Arterie"
+        },
+        {
+            "hr": "žlijezda",
+            "de": "die Drüse"
+        },
+        {
+            "hr": "živac",
+            "de": "der Nerv"
+        }
     ],
-    
- [{"hr":"jednak","de":"gleich"},{"hr":"podijeljen","de":"geteilt"},{"hr":"puta","de":"mal"},{"hr":"minus","de":"minus"},{"hr":"plus","de":"plus"},{"hr":"šestar","de":"der Zirkel"},{"hr":"duljina","de":"die Länge"},{"hr":"širina","de":"die Breite"},{"hr":"površina","de":"die Fläche"},{"hr":"dubina","de":"die Tiefe"},{"hr":"visina","de":"die Höhe"},{"hr":"dimenzija","de":"die Abmessung"},{"hr":"horizontalan","de":"waagerecht"},{"hr":"kriv","de":"krumm"},{"hr":"vertikalan","de":"senkrecht"},{"hr":"kut","de":"der Winkel"},{"hr":"trokut","de":"das Dreieck"},{"hr":"pravokutnik","de":"das Rechteck"},{"hr":"oblik","de":"die Form"},{"hr":"crta","de":"die Linie"}]
+    [
+        {
+            "hr": "jednak",
+            "de": "gleich"
+        },
+        {
+            "hr": "podijeljen",
+            "de": "geteilt"
+        },
+        {
+            "hr": "puta",
+            "de": "mal"
+        },
+        {
+            "hr": "minus",
+            "de": "minus"
+        },
+        {
+            "hr": "plus",
+            "de": "plus"
+        },
+        {
+            "hr": "šestar",
+            "de": "der Zirkel"
+        },
+        {
+            "hr": "duljina",
+            "de": "die Länge"
+        },
+        {
+            "hr": "širina",
+            "de": "die Breite"
+        },
+        {
+            "hr": "površina",
+            "de": "die Fläche"
+        },
+        {
+            "hr": "dubina",
+            "de": "die Tiefe"
+        },
+        {
+            "hr": "visina",
+            "de": "die Höhe"
+        },
+        {
+            "hr": "dimenzija",
+            "de": "die Abmessung"
+        },
+        {
+            "hr": "horizontalan",
+            "de": "waagerecht"
+        },
+        {
+            "hr": "kriv",
+            "de": "krumm"
+        },
+        {
+            "hr": "vertikalan",
+            "de": "senkrecht"
+        },
+        {
+            "hr": "kut",
+            "de": "der Winkel"
+        },
+        {
+            "hr": "trokut",
+            "de": "das Dreieck"
+        },
+        {
+            "hr": "pravokutnik",
+            "de": "das Rechteck"
+        },
+        {
+            "hr": "oblik",
+            "de": "die Form"
+        },
+        {
+            "hr": "crta",
+            "de": "die Linie"
+        }
+    ]
 ]
