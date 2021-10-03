@@ -1,5 +1,27 @@
 [
     [
+        { "hr": "jednak", "de": "gleich" },
+        { "hr": "podijeljen", "de": "geteilt" },
+        { "hr": "puta", "de": "mal" },
+        { "hr": "minus", "de": "minus" },
+        { "hr": "plus", "de": "plus" },
+        { "hr": "šestar", "de": "der Zirkel" },
+        { "hr": "duljina", "de": "die Länge" },
+        { "hr": "širina", "de": "die Breite" },
+        { "hr": "površina", "de": "die Fläche" },
+        { "hr": "dubina", "de": "die Tiefe" },
+        { "hr": "visina", "de": "die Höhe" },
+        { "hr": "dimenzija", "de": "die Abmessung" },
+        { "hr": "horizontalan", "de": "waagerecht" },
+        { "hr": "kriv", "de": "krumm" },
+        { "hr": "vertikalan", "de": "senkrecht" },
+        { "hr": "kut", "de": "der Winkel" },
+        { "hr": "trokut", "de": "das Dreieck" },
+        { "hr": "pravokutnik", "de": "das Rechteck" },
+        { "hr": "oblik", "de": "die Form" },
+        { "hr": "crta", "de": "die Linie" }
+    ],
+    [
         { "hr": "prsa | dojka", "de": "die Brust" },
         { "hr": "kuk", "de": "die Hüfte" },
         { "hr": "spolni organi", "de": "die Geschlechtsteile" },
@@ -159,27 +181,5 @@
         { "hr": "arterija", "de": "die Arterie" },
         { "hr": "žlijezda", "de": "die Drüse" },
         { "hr": "živac", "de": "der Nerv" }
-    ],
-    [
-        { "hr": "jednak", "de": "gleich" },
-        { "hr": "podijeljen", "de": "geteilt" },
-        { "hr": "puta", "de": "mal" },
-        { "hr": "minus", "de": "minus" },
-        { "hr": "plus", "de": "plus" },
-        { "hr": "šestar", "de": "der Zirkel" },
-        { "hr": "duljina", "de": "die Länge" },
-        { "hr": "širina", "de": "die Breite" },
-        { "hr": "površina", "de": "die Fläche" },
-        { "hr": "dubina", "de": "die Tiefe" },
-        { "hr": "visina", "de": "die Höhe" },
-        { "hr": "dimenzija", "de": "die Abmessung" },
-        { "hr": "horizontalan", "de": "waagerecht" },
-        { "hr": "kriv", "de": "krumm" },
-        { "hr": "vertikalan", "de": "senkrecht" },
-        { "hr": "kut", "de": "der Winkel" },
-        { "hr": "trokut", "de": "das Dreieck" },
-        { "hr": "pravokutnik", "de": "das Rechteck" },
-        { "hr": "oblik", "de": "die Form" },
-        { "hr": "crta", "de": "die Linie" }
     ]
 ]
