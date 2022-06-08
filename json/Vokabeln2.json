@@ -1,0 +1,618 @@
+[
+    {
+        "pic_url": "images/24/vokabeln_images/m1114240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1052.mp3",
+        "de_word": "danke",
+        "hr_word": "hvala",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1097240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1053.mp3",
+        "de_word": "bitte",
+        "hr_word": "molim",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2077240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1049.mp3",
+        "de_word": "guten Morgen",
+        "hr_word": "dobro jutro",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2075240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1050.mp3",
+        "de_word": "guten Abend",
+        "hr_word": "dobra ve\u010der",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2264240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1118.mp3",
+        "de_word": "oben",
+        "hr_word": "gore",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2450240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1119.mp3",
+        "de_word": "unten",
+        "hr_word": "dolje",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1045240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1051.mp3",
+        "de_word": "auf Wiedersehen",
+        "hr_word": "dovi\u0111enja",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2334240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1120.mp3",
+        "de_word": "sch\u00f6n",
+        "hr_word": "lijepo",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2069240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1114.mp3",
+        "de_word": "gut",
+        "hr_word": "dobro",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2322240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1115.mp3",
+        "de_word": "schlecht",
+        "hr_word": "lo\u0161e",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1174240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1105.mp3",
+        "de_word": "das Fr\u00fchst\u00fcck",
+        "hr_word": "doru\u010dak",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2066240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1110.mp3",
+        "de_word": "gro\u00df",
+        "hr_word": "veliko",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2067240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1111.mp3",
+        "de_word": "gr\u00f6\u00dfer",
+        "hr_word": "ve\u0107e",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2164240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1112.mp3",
+        "de_word": "klein",
+        "hr_word": "malo",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2166240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1113.mp3",
+        "de_word": "kleiner",
+        "hr_word": "manje",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2051240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1054.mp3",
+        "de_word": "gerne",
+        "hr_word": "rado",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2133240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1055.mp3",
+        "de_word": "in Ordnung",
+        "hr_word": "u redu",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2353240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1056.mp3",
+        "de_word": "selbstverst\u00e4ndlich",
+        "hr_word": "naravno",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1902240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1058.mp3",
+        "de_word": "die Zeit",
+        "hr_word": "vrijeme",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1869240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1059.mp3",
+        "de_word": "die Uhr",
+        "hr_word": "sat",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1842240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1060.mp3",
+        "de_word": "die Stunde",
+        "hr_word": "sat",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1755240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1061.mp3",
+        "de_word": "die Minute",
+        "hr_word": "minuta",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1818240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1062.mp3",
+        "de_word": "die Sekunde",
+        "hr_word": "sekunda",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1945240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1063.mp3",
+        "de_word": "ein Uhr",
+        "hr_word": "jedan sat",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2556240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1064.mp3",
+        "de_word": "zwei Uhr",
+        "hr_word": "dva sata",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2534240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1065.mp3",
+        "de_word": "zehn nach f\u00fcnf",
+        "hr_word": "pet i deset",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2478240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1066.mp3",
+        "de_word": "Viertel nach vier",
+        "hr_word": "\u010detiri i petnaest",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2079240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1068.mp3",
+        "de_word": "halb sieben",
+        "hr_word": "pola sedam",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2080240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1069.mp3",
+        "de_word": "halb zw\u00f6lf",
+        "hr_word": "pola dvanaest",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1947240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1070.mp3",
+        "de_word": "eine halbe Stunde",
+        "hr_word": "pola sata",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2022240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1072.mp3",
+        "de_word": "f\u00fcnf vor zehn",
+        "hr_word": "pet do deset",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2410240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1073.mp3",
+        "de_word": "suchen",
+        "hr_word": "tra\u017eiti",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2302240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1074.mp3",
+        "de_word": "reservieren",
+        "hr_word": "rezervirati",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1058240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1075.mp3",
+        "de_word": "ausgestattet sein mit",
+        "hr_word": "biti opremljeno s, sa, imati",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2175240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1076.mp3",
+        "de_word": "k\u00f6nnen",
+        "hr_word": "mo\u0107i",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2251240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1077.mp3",
+        "de_word": "nicht k\u00f6nnen",
+        "hr_word": "ne mo\u0107i",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2359240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1078.mp3",
+        "de_word": "sich bedanken",
+        "hr_word": "zahvaliti se",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2312240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1079.mp3",
+        "de_word": "sagen",
+        "hr_word": "re\u0107i",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1990240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1080.mp3",
+        "de_word": "etwas nehmen",
+        "hr_word": "ne\u0161to uzeti",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1297240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1081.mp3",
+        "de_word": "das Zelt",
+        "hr_word": "\u0161ator",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2537240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1082.mp3",
+        "de_word": "zelten",
+        "hr_word": "kampirati",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1351240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1083.mp3",
+        "de_word": "der Campingplatz",
+        "hr_word": "mjesto za kampiranje, kamp",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1613240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1084.mp3",
+        "de_word": "die Anmeldung",
+        "hr_word": "prijava",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1769240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1085.mp3",
+        "de_word": "die Nebensaison",
+        "hr_word": "sporedna sezona",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1698240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1086.mp3",
+        "de_word": "die Hauptsaison",
+        "hr_word": "glavna sezona",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1781240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1087.mp3",
+        "de_word": "die Pension",
+        "hr_word": "pansion",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1199240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1088.mp3",
+        "de_word": "das Hotel",
+        "hr_word": "hotel",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1797240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1089.mp3",
+        "de_word": "die Reservierung",
+        "hr_word": "rezervacija",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1798240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1090.mp3",
+        "de_word": "die Rezeption",
+        "hr_word": "recepcija",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1692240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1091.mp3",
+        "de_word": "die Halbpension",
+        "hr_word": "polupansion",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1880240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1092.mp3",
+        "de_word": "die Vollpension",
+        "hr_word": "puni pansion",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1298240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1093.mp3",
+        "de_word": "das Zimmer",
+        "hr_word": "soba",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1154240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1094.mp3",
+        "de_word": "das Einzelzimmer",
+        "hr_word": "jednokrevetna soba",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1150240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1095.mp3",
+        "de_word": "das Doppelzimmer",
+        "hr_word": "dvokrevetna soba",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2218240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1096.mp3",
+        "de_word": "mit",
+        "hr_word": "s, sa",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2268240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1097.mp3",
+        "de_word": "ohne",
+        "hr_word": "bez",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1129240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1098.mp3",
+        "de_word": "das Badezimmer",
+        "hr_word": "kupaonica",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1379240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1099.mp3",
+        "de_word": "der Fernseher",
+        "hr_word": "televizor",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1380240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1100.mp3",
+        "de_word": "der Fernsehsender",
+        "hr_word": "TV program, postaja",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1101.mp3",
+        "de_word": "der Kanal",
+        "hr_word": "kanal",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1261240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1102.mp3",
+        "de_word": "das Satellitenfernsehen",
+        "hr_word": "satelitska televizija",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1252240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1103.mp3",
+        "de_word": "das Radio",
+        "hr_word": "radio",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1136240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1104.mp3",
+        "de_word": "das Bett",
+        "hr_word": "krevet",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2485240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1106.mp3",
+        "de_word": "vollkommen ausgebucht",
+        "hr_word": "u potpunosti zauzeti",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1983240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1107.mp3",
+        "de_word": "es gibt",
+        "hr_word": "ima, postoji",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2529240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1108.mp3",
+        "de_word": "wunderbar",
+        "hr_word": "odli\u010dno, divno, krasno",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2442240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1109.mp3",
+        "de_word": "ungef\u00e4hr",
+        "hr_word": "otprilike",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2092240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1116.mp3",
+        "de_word": "hell",
+        "hr_word": "svijetlo",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1928240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1117.mp3",
+        "de_word": "dunkel",
+        "hr_word": "tamno",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1516240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1121.mp3",
+        "de_word": "der Schl\u00fcssel",
+        "hr_word": "klju\u010d",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1646240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1122.mp3",
+        "de_word": "die Dame",
+        "hr_word": "gospo\u0111a, dama",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m1547240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1123.mp3",
+        "de_word": "der Tag",
+        "hr_word": "dan",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2265240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1124.mp3",
+        "de_word": "oder",
+        "hr_word": "ili",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1125.mp3",
+        "de_word": "aber",
+        "hr_word": "ali",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2097240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1126.mp3",
+        "de_word": "hier",
+        "hr_word": "ovdje",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1127.mp3",
+        "de_word": "sogar",
+        "hr_word": "\u010dak",
+        "category": "Vokabeln2"
+    },
+    {
+        "pic_url": "images/24/vokabeln_images/m2142240.jpg",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/vokabeln_hr_audio/1128.mp3",
+        "de_word": "jeder, jede, jedes",
+        "hr_word": "svaki, svaka, svako",
+        "category": "Vokabeln2"
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "pic_url": "images/50/1541.jpg",
+        "de_audio_url": "audio/50/de_audio/0330.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0330.mp3",
+        "de_word": "der Wecker",
+        "hr_word": "budilica",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0016.jpg",
+        "de_audio_url": "audio/50/de_audio/0331.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0331.mp3",
+        "de_word": "das Altertum",
+        "hr_word": "drevna povijest",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0035.jpg",
+        "de_audio_url": "audio/50/de_audio/0332.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0332.mp3",
+        "de_word": "die Antiquit\u00e4t",
+        "hr_word": "antikvitet",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1412.jpg",
+        "de_audio_url": "audio/50/de_audio/0333.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0333.mp3",
+        "de_word": "der Terminkalender",
+        "hr_word": "rokovnik",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0543.jpg",
+        "de_audio_url": "audio/50/de_audio/0334.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0334.mp3",
+        "de_word": "der Herbst",
+        "hr_word": "jesen",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1072.jpg",
+        "de_audio_url": "audio/50/de_audio/0335.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0335.mp3",
+        "de_word": "die Rast",
+        "hr_word": "odmor",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0623.jpg",
+        "de_audio_url": "audio/50/de_audio/0336.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0336.mp3",
+        "de_word": "der Kalender",
+        "hr_word": "kalendar",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0599.jpg",
+        "de_audio_url": "audio/50/de_audio/0337.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0337.mp3",
+        "de_word": "das Jahrhundert",
+        "hr_word": "stolje\u0107e",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1469.jpg",
+        "de_audio_url": "audio/50/de_audio/0338.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0338.mp3",
+        "de_word": "die Uhr",
+        "hr_word": "sat",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0616.jpg",
+        "de_audio_url": "audio/50/de_audio/0339.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0339.mp3",
+        "de_word": "die Kaffeepause",
+        "hr_word": "stanka za kavu",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1703.jpg",
+        "de_audio_url": "audio/50/de_audio/0340.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0340.mp3",
+        "de_word": "das Datum",
+        "hr_word": "datum",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0232.jpg",
+        "de_audio_url": "audio/50/de_audio/0341.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0341.mp3",
+        "de_word": "die Digitaluhr",
+        "hr_word": "digitalni sat",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1290.jpg",
+        "de_audio_url": "audio/50/de_audio/0342.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0342.mp3",
+        "de_word": "die Sonnenfinsternis",
+        "hr_word": "pomr\u010dina sunca",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1781.jpg",
+        "de_audio_url": "audio/50/de_audio/0343.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0343.mp3",
+        "de_word": "das Ende",
+        "hr_word": "kraj",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1627.jpg",
+        "de_audio_url": "audio/50/de_audio/0344.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0344.mp3",
+        "de_word": "die Zukunft",
+        "hr_word": "budu\u0107nost",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1937.jpg",
+        "de_audio_url": "audio/50/de_audio/0345.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0345.mp3",
+        "de_word": "die Geschichte",
+        "hr_word": "povijest",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1140.jpg",
+        "de_audio_url": "audio/50/de_audio/0346.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0346.mp3",
+        "de_word": "die Sanduhr",
+        "hr_word": "pje\u0161\u010dani sat",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0876.jpg",
+        "de_audio_url": "audio/50/de_audio/0347.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0347.mp3",
+        "de_word": "das Mittelalter",
+        "hr_word": "srednji vijek",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1704.jpg",
+        "de_audio_url": "audio/50/de_audio/0348.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0348.mp3",
+        "de_word": "der Monat",
+        "hr_word": "mjesec",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0886.jpg",
+        "de_audio_url": "audio/50/de_audio/0349.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0349.mp3",
+        "de_word": "der Morgen",
+        "hr_word": "jutro",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1488.jpg",
+        "de_audio_url": "audio/50/de_audio/0350.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0350.mp3",
+        "de_word": "die Vergangenheit",
+        "hr_word": "pro\u0161lost",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1386.jpg",
+        "de_audio_url": "audio/50/de_audio/0351.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0351.mp3",
+        "de_word": "die Taschenuhr",
+        "hr_word": "d\u017eepni sat",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1714.jpg",
+        "de_audio_url": "audio/50/de_audio/0352.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0352.mp3",
+        "de_word": "die P\u00fcnktlichkeit",
+        "hr_word": "to\u010dnost",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0264.jpg",
+        "de_audio_url": "audio/50/de_audio/0353.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0353.mp3",
+        "de_word": "die Eile",
+        "hr_word": "\u017eurba",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1705.jpg",
+        "de_audio_url": "audio/50/de_audio/0354.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0354.mp3",
+        "de_word": "die Jahreszeiten",
+        "hr_word": "godi\u0161nja doba",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/0391.jpg",
+        "de_audio_url": "audio/50/de_audio/0355.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0355.mp3",
+        "de_word": "der Fr\u00fchling",
+        "hr_word": "prolje\u0107e",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1293.jpg",
+        "de_audio_url": "audio/50/de_audio/0356.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0356.mp3",
+        "de_word": "die Sonnenuhr",
+        "hr_word": "sun\u010dani sat",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1285.jpg",
+        "de_audio_url": "audio/50/de_audio/0357.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0357.mp3",
+        "de_word": "der Sonnenaufgang",
+        "hr_word": "izlazak sunca",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1294.jpg",
+        "de_audio_url": "audio/50/de_audio/0358.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0358.mp3",
+        "de_word": "der Sonnenuntergang",
+        "hr_word": "zalazak sunca",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1605.jpg",
+        "de_audio_url": "audio/50/de_audio/0359.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0359.mp3",
+        "de_word": "die Zeit",
+        "hr_word": "vrijeme",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1470.jpg",
+        "de_audio_url": "audio/50/de_audio/0360.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0360.mp3",
+        "de_word": "die Uhrzeit",
+        "hr_word": "to\u010dno vrijeme",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1715.jpg",
+        "de_audio_url": "audio/50/de_audio/0361.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0361.mp3",
+        "de_word": "die Wartezeit",
+        "hr_word": "vrijeme \u010dekanja",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1769.jpg",
+        "de_audio_url": "audio/50/de_audio/0362.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0362.mp3",
+        "de_word": "das Wochenende",
+        "hr_word": "vikend",
+        "category": "Zeit"
+    },
+    {
+        "pic_url": "images/50/1848.jpg",
+        "de_audio_url": "audio/50/de_audio/0363.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0363.mp3",
+        "de_word": "das Jahr",
+        "hr_word": "godina",
+        "category": "Zeit"
+    }
+]

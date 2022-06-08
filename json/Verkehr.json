@@ -1,0 +1,738 @@
+[
+    {
+        "pic_url": "images/50/1471.jpg",
+        "de_audio_url": "audio/50/de_audio/0477.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0477.mp3",
+        "de_word": "der Unfall",
+        "hr_word": "prometna nesre\u0107a",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1201.jpg",
+        "de_audio_url": "audio/50/de_audio/0478.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0478.mp3",
+        "de_word": "die Schranke",
+        "hr_word": "rampa, brklja",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0312.jpg",
+        "de_audio_url": "audio/50/de_audio/0479.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0479.mp3",
+        "de_word": "das Fahrrad",
+        "hr_word": "bicikl",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1819.jpg",
+        "de_audio_url": "audio/50/de_audio/0480.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0480.mp3",
+        "de_word": "das Boot",
+        "hr_word": "brodi\u0107",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0182.jpg",
+        "de_audio_url": "audio/50/de_audio/0481.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0481.mp3",
+        "de_word": "der Bus",
+        "hr_word": "autobus",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0798.jpg",
+        "de_audio_url": "audio/50/de_audio/0482.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0482.mp3",
+        "de_word": "die Bergbahn",
+        "hr_word": "\u017ei\u010dara",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1979.jpg",
+        "de_audio_url": "audio/50/de_audio/0483.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0483.mp3",
+        "de_word": "das Auto",
+        "hr_word": "automobil",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0197.jpg",
+        "de_audio_url": "audio/50/de_audio/0484.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0484.mp3",
+        "de_word": "der Campingwagen",
+        "hr_word": "karavan",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0749.jpg",
+        "de_audio_url": "audio/50/de_audio/0485.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0485.mp3",
+        "de_word": "die Kutsche",
+        "hr_word": "ko\u010dije",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1716.jpg",
+        "de_audio_url": "audio/50/de_audio/0486.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0486.mp3",
+        "de_word": "die \u00dcberf\u00fcllung",
+        "hr_word": "pretrpanost",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1717.jpg",
+        "de_audio_url": "audio/50/de_audio/0487.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0487.mp3",
+        "de_word": "die Landstra\u00dfe",
+        "hr_word": "cesta",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0728.jpg",
+        "de_audio_url": "audio/50/de_audio/0488.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0488.mp3",
+        "de_word": "das Kreuzfahrtschiff",
+        "hr_word": "putni\u010dki brod",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0747.jpg",
+        "de_audio_url": "audio/50/de_audio/0489.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0489.mp3",
+        "de_word": "die Kurve",
+        "hr_word": "zavoj",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1943.jpg",
+        "de_audio_url": "audio/50/de_audio/0490.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0490.mp3",
+        "de_word": "die Sackgasse",
+        "hr_word": "slijepa ulica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1713.jpg",
+        "de_audio_url": "audio/50/de_audio/0491.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0491.mp3",
+        "de_word": "der Abflug",
+        "hr_word": "odlazak",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1883.jpg",
+        "de_audio_url": "audio/50/de_audio/0492.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0492.mp3",
+        "de_word": "die Notbremse",
+        "hr_word": "ko\u010dnica u slu\u010daju nu\u017ede",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0267.jpg",
+        "de_audio_url": "audio/50/de_audio/0493.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0493.mp3",
+        "de_word": "die Einfahrt",
+        "hr_word": "ulaz",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1941.jpg",
+        "de_audio_url": "audio/50/de_audio/0494.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0494.mp3",
+        "de_word": "die Rolltreppe",
+        "hr_word": "pokretne stepenice",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/2137.jpg",
+        "de_audio_url": "audio/50/de_audio/0495.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0495.mp3",
+        "de_word": "das \u00dcbergep\u00e4ck",
+        "hr_word": "vi\u0161ak prtljage",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1976.jpg",
+        "de_audio_url": "audio/50/de_audio/0496.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0496.mp3",
+        "de_word": "die Ausfahrt",
+        "hr_word": "izlaz",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0402.jpg",
+        "de_audio_url": "audio/50/de_audio/0497.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0497.mp3",
+        "de_word": "die F\u00e4hre",
+        "hr_word": "trajekt",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0347.jpg",
+        "de_audio_url": "audio/50/de_audio/0498.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0498.mp3",
+        "de_word": "das Feuerwehrauto",
+        "hr_word": "vatrogasna kola",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0367.jpg",
+        "de_audio_url": "audio/50/de_audio/0499.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0499.mp3",
+        "de_word": "der Flug",
+        "hr_word": "let",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/2043.jpg",
+        "de_audio_url": "audio/50/de_audio/0500.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0500.mp3",
+        "de_word": "der Waggon",
+        "hr_word": "teretni vagon",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1822.jpg",
+        "de_audio_url": "audio/50/de_audio/0501.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0501.mp3",
+        "de_word": "das Benzin",
+        "hr_word": "benzin",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1803.jpg",
+        "de_audio_url": "audio/50/de_audio/0502.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0502.mp3",
+        "de_word": "die Handbremse",
+        "hr_word": "ru\u010dna ko\u010dnica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0566.jpg",
+        "de_audio_url": "audio/50/de_audio/0503.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0503.mp3",
+        "de_word": "der Hubschrauber",
+        "hr_word": "helikopter",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0064.jpg",
+        "de_audio_url": "audio/50/de_audio/0504.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0504.mp3",
+        "de_word": "die Autobahn",
+        "hr_word": "autocesta",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0523.jpg",
+        "de_audio_url": "audio/50/de_audio/0505.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0505.mp3",
+        "de_word": "das Hausboot",
+        "hr_word": "ku\u0107ica na splavu",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0215.jpg",
+        "de_audio_url": "audio/50/de_audio/0506.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0506.mp3",
+        "de_word": "das Damenrad",
+        "hr_word": "\u017eenski bicikl",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0803.jpg",
+        "de_audio_url": "audio/50/de_audio/0507.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0507.mp3",
+        "de_word": "die Linkskurve",
+        "hr_word": "lijevo skretanje",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0083.jpg",
+        "de_audio_url": "audio/50/de_audio/0508.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0508.mp3",
+        "de_word": "der Bahn\u00fcbergang",
+        "hr_word": "\u017eeljezni\u010dki prijelaz",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1832.jpg",
+        "de_audio_url": "audio/50/de_audio/0509.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0509.mp3",
+        "de_word": "die Lokomotive",
+        "hr_word": "lokomotiva",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0769.jpg",
+        "de_audio_url": "audio/50/de_audio/0510.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0510.mp3",
+        "de_word": "die Landkarte",
+        "hr_word": "gegrafska karta",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1942.jpg",
+        "de_audio_url": "audio/50/de_audio/0511.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0511.mp3",
+        "de_word": "die U-Bahn",
+        "hr_word": "podzemna \u017eeljeznica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0885.jpg",
+        "de_audio_url": "audio/50/de_audio/0512.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0512.mp3",
+        "de_word": "das Moped",
+        "hr_word": "moped",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0890.jpg",
+        "de_audio_url": "audio/50/de_audio/0513.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0513.mp3",
+        "de_word": "das Motorboot",
+        "hr_word": "motorni brod",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0892.jpg",
+        "de_audio_url": "audio/50/de_audio/0514.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0514.mp3",
+        "de_word": "das Motorrad",
+        "hr_word": "motocikl",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0894.jpg",
+        "de_audio_url": "audio/50/de_audio/0515.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0515.mp3",
+        "de_word": "der Motorradhelm",
+        "hr_word": "motociklisti\u010dka kaciga",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0893.jpg",
+        "de_audio_url": "audio/50/de_audio/0516.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0516.mp3",
+        "de_word": "die Motorradfahrerin",
+        "hr_word": "motociklistkinja",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0897.jpg",
+        "de_audio_url": "audio/50/de_audio/0517.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0517.mp3",
+        "de_word": "das Mountainbike",
+        "hr_word": "brdski bicikl",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1001.jpg",
+        "de_audio_url": "audio/50/de_audio/0518.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0518.mp3",
+        "de_word": "die Passstra\u00dfe",
+        "hr_word": "planinski prijevoj",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1644.jpg",
+        "de_audio_url": "audio/50/de_audio/0519.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0519.mp3",
+        "de_word": "das \u00dcberholverbot",
+        "hr_word": "podru\u010dje zabranjenog pretjecanja",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0935.jpg",
+        "de_audio_url": "audio/50/de_audio/0520.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0520.mp3",
+        "de_word": "der Nichtraucher",
+        "hr_word": "nepu\u0161a\u010d",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0266.jpg",
+        "de_audio_url": "audio/50/de_audio/0521.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0521.mp3",
+        "de_word": "die Einbahnstra\u00dfe",
+        "hr_word": "jednosmjerna ulica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0997.jpg",
+        "de_audio_url": "audio/50/de_audio/0522.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0522.mp3",
+        "de_word": "die Parkuhr",
+        "hr_word": "parking-automat",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1858.jpg",
+        "de_audio_url": "audio/50/de_audio/0523.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0523.mp3",
+        "de_word": "der Fahrgast",
+        "hr_word": "putnik",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1000.jpg",
+        "de_audio_url": "audio/50/de_audio/0524.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0524.mp3",
+        "de_word": "der Passagierjet",
+        "hr_word": "putni\u010dki zrakoplov",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0400.jpg",
+        "de_audio_url": "audio/50/de_audio/0525.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0525.mp3",
+        "de_word": "der Fu\u00dfg\u00e4nger",
+        "hr_word": "pje\u0161ak",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0369.jpg",
+        "de_audio_url": "audio/50/de_audio/0526.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0526.mp3",
+        "de_word": "das Flugzeug",
+        "hr_word": "zrakoplov",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1171.jpg",
+        "de_audio_url": "audio/50/de_audio/0527.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0527.mp3",
+        "de_word": "das Schlagloch",
+        "hr_word": "jama",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1051.jpg",
+        "de_audio_url": "audio/50/de_audio/0528.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0528.mp3",
+        "de_word": "das Propellerflugzeug",
+        "hr_word": "zrakoplov s propelerom",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1163.jpg",
+        "de_audio_url": "audio/50/de_audio/0529.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0529.mp3",
+        "de_word": "die Schiene",
+        "hr_word": "tra\u010dnice",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0277.jpg",
+        "de_audio_url": "audio/50/de_audio/0530.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0530.mp3",
+        "de_word": "die Eisenbahnbr\u00fccke",
+        "hr_word": "\u017eeljezni\u010dki most",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1837.jpg",
+        "de_audio_url": "audio/50/de_audio/0531.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0531.mp3",
+        "de_word": "die Auffahrt",
+        "hr_word": "prilazni put",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/2042.jpg",
+        "de_audio_url": "audio/50/de_audio/0532.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0532.mp3",
+        "de_word": "die Vorfahrt",
+        "hr_word": "pravo prvenstva",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1351.jpg",
+        "de_audio_url": "audio/50/de_audio/0533.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0533.mp3",
+        "de_word": "die Stra\u00dfe",
+        "hr_word": "cesta",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0727.jpg",
+        "de_audio_url": "audio/50/de_audio/0534.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0534.mp3",
+        "de_word": "der Kreisverkehr",
+        "hr_word": "kru\u017eni tok",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1264.jpg",
+        "de_audio_url": "audio/50/de_audio/0535.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0535.mp3",
+        "de_word": "die Sitzreihe",
+        "hr_word": "red sjedala",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1109.jpg",
+        "de_audio_url": "audio/50/de_audio/0536.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0536.mp3",
+        "de_word": "der Roller",
+        "hr_word": "romobil",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0895.jpg",
+        "de_audio_url": "audio/50/de_audio/0537.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0537.mp3",
+        "de_word": "der Motorroller",
+        "hr_word": "skuter",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1720.jpg",
+        "de_audio_url": "audio/50/de_audio/0538.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0538.mp3",
+        "de_word": "der Wegweiser",
+        "hr_word": "putokaz",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1178.jpg",
+        "de_audio_url": "audio/50/de_audio/0539.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0539.mp3",
+        "de_word": "der Schlitten",
+        "hr_word": "saonice",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0896.jpg",
+        "de_audio_url": "audio/50/de_audio/0540.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0540.mp3",
+        "de_word": "der Motorschlitten",
+        "hr_word": "motorne saonice",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1853.jpg",
+        "de_audio_url": "audio/50/de_audio/0541.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0541.mp3",
+        "de_word": "die Geschwindigkeit",
+        "hr_word": "brzina",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0447.jpg",
+        "de_audio_url": "audio/50/de_audio/0542.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0542.mp3",
+        "de_word": "die Geschwindigkeitsbegrenzung",
+        "hr_word": "ograni\u010denje brzine",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1981.jpg",
+        "de_audio_url": "audio/50/de_audio/0543.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0543.mp3",
+        "de_word": "der Bahnhof",
+        "hr_word": "\u017eeljezni\u010dka postaja",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0217.jpg",
+        "de_audio_url": "audio/50/de_audio/0544.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0544.mp3",
+        "de_word": "der Dampfer",
+        "hr_word": "parni brod",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1939.jpg",
+        "de_audio_url": "audio/50/de_audio/0545.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0545.mp3",
+        "de_word": "die Haltestelle",
+        "hr_word": "stanica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1354.jpg",
+        "de_audio_url": "audio/50/de_audio/0546.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0546.mp3",
+        "de_word": "das Stra\u00dfenschild",
+        "hr_word": "uli\u010dni znak",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0662.jpg",
+        "de_audio_url": "audio/50/de_audio/0547.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0547.mp3",
+        "de_word": "der Kinderwagen",
+        "hr_word": "kolica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1468.jpg",
+        "de_audio_url": "audio/50/de_audio/0548.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0548.mp3",
+        "de_word": "die U-Bahnstation",
+        "hr_word": "stanica podzemne \u017eeljeznice",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1392.jpg",
+        "de_audio_url": "audio/50/de_audio/0549.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0549.mp3",
+        "de_word": "das Taxi",
+        "hr_word": "taksi",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1989.jpg",
+        "de_audio_url": "audio/50/de_audio/0550.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0550.mp3",
+        "de_word": "der Fahrschein",
+        "hr_word": "putna karta",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0311.jpg",
+        "de_audio_url": "audio/50/de_audio/0551.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0551.mp3",
+        "de_word": "der Fahrplan",
+        "hr_word": "raspored vo\u017enje",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0468.jpg",
+        "de_audio_url": "audio/50/de_audio/0552.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0552.mp3",
+        "de_word": "das Gleis",
+        "hr_word": "kolosjek",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1542.jpg",
+        "de_audio_url": "audio/50/de_audio/0553.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0553.mp3",
+        "de_word": "die Weiche",
+        "hr_word": "skretnica",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1439.jpg",
+        "de_audio_url": "audio/50/de_audio/0554.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0554.mp3",
+        "de_word": "der Traktor",
+        "hr_word": "traktor",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1491.jpg",
+        "de_audio_url": "audio/50/de_audio/0555.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0555.mp3",
+        "de_word": "der Verkehr",
+        "hr_word": "promet",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1493.jpg",
+        "de_audio_url": "audio/50/de_audio/0556.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0556.mp3",
+        "de_word": "der Stau",
+        "hr_word": "zastoj u prometu",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0022.jpg",
+        "de_audio_url": "audio/50/de_audio/0557.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0557.mp3",
+        "de_word": "die Ampel",
+        "hr_word": "semafor",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1492.jpg",
+        "de_audio_url": "audio/50/de_audio/0558.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0558.mp3",
+        "de_word": "das Verkehrsschild",
+        "hr_word": "prometni znak",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1625.jpg",
+        "de_audio_url": "audio/50/de_audio/0559.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0559.mp3",
+        "de_word": "der Zug",
+        "hr_word": "vlak",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1626.jpg",
+        "de_audio_url": "audio/50/de_audio/0560.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0560.mp3",
+        "de_word": "die Zugfahrt",
+        "hr_word": "vo\u017enja vlakom",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1352.jpg",
+        "de_audio_url": "audio/50/de_audio/0561.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0561.mp3",
+        "de_word": "die Stra\u00dfenbahn",
+        "hr_word": "tramvaj",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1440.jpg",
+        "de_audio_url": "audio/50/de_audio/0562.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0562.mp3",
+        "de_word": "der Transport",
+        "hr_word": "prijevoz",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0248.jpg",
+        "de_audio_url": "audio/50/de_audio/0563.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0563.mp3",
+        "de_word": "das Dreirad",
+        "hr_word": "tricikl",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0775.jpg",
+        "de_audio_url": "audio/50/de_audio/0564.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0564.mp3",
+        "de_word": "der Lastwagen",
+        "hr_word": "kamion",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/0424.jpg",
+        "de_audio_url": "audio/50/de_audio/0565.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0565.mp3",
+        "de_word": "der Gegenverkehr",
+        "hr_word": "dvosmjerni promet",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1922.jpg",
+        "de_audio_url": "audio/50/de_audio/0566.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0566.mp3",
+        "de_word": "die Unterf\u00fchrung",
+        "hr_word": "podvo\u017enjak",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1341.jpg",
+        "de_audio_url": "audio/50/de_audio/0567.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0567.mp3",
+        "de_word": "das Steuerrad",
+        "hr_word": "kormilo",
+        "category": "Verkehr"
+    },
+    {
+        "pic_url": "images/50/1611.jpg",
+        "de_audio_url": "audio/50/de_audio/0568.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0568.mp3",
+        "de_word": "der Zeppelin",
+        "hr_word": "cepelin",
+        "category": "Verkehr"
+    }
+]

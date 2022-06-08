@@ -1,0 +1,434 @@
+[
+    {
+        "pic_url": "images/50/0678.jpg",
+        "de_audio_url": "audio/50/de_audio/0931.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0931.mp3",
+        "de_word": "die Klimaanlage",
+        "hr_word": "klima-ure\u0111aj",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0036.jpg",
+        "de_audio_url": "audio/50/de_audio/0932.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0932.mp3",
+        "de_word": "das Apartment",
+        "hr_word": "stan",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0086.jpg",
+        "de_audio_url": "audio/50/de_audio/0933.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0933.mp3",
+        "de_word": "der Balkon",
+        "hr_word": "balkon",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0652.jpg",
+        "de_audio_url": "audio/50/de_audio/0934.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0934.mp3",
+        "de_word": "der Keller",
+        "hr_word": "podrum",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0078.jpg",
+        "de_audio_url": "audio/50/de_audio/0935.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0935.mp3",
+        "de_word": "die Badewanne",
+        "hr_word": "kada",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0079.jpg",
+        "de_audio_url": "audio/50/de_audio/0936.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0936.mp3",
+        "de_word": "das Badezimmer",
+        "hr_word": "kupaonica",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0680.jpg",
+        "de_audio_url": "audio/50/de_audio/0937.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0937.mp3",
+        "de_word": "die Klingel",
+        "hr_word": "zvono",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0600.jpg",
+        "de_audio_url": "audio/50/de_audio/0938.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0938.mp3",
+        "de_word": "die Jalousie",
+        "hr_word": "\u017ealuzine",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1199.jpg",
+        "de_audio_url": "audio/50/de_audio/0939.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0939.mp3",
+        "de_word": "der Schornstein",
+        "hr_word": "dimnjak",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1636.jpg",
+        "de_audio_url": "audio/50/de_audio/0940.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0940.mp3",
+        "de_word": "das Putzmittel",
+        "hr_word": "sredstvo za \u010di\u0161\u0107enje",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0535.jpg",
+        "de_audio_url": "audio/50/de_audio/0941.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0941.mp3",
+        "de_word": "das K\u00fchlger\u00e4t",
+        "hr_word": "hladnjak",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1415.jpg",
+        "de_audio_url": "audio/50/de_audio/0942.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0942.mp3",
+        "de_word": "die Theke",
+        "hr_word": "\u0161ank",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1106.jpg",
+        "de_audio_url": "audio/50/de_audio/0943.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0943.mp3",
+        "de_word": "der Riss",
+        "hr_word": "pukotina",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0665.jpg",
+        "de_audio_url": "audio/50/de_audio/0944.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0944.mp3",
+        "de_word": "das Kissen",
+        "hr_word": "jastuk",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1466.jpg",
+        "de_audio_url": "audio/50/de_audio/0945.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0945.mp3",
+        "de_word": "die T\u00fcr",
+        "hr_word": "vrata",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1467.jpg",
+        "de_audio_url": "audio/50/de_audio/0946.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0946.mp3",
+        "de_word": "der T\u00fcrklopfer",
+        "hr_word": "alka za kucanje",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0917.jpg",
+        "de_audio_url": "audio/50/de_audio/0947.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0947.mp3",
+        "de_word": "die M\u00fclltonne",
+        "hr_word": "kanta za sme\u0107e",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1902.jpg",
+        "de_audio_url": "audio/50/de_audio/0948.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0948.mp3",
+        "de_word": "der Aufzug",
+        "hr_word": "dizalo",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1814.jpg",
+        "de_audio_url": "audio/50/de_audio/0949.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0949.mp3",
+        "de_word": "der Eingang",
+        "hr_word": "ulaz",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1600.jpg",
+        "de_audio_url": "audio/50/de_audio/0950.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0950.mp3",
+        "de_word": "der Zaun",
+        "hr_word": "ograda",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0345.jpg",
+        "de_audio_url": "audio/50/de_audio/0951.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0951.mp3",
+        "de_word": "der Feueralarm",
+        "hr_word": "vatrodojavni alarm",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0625.jpg",
+        "de_audio_url": "audio/50/de_audio/0952.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0952.mp3",
+        "de_word": "der Kamin",
+        "hr_word": "kamin",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0144.jpg",
+        "de_audio_url": "audio/50/de_audio/0953.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0953.mp3",
+        "de_word": "der Blumentopf",
+        "hr_word": "lonac za cvije\u0107e",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1812.jpg",
+        "de_audio_url": "audio/50/de_audio/0954.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0954.mp3",
+        "de_word": "die Garage",
+        "hr_word": "gara\u017ea",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/2019.jpg",
+        "de_audio_url": "audio/50/de_audio/0955.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0955.mp3",
+        "de_word": "der Garten",
+        "hr_word": "vrt",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1827.jpg",
+        "de_audio_url": "audio/50/de_audio/0956.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0956.mp3",
+        "de_word": "die Heizung",
+        "hr_word": "grijanje",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0522.jpg",
+        "de_audio_url": "audio/50/de_audio/0957.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0957.mp3",
+        "de_word": "das Haus",
+        "hr_word": "ku\u0107a",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0525.jpg",
+        "de_audio_url": "audio/50/de_audio/0958.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0958.mp3",
+        "de_word": "die Hausnummer",
+        "hr_word": "ku\u0107ni broj",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/2124.jpg",
+        "de_audio_url": "audio/50/de_audio/0959.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0959.mp3",
+        "de_word": "das B\u00fcgelbrett",
+        "hr_word": "daska za gla\u010danje",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1707.jpg",
+        "de_audio_url": "audio/50/de_audio/0960.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0960.mp3",
+        "de_word": "die K\u00fcche",
+        "hr_word": "kuhinja",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/2098.jpg",
+        "de_audio_url": "audio/50/de_audio/0961.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0961.mp3",
+        "de_word": "der Vermieter",
+        "hr_word": "stanodavac",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0794.jpg",
+        "de_audio_url": "audio/50/de_audio/0962.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0962.mp3",
+        "de_word": "der Lichtschalter",
+        "hr_word": "prekida\u010d za svjetlo",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/2039.jpg",
+        "de_audio_url": "audio/50/de_audio/0963.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0963.mp3",
+        "de_word": "das Wohnzimmer",
+        "hr_word": "dnevni boravak",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/2129.jpg",
+        "de_audio_url": "audio/50/de_audio/0964.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0964.mp3",
+        "de_word": "der Postkasten",
+        "hr_word": "po\u0161tanski sandu\u010di\u0107",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0842.jpg",
+        "de_audio_url": "audio/50/de_audio/0965.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0965.mp3",
+        "de_word": "der Marmor",
+        "hr_word": "mramor",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1336.jpg",
+        "de_audio_url": "audio/50/de_audio/0966.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0966.mp3",
+        "de_word": "die Steckdose",
+        "hr_word": "uti\u010dnica",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1040.jpg",
+        "de_audio_url": "audio/50/de_audio/0967.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0967.mp3",
+        "de_word": "der Pool",
+        "hr_word": "bazen",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1483.jpg",
+        "de_audio_url": "audio/50/de_audio/0968.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0968.mp3",
+        "de_word": "die Veranda",
+        "hr_word": "trijem",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0536.jpg",
+        "de_audio_url": "audio/50/de_audio/0969.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0969.mp3",
+        "de_word": "der Heizk\u00f6rper",
+        "hr_word": "radijator",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/2083.jpg",
+        "de_audio_url": "audio/50/de_audio/0970.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0970.mp3",
+        "de_word": "der Umzug",
+        "hr_word": "preseljenje",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1496.jpg",
+        "de_audio_url": "audio/50/de_audio/0971.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0971.mp3",
+        "de_word": "die Vermietung",
+        "hr_word": "iznajmljivanje",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1539.jpg",
+        "de_audio_url": "audio/50/de_audio/0972.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0972.mp3",
+        "de_word": "das WC",
+        "hr_word": "zahod",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0213.jpg",
+        "de_audio_url": "audio/50/de_audio/0973.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0973.mp3",
+        "de_word": "der Dachziegel",
+        "hr_word": "krovne plo\u010dice",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0255.jpg",
+        "de_audio_url": "audio/50/de_audio/0974.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0974.mp3",
+        "de_word": "die Dusche",
+        "hr_word": "tu\u0161",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1445.jpg",
+        "de_audio_url": "audio/50/de_audio/0975.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0975.mp3",
+        "de_word": "die Treppe",
+        "hr_word": "stube",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1988.jpg",
+        "de_audio_url": "audio/50/de_audio/0976.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0976.mp3",
+        "de_word": "der Ofen",
+        "hr_word": "\u0161tednjak",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0043.jpg",
+        "de_audio_url": "audio/50/de_audio/0977.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0977.mp3",
+        "de_word": "das Arbeitszimmer",
+        "hr_word": "radna soba",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1529.jpg",
+        "de_audio_url": "audio/50/de_audio/0978.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0978.mp3",
+        "de_word": "der Wasserhahn",
+        "hr_word": "\u0161pina",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0365.jpg",
+        "de_audio_url": "audio/50/de_audio/0979.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0979.mp3",
+        "de_word": "die Fliese",
+        "hr_word": "plo\u010dica",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1428.jpg",
+        "de_audio_url": "audio/50/de_audio/0980.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0980.mp3",
+        "de_word": "die Toilette",
+        "hr_word": "zahod",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1884.jpg",
+        "de_audio_url": "audio/50/de_audio/0981.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0981.mp3",
+        "de_word": "der Staubsauger",
+        "hr_word": "usisava\u010d",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1519.jpg",
+        "de_audio_url": "audio/50/de_audio/0982.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0982.mp3",
+        "de_word": "die Wand",
+        "hr_word": "zid",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/1382.jpg",
+        "de_audio_url": "audio/50/de_audio/0983.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0983.mp3",
+        "de_word": "die Tapete",
+        "hr_word": "tapeta",
+        "category": "Wohnung"
+    },
+    {
+        "pic_url": "images/50/0333.jpg",
+        "de_audio_url": "audio/50/de_audio/0984.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0984.mp3",
+        "de_word": "das Fenster",
+        "hr_word": "prozor",
+        "category": "Wohnung"
+    }
+]

@@ -1,0 +1,498 @@
+[
+    {
+        "pic_url": "images/50/0029.jpg",
+        "de_audio_url": "audio/50/de_audio/0415.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0415.mp3",
+        "de_word": "der Anker",
+        "hr_word": "sidro",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0019.jpg",
+        "de_audio_url": "audio/50/de_audio/0416.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0416.mp3",
+        "de_word": "der Amboss",
+        "hr_word": "nakovanj",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0679.jpg",
+        "de_audio_url": "audio/50/de_audio/0417.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0417.mp3",
+        "de_word": "die Klinge",
+        "hr_word": "o\u0161trica",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0162.jpg",
+        "de_audio_url": "audio/50/de_audio/0418.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0418.mp3",
+        "de_word": "das Brett",
+        "hr_word": "daska",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0151.jpg",
+        "de_audio_url": "audio/50/de_audio/0419.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0419.mp3",
+        "de_word": "der Bolzen",
+        "hr_word": "vijak",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0362.jpg",
+        "de_audio_url": "audio/50/de_audio/0420.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0420.mp3",
+        "de_word": "der Flaschen\u00f6ffner",
+        "hr_word": "otvara\u010d za boce",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0116.jpg",
+        "de_audio_url": "audio/50/de_audio/0421.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0421.mp3",
+        "de_word": "der Besen",
+        "hr_word": "metla",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0194.jpg",
+        "de_audio_url": "audio/50/de_audio/0422.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0422.mp3",
+        "de_word": "die B\u00fcrste",
+        "hr_word": "\u010detka",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0265.jpg",
+        "de_audio_url": "audio/50/de_audio/0423.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0423.mp3",
+        "de_word": "der Eimer",
+        "hr_word": "kanta",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1826.jpg",
+        "de_audio_url": "audio/50/de_audio/0424.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0424.mp3",
+        "de_word": "die Kreiss\u00e4ge",
+        "hr_word": "kru\u017ena pila",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0243.jpg",
+        "de_audio_url": "audio/50/de_audio/0425.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0425.mp3",
+        "de_word": "der Dosen\u00f6ffner",
+        "hr_word": "otvara\u010d za konzerve",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1992.jpg",
+        "de_audio_url": "audio/50/de_audio/0426.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0426.mp3",
+        "de_word": "die Kette",
+        "hr_word": "lanac",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0659.jpg",
+        "de_audio_url": "audio/50/de_audio/0427.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0427.mp3",
+        "de_word": "die Kettens\u00e4ge",
+        "hr_word": "motorna pila",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0856.jpg",
+        "de_audio_url": "audio/50/de_audio/0428.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0428.mp3",
+        "de_word": "der Mei\u00dfel",
+        "hr_word": "dlijeto",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0726.jpg",
+        "de_audio_url": "audio/50/de_audio/0429.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0429.mp3",
+        "de_word": "das Kreiss\u00e4geblatt",
+        "hr_word": "no\u017e kru\u017ene pile",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0150.jpg",
+        "de_audio_url": "audio/50/de_audio/0430.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0430.mp3",
+        "de_word": "die Bohrmaschine",
+        "hr_word": "bu\u0161ilica",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1915.jpg",
+        "de_audio_url": "audio/50/de_audio/0431.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0431.mp3",
+        "de_word": "die Kehrschaufel",
+        "hr_word": "lopatica za sme\u0107e",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0411.jpg",
+        "de_audio_url": "audio/50/de_audio/0432.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0432.mp3",
+        "de_word": "der Gartenschlauch",
+        "hr_word": "vrtno crijevo",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1071.jpg",
+        "de_audio_url": "audio/50/de_audio/0433.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0433.mp3",
+        "de_word": "die Raspel",
+        "hr_word": "ribe\u017e",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0510.jpg",
+        "de_audio_url": "audio/50/de_audio/0434.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0434.mp3",
+        "de_word": "der Hammer",
+        "hr_word": "\u010deki\u0107",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1151.jpg",
+        "de_audio_url": "audio/50/de_audio/0435.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0435.mp3",
+        "de_word": "das Scharnier",
+        "hr_word": "\u0161arka",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0505.jpg",
+        "de_audio_url": "audio/50/de_audio/0436.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0436.mp3",
+        "de_word": "der Haken",
+        "hr_word": "kuka",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0788.jpg",
+        "de_audio_url": "audio/50/de_audio/0437.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0437.mp3",
+        "de_word": "die Leiter",
+        "hr_word": "ljestve",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0166.jpg",
+        "de_audio_url": "audio/50/de_audio/0438.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0438.mp3",
+        "de_word": "die Briefwaage",
+        "hr_word": "vaga za pisma",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0823.jpg",
+        "de_audio_url": "audio/50/de_audio/0439.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0439.mp3",
+        "de_word": "der Magnet",
+        "hr_word": "magnet",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0651.jpg",
+        "de_audio_url": "audio/50/de_audio/0440.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0440.mp3",
+        "de_word": "die Kelle",
+        "hr_word": "mistrija",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2078.jpg",
+        "de_audio_url": "audio/50/de_audio/0441.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0441.mp3",
+        "de_word": "der Nagel",
+        "hr_word": "\u010davao",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0923.jpg",
+        "de_audio_url": "audio/50/de_audio/0442.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0442.mp3",
+        "de_word": "die Nadel",
+        "hr_word": "igla",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0932.jpg",
+        "de_audio_url": "audio/50/de_audio/0443.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0443.mp3",
+        "de_word": "das Netz",
+        "hr_word": "mre\u017ea",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2075.jpg",
+        "de_audio_url": "audio/50/de_audio/0444.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0444.mp3",
+        "de_word": "die Mutter",
+        "hr_word": "matica",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2048.jpg",
+        "de_audio_url": "audio/50/de_audio/0445.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0445.mp3",
+        "de_word": "der Spachtel",
+        "hr_word": "\u0161patula",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0975.jpg",
+        "de_audio_url": "audio/50/de_audio/0446.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0446.mp3",
+        "de_word": "die Palette",
+        "hr_word": "paleta",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0549.jpg",
+        "de_audio_url": "audio/50/de_audio/0447.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0447.mp3",
+        "de_word": "die Heugabel",
+        "hr_word": "vile",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0556.jpg",
+        "de_audio_url": "audio/50/de_audio/0448.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0448.mp3",
+        "de_word": "der Hobel",
+        "hr_word": "hobler",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1597.jpg",
+        "de_audio_url": "audio/50/de_audio/0449.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0449.mp3",
+        "de_word": "die Zange",
+        "hr_word": "klije\u0161ta",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1129.jpg",
+        "de_audio_url": "audio/50/de_audio/0450.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0450.mp3",
+        "de_word": "die Sackkarre",
+        "hr_word": "ru\u010dna kolica",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2113.jpg",
+        "de_audio_url": "audio/50/de_audio/0451.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0451.mp3",
+        "de_word": "der Rechen",
+        "hr_word": "grablje",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1098.jpg",
+        "de_audio_url": "audio/50/de_audio/0452.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0452.mp3",
+        "de_word": "die Reparatur",
+        "hr_word": "popravak",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1248.jpg",
+        "de_audio_url": "audio/50/de_audio/0453.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0453.mp3",
+        "de_word": "das Seil",
+        "hr_word": "u\u017ee",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2089.jpg",
+        "de_audio_url": "audio/50/de_audio/0454.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0454.mp3",
+        "de_word": "das Lineal",
+        "hr_word": "ravnalo",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2099.jpg",
+        "de_audio_url": "audio/50/de_audio/0455.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0455.mp3",
+        "de_word": "die S\u00e4ge",
+        "hr_word": "pila",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1161.jpg",
+        "de_audio_url": "audio/50/de_audio/0456.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0456.mp3",
+        "de_word": "die Schere",
+        "hr_word": "no\u017eice, makaze",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1202.jpg",
+        "de_audio_url": "audio/50/de_audio/0457.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0457.mp3",
+        "de_word": "die Schraube",
+        "hr_word": "vijak",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1204.jpg",
+        "de_audio_url": "audio/50/de_audio/0458.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0458.mp3",
+        "de_word": "der Schraubenzieher",
+        "hr_word": "odvija\u010d",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0946.jpg",
+        "de_audio_url": "audio/50/de_audio/0459.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0459.mp3",
+        "de_word": "das N\u00e4hgarn",
+        "hr_word": "\u0161iva\u0107i konac",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1154.jpg",
+        "de_audio_url": "audio/50/de_audio/0460.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0460.mp3",
+        "de_word": "die Schaufel",
+        "hr_word": "lopata",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1314.jpg",
+        "de_audio_url": "audio/50/de_audio/0461.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0461.mp3",
+        "de_word": "das Spinnrad",
+        "hr_word": "kolovrat",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1316.jpg",
+        "de_audio_url": "audio/50/de_audio/0462.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0462.mp3",
+        "de_word": "die Spiralfeder",
+        "hr_word": "spiralna opruga",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1324.jpg",
+        "de_audio_url": "audio/50/de_audio/0463.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0463.mp3",
+        "de_word": "die Spule",
+        "hr_word": "\u0161pula",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1330.jpg",
+        "de_audio_url": "audio/50/de_audio/0464.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0464.mp3",
+        "de_word": "das Stahlseil",
+        "hr_word": "\u010deli\u010dni kabel",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0595.jpg",
+        "de_audio_url": "audio/50/de_audio/0465.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0465.mp3",
+        "de_word": "das Klebeband",
+        "hr_word": "ljepljiva traka",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0455.jpg",
+        "de_audio_url": "audio/50/de_audio/0466.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0466.mp3",
+        "de_word": "das Gewinde",
+        "hr_word": "navoj",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1556.jpg",
+        "de_audio_url": "audio/50/de_audio/0467.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0467.mp3",
+        "de_word": "das Werkzeug",
+        "hr_word": "alat",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1557.jpg",
+        "de_audio_url": "audio/50/de_audio/0468.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0468.mp3",
+        "de_word": "der Werkzeugkasten",
+        "hr_word": "kutija za alat",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0142.jpg",
+        "de_audio_url": "audio/50/de_audio/0469.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0469.mp3",
+        "de_word": "die Blumenkelle",
+        "hr_word": "lopatica za cvije\u0107e",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1028.jpg",
+        "de_audio_url": "audio/50/de_audio/0470.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0470.mp3",
+        "de_word": "die Pinzette",
+        "hr_word": "pinceta",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2024.jpg",
+        "de_audio_url": "audio/50/de_audio/0471.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0471.mp3",
+        "de_word": "der Schraubstock",
+        "hr_word": "\u0161kripac",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/2061.jpg",
+        "de_audio_url": "audio/50/de_audio/0472.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0472.mp3",
+        "de_word": "das Schwei\u00dfger\u00e4t",
+        "hr_word": "oprema za zavarivanje",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1212.jpg",
+        "de_audio_url": "audio/50/de_audio/0473.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0473.mp3",
+        "de_word": "die Schubkarre",
+        "hr_word": "ru\u010dna kolica",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0246.jpg",
+        "de_audio_url": "audio/50/de_audio/0474.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0474.mp3",
+        "de_word": "der Draht",
+        "hr_word": "\u017eica",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/0563.jpg",
+        "de_audio_url": "audio/50/de_audio/0475.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0475.mp3",
+        "de_word": "der Holzspan",
+        "hr_word": "iverje",
+        "category": "Werkzeuge"
+    },
+    {
+        "pic_url": "images/50/1203.jpg",
+        "de_audio_url": "audio/50/de_audio/0476.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0476.mp3",
+        "de_word": "der Schraubenschl\u00fcssel",
+        "hr_word": "vilju\u0161kasto-okasti klju\u010d",
+        "category": "Werkzeuge"
+    }
+]
