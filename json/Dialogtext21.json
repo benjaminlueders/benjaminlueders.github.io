@@ -1,0 +1,130 @@
+[
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3281.mp3",
+        "de_word": "Einen Flug buchen",
+        "hr_word": "Rezervirati let",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3283.mp3",
+        "de_word": "Nachdem er eine Parkl\u00fccke gefunden hat, geht Petar zur Abflughalle.",
+        "hr_word": "Nakon \u0161to je na\u0161ao parking, Petar ide na polazni terminal.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3284.mp3",
+        "de_word": "Dort kann man Tickets kaufen.",
+        "hr_word": "Tamo se mogu kupiti karte.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3285.mp3",
+        "de_word": "Er m\u00f6chte einen Hin- und R\u00fcckflug buchen.",
+        "hr_word": "\u017deli rezervirati povratni let.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3286.mp3",
+        "de_word": "Er fragt die Frau am Ticketschalter nach dem g\u00fcnstigsten Angebot.",
+        "hr_word": "Pita gospo\u0111u za \u0161alterom za najpovoljniju ponudu.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3287.mp3",
+        "de_word": "Wann m\u00f6chten Sie fliegen?",
+        "hr_word": "Kada \u017eelite letjeti?",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3288.mp3",
+        "de_word": "So bald wie m\u00f6glich.",
+        "hr_word": "\u0160to prije mogu\u0107e.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3289.mp3",
+        "de_word": "M\u00f6chten Sie einen Platz am Gang oder am Fenster?",
+        "hr_word": "\u017delite li mjesto uz prolaz ili uz prozor?",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3290.mp3",
+        "de_word": "Ich bevorzuge einen Fensterplatz.",
+        "hr_word": "Radije bih mjesto uz prozor.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3291.mp3",
+        "de_word": "Raucher oder Nichtraucher?",
+        "hr_word": "Pu\u0161a\u010d ili nepu\u0161a\u010d?",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3292.mp3",
+        "de_word": "Nichtraucher.",
+        "hr_word": "Nepu\u0161a\u010d.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3293.mp3",
+        "de_word": "Fliegen Sie lieber Business- oder Economyklasse?",
+        "hr_word": "Letite li business ili ekonomskom klasom?",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3294.mp3",
+        "de_word": "Bitte den preiswertesten Flug.",
+        "hr_word": "Najpovoljniji let, molim Vas.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3295.mp3",
+        "de_word": "Okay, hier ist die Best\u00e4tigung Ihrer Buchung und ihr Ticket.",
+        "hr_word": "OK, ovdje je potvrda Va\u0161e rezervacije i Va\u0161a karta.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3296.mp3",
+        "de_word": "Der Flug ist n\u00e4chste Woche.",
+        "hr_word": "Let je slijede\u0107i tjedan.",
+        "category": "Dialogtext21"
+    },
+    {
+        "pic_url": "",
+        "de_audio_url": "",
+        "hr_audio_url": "audio/24/dialogtext_hr_audio/3297.mp3",
+        "de_word": "Der Flug k\u00f6nnte sich versp\u00e4ten. Seien Sie trotzdem bitte eine Stunde vor dem Abflug beim Check-in.",
+        "hr_word": "Let bi mogao kasniti, no budite ipak sat vremena prije leta na check-in-u.",
+        "category": "Dialogtext21"
+    }
+]

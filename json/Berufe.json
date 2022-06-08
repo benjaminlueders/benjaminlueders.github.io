@@ -1,0 +1,506 @@
+[
+    {
+        "pic_url": "images/50/0044.jpg",
+        "de_audio_url": "audio/50/de_audio/1067.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1067.mp3",
+        "de_word": "der Architekt",
+        "hr_word": "arhitekt",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0054.jpg",
+        "de_audio_url": "audio/50/de_audio/1068.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1068.mp3",
+        "de_word": "der Astronaut",
+        "hr_word": "astronaut",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1770.jpg",
+        "de_audio_url": "audio/50/de_audio/1069.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1069.mp3",
+        "de_word": "der Friseur",
+        "hr_word": "brija\u010d",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1184.jpg",
+        "de_audio_url": "audio/50/de_audio/1070.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1070.mp3",
+        "de_word": "der Schmied",
+        "hr_word": "kova\u010d",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0157.jpg",
+        "de_audio_url": "audio/50/de_audio/1071.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1071.mp3",
+        "de_word": "der Boxer",
+        "hr_word": "boksa\u010d",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1346.jpg",
+        "de_audio_url": "audio/50/de_audio/1072.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1072.mp3",
+        "de_word": "der Stierk\u00e4mpfer",
+        "hr_word": "borac s bikovima",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0190.jpg",
+        "de_audio_url": "audio/50/de_audio/1073.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1073.mp3",
+        "de_word": "der B\u00fcrokrat",
+        "hr_word": "birokrat",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1090.jpg",
+        "de_audio_url": "audio/50/de_audio/1074.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1074.mp3",
+        "de_word": "die Dienstreise",
+        "hr_word": "poslovno putovanje",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1874.jpg",
+        "de_audio_url": "audio/50/de_audio/1075.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1075.mp3",
+        "de_word": "der Gesch\u00e4ftsmann",
+        "hr_word": "poduzetnik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0864.jpg",
+        "de_audio_url": "audio/50/de_audio/1076.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1076.mp3",
+        "de_word": "der Metzger",
+        "hr_word": "mesar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0066.jpg",
+        "de_audio_url": "audio/50/de_audio/1077.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1077.mp3",
+        "de_word": "der Automechaniker",
+        "hr_word": "automehani\u010dar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0524.jpg",
+        "de_audio_url": "audio/50/de_audio/1078.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1078.mp3",
+        "de_word": "der Hausmeister",
+        "hr_word": "nadstojnik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1775.jpg",
+        "de_audio_url": "audio/50/de_audio/1079.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1079.mp3",
+        "de_word": "die Putzfrau",
+        "hr_word": "sprema\u010dica",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0206.jpg",
+        "de_audio_url": "audio/50/de_audio/1080.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1080.mp3",
+        "de_word": "der Clown",
+        "hr_word": "klaun",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0696.jpg",
+        "de_audio_url": "audio/50/de_audio/1081.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1081.mp3",
+        "de_word": "der Kollege",
+        "hr_word": "kolega",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0234.jpg",
+        "de_audio_url": "audio/50/de_audio/1082.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1082.mp3",
+        "de_word": "der Dirigent",
+        "hr_word": "dirigent",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0689.jpg",
+        "de_audio_url": "audio/50/de_audio/1083.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1083.mp3",
+        "de_word": "der Koch",
+        "hr_word": "kuhar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0210.jpg",
+        "de_audio_url": "audio/50/de_audio/1084.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1084.mp3",
+        "de_word": "der Cowboy",
+        "hr_word": "kauboj",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1592.jpg",
+        "de_audio_url": "audio/50/de_audio/1085.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1085.mp3",
+        "de_word": "der Zahnarzt",
+        "hr_word": "stomatolog",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0229.jpg",
+        "de_audio_url": "audio/50/de_audio/1086.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1086.mp3",
+        "de_word": "der Detektiv",
+        "hr_word": "detektiv",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1390.jpg",
+        "de_audio_url": "audio/50/de_audio/1087.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1087.mp3",
+        "de_word": "der Taucher",
+        "hr_word": "ronilac",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0051.jpg",
+        "de_audio_url": "audio/50/de_audio/1088.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1088.mp3",
+        "de_word": "der Arzt",
+        "hr_word": "lije\u010dnik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0237.jpg",
+        "de_audio_url": "audio/50/de_audio/1089.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1089.mp3",
+        "de_word": "der Doktor",
+        "hr_word": "doktor",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2008.jpg",
+        "de_audio_url": "audio/50/de_audio/1090.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1090.mp3",
+        "de_word": "der Elektriker",
+        "hr_word": "elektri\u010dar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1233.jpg",
+        "de_audio_url": "audio/50/de_audio/1091.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1091.mp3",
+        "de_word": "die Sch\u00fclerin",
+        "hr_word": "u\u010denica",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0348.jpg",
+        "de_audio_url": "audio/50/de_audio/1092.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1092.mp3",
+        "de_word": "der Feuerwehrmann",
+        "hr_word": "vatrogasac",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0357.jpg",
+        "de_audio_url": "audio/50/de_audio/1093.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1093.mp3",
+        "de_word": "der Fischer",
+        "hr_word": "ribar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0398.jpg",
+        "de_audio_url": "audio/50/de_audio/1094.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1094.mp3",
+        "de_word": "der Fu\u00dfballspieler",
+        "hr_word": "nogometa\u0161",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0407.jpg",
+        "de_audio_url": "audio/50/de_audio/1095.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1095.mp3",
+        "de_word": "der Gangster",
+        "hr_word": "razbojnik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0498.jpg",
+        "de_audio_url": "audio/50/de_audio/1096.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1096.mp3",
+        "de_word": "der G\u00e4rtner",
+        "hr_word": "vrtlar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0478.jpg",
+        "de_audio_url": "audio/50/de_audio/1097.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1097.mp3",
+        "de_word": "der Golfspieler",
+        "hr_word": "golfer",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0463.jpg",
+        "de_audio_url": "audio/50/de_audio/1098.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1098.mp3",
+        "de_word": "der Gitarrist",
+        "hr_word": "gitarist",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1973.jpg",
+        "de_audio_url": "audio/50/de_audio/1099.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1099.mp3",
+        "de_word": "der J\u00e4ger",
+        "hr_word": "lovac",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2085.jpg",
+        "de_audio_url": "audio/50/de_audio/1100.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1100.mp3",
+        "de_word": "der Dekorateur",
+        "hr_word": "dizajner interijera",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2100.jpg",
+        "de_audio_url": "audio/50/de_audio/1101.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1101.mp3",
+        "de_word": "der Richter",
+        "hr_word": "sudac",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0619.jpg",
+        "de_audio_url": "audio/50/de_audio/1102.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1102.mp3",
+        "de_word": "der Kajakfahrer",
+        "hr_word": "kajaka\u0161",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1599.jpg",
+        "de_audio_url": "audio/50/de_audio/1103.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1103.mp3",
+        "de_word": "der Zauberer",
+        "hr_word": "magi\u010dar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1232.jpg",
+        "de_audio_url": "audio/50/de_audio/1104.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1104.mp3",
+        "de_word": "der Sch\u00fcler",
+        "hr_word": "u\u010denik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0835.jpg",
+        "de_audio_url": "audio/50/de_audio/1105.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1105.mp3",
+        "de_word": "der Marathonl\u00e4ufer",
+        "hr_word": "maratonac",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0907.jpg",
+        "de_audio_url": "audio/50/de_audio/1106.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1106.mp3",
+        "de_word": "der Musiker",
+        "hr_word": "glazbenik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0939.jpg",
+        "de_audio_url": "audio/50/de_audio/1107.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1107.mp3",
+        "de_word": "die Nonne",
+        "hr_word": "opatica",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2017.jpg",
+        "de_audio_url": "audio/50/de_audio/1108.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1108.mp3",
+        "de_word": "der Beruf",
+        "hr_word": "zanimanje",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0062.jpg",
+        "de_audio_url": "audio/50/de_audio/1109.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1109.mp3",
+        "de_word": "der Augenarzt",
+        "hr_word": "oftalmolog",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0963.jpg",
+        "de_audio_url": "audio/50/de_audio/1110.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1110.mp3",
+        "de_word": "der Optiker",
+        "hr_word": "opti\u010dar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0828.jpg",
+        "de_audio_url": "audio/50/de_audio/1111.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1111.mp3",
+        "de_word": "der Maler",
+        "hr_word": "soboslikar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1607.jpg",
+        "de_audio_url": "audio/50/de_audio/1112.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1112.mp3",
+        "de_word": "der Zeitungsbote",
+        "hr_word": "dostavlja\u010d novina",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0378.jpg",
+        "de_audio_url": "audio/50/de_audio/1113.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1113.mp3",
+        "de_word": "der Fotograf",
+        "hr_word": "fotograf",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1029.jpg",
+        "de_audio_url": "audio/50/de_audio/1114.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1114.mp3",
+        "de_word": "der Pirat",
+        "hr_word": "pirat",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1709.jpg",
+        "de_audio_url": "audio/50/de_audio/1115.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1115.mp3",
+        "de_word": "der Klempner",
+        "hr_word": "vodoinstalater",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1865.jpg",
+        "de_audio_url": "audio/50/de_audio/1116.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1116.mp3",
+        "de_word": "der Polizist",
+        "hr_word": "policajac",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1854.jpg",
+        "de_audio_url": "audio/50/de_audio/1117.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1117.mp3",
+        "de_word": "der Gep\u00e4cktr\u00e4ger",
+        "hr_word": "vratar",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2001.jpg",
+        "de_audio_url": "audio/50/de_audio/1118.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1118.mp3",
+        "de_word": "der Gefangene",
+        "hr_word": "zatvorenik",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1250.jpg",
+        "de_audio_url": "audio/50/de_audio/1119.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1119.mp3",
+        "de_word": "die Sekret\u00e4rin",
+        "hr_word": "tajnica",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2111.jpg",
+        "de_audio_url": "audio/50/de_audio/1120.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1120.mp3",
+        "de_word": "der Spion",
+        "hr_word": "\u0161pijun",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/2002.jpg",
+        "de_audio_url": "audio/50/de_audio/1121.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1121.mp3",
+        "de_word": "der Chirurg",
+        "hr_word": "kirurg",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0786.jpg",
+        "de_audio_url": "audio/50/de_audio/1122.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1122.mp3",
+        "de_word": "die Lehrerin",
+        "hr_word": "u\u010diteljica",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/1813.jpg",
+        "de_audio_url": "audio/50/de_audio/1123.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1123.mp3",
+        "de_word": "der Dieb",
+        "hr_word": "lopov",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0807.jpg",
+        "de_audio_url": "audio/50/de_audio/1124.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1124.mp3",
+        "de_word": "der Lkw-Fahrer",
+        "hr_word": "voza\u010d kamiona",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0042.jpg",
+        "de_audio_url": "audio/50/de_audio/1125.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1125.mp3",
+        "de_word": "die Arbeitslosigkeit",
+        "hr_word": "nezaposlenost",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0653.jpg",
+        "de_audio_url": "audio/50/de_audio/1126.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1126.mp3",
+        "de_word": "die Kellnerin",
+        "hr_word": "konobarica",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0334.jpg",
+        "de_audio_url": "audio/50/de_audio/1127.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1127.mp3",
+        "de_word": "der Fensterputzer",
+        "hr_word": "\u010dista\u010d prozora",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0040.jpg",
+        "de_audio_url": "audio/50/de_audio/1128.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1128.mp3",
+        "de_word": "die Arbeit",
+        "hr_word": "rad",
+        "category": "Berufe"
+    },
+    {
+        "pic_url": "images/50/0041.jpg",
+        "de_audio_url": "audio/50/de_audio/1129.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1129.mp3",
+        "de_word": "der Arbeiter",
+        "hr_word": "radnik",
+        "category": "Berufe"
+    }
+]
