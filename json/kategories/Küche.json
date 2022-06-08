@@ -1,0 +1,46 @@
+[
+    {
+        "deutsch" : "Teller",
+        "hrvatski" : "ploča"
+    },
+    {
+        "deutsch" : "Tasse",
+        "hrvatski" : "šalica"
+    },
+    {
+        "deutsch" : "Becher",
+        "hrvatski" : "čaša"
+    },
+    {
+        "deutsch" : "Löffel",
+        "hrvatski" : "žlica"
+    },
+    {
+        "deutsch" : "Gabel",
+        "hrvatski" : "viljuška"
+    },
+    {
+        "deutsch" : "Messer",
+        "hrvatski" : "nož"
+    },
+    {
+        "deutsch" : "Kühlschrank",
+        "hrvatski" : "frižider"
+    },
+    {
+        "deutsch" : "Spüle",
+        "hrvatski" : "umivaonik"
+    },
+    {
+        "deutsch" : "Topf",
+        "hrvatski" : "lonac"
+    },
+    {
+        "deutsch" : "Herd",
+        "hrvatski" : "kuhalo"
+    },
+    {
+        "deutsch" : "Schneidebrett",
+        "hrvatski" : "daska za rezanje"
+    }
+]

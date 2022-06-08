@@ -1,0 +1,34 @@
+[
+    {
+        "deutsch": "Montag",
+        "hrvatski": "ponedjeljak"
+    },
+    {
+        "deutsch": "Dienstag",
+        "hrvatski": "utorak"
+    },
+    {
+        "deutsch": "Mittwoch",
+        "hrvatski": "srijeda"
+    },
+    {
+        "deutsch": "Donnerstag",
+        "hrvatski": "četvrtak"
+    },
+    {
+        "deutsch": "Freitag",
+        "hrvatski": "petak"
+    },
+    {
+        "deutsch": "Sonnabend",
+        "hrvatski": "subota"
+    },
+    {
+        "deutsch": "Sonntag",
+        "hrvatski": "nedjelja"
+    },
+    {
+        "deutsch": "Feiertag",
+        "hrvatski": "praznik"
+    }
+]
