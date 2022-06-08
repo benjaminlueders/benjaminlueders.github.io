@@ -1,0 +1,25 @@
+﻿wortlisten speichern
+(html seiten als php interpretieren)
+
+
+wortuebung: show audioplayer bug
+
+cache problem
+
+
+
+
+vorlesen: zeit anpassen je nach satulaenge
+
+
+
+
+
+multiple choise test: 3 worter auswahl bei saetzen auch sätze
+
+
+
+
+random list oder ordered list
+optionen: standard 
+multichoise: kein button focus(wegen farbe)

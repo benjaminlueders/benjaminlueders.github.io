@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Language course</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    
+    <style>
+        /* CSS used here will be applied after bootstrap.css */
+        
+        html,
+        body {
+            height: 100%;
+        }
+        
+        .vertical-center {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            /* align the inline(-block) elements horizontally */
+            font: 0/0 a;
+            /* remove the gap between inline(-block) elements */
+        }
+        
+        .vertical-center:before {
+            /* create a full-height inline block pseudo=element */
+            content: ' ';
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            height: 100%;
+        }
+        
+        .vertical-center>.container {
+            max-width: 100%;
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+            /* <-- reset the font property */
+        }
+        
+        @media (max-width: 768px) {
+            .vertical-center:before {
+                /* height: auto; or 0*/
+                display: none;
+            }
+        }
+
+    </style>
+</head>
+
+<body style="background-color:green;">
+    
+     <!-- Navigation -->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> 
+                </button>
+                <a class="navbar-brand" href="index.html">Language course</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="">Practice<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="multiple_choise.html">Multiple choice test</a></li>
+                            <li><a href="spaces.html">Fill out spaces</a></li>
+                            <li><a href="Vokabeln.html">Write vocables</a></li>
+                            <li><a href="listen.html">Listen</a></li>
+                            <li><a href="list_and_print.html">List and print vocablelist</a></li>
+                            <li class="divider"></li>
+                            <li class="active"><a href="verben_konjugieren.html">Verb conjugation</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="makewordlist.php">Make a wordlist</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Aussprache<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">č - tsch (wie deutsch)</a></li>
+                            <li><a href="#">ć - dch </a></li>
+                            <li><a href="#">đ - dj</a></li>
+                            <li><a href="#">dž - dsch (wie Dschungel)</a></li>
+                            <li><a href="#">š - sch (wie Schule)</a></li>
+                            <li><a href="#">s - ß</a></li>
+                            <li><a href="#">v - w (wenig)</a></li>
+                            <li><a href="#">ž - frz. g</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">                
+                <form id="vokabluar-input-form" class="form-horizontal" role="form">
+                    <div id="first-language-infinitiv" class="form-group has-feedback text-center">
+                        <div class="col-sm-6">
+                            <select class="form-control" id="first-language-infinitiv-select" onchange="change_selected_verb()"></select>
+                        </div>                        
+                        <div class="col-sm-4">
+                            <input class="form-control center-block text-center" id="second-language-infinitiv-input" type="text" readonly>
+                            <span id="infinitiv-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                        <div class="col-sm-2">
+                            <button id="button_help" type="button" class="btn btn-default btn-xs" onclick="show_second_language_infinitiv()">Help on/off</button>            
+                        </div>
+                    </div>
+                    <fieldset id="vokabluar-input-form-fieldset">
+                        <div id="first-person-singular" class="form-group has-feedback">
+                            <label id="first-language-first-person-singular" class="col-sm-4 control-label"></label>
+                            <label id="second-language-first-person-singular-personalpronomen" class="col-sm-2 control-label"></label>
+                            <div class="col-sm-6">
+                                <input class="form-control" id="second-language-first-person-singular_input" type="text">
+                                <span id="first-person-singular-glyphicon" class="glyphicon form-control-feedback"></span>
+                            </div>
+                        </div>
+                        <div id="second-person-singular" class="form-group has-feedback">
+                            <label id="first-language-second-person-singular" class="col-sm-4 control-label"></label>
+                            <label id="second-language-second-person-singular-personalpronomen" class="col-sm-2 control-label"></label>
+                            <div class="col-sm-6">
+                                <input class="form-control" id="second-language-second-person-singular_input" type="text">
+                                <span id="second-person-singular-glyphicon" class="glyphicon form-control-feedback"></span>
+                            </div>
+                        </div>
+                        <div id="third-person-singular" class="form-group has-feedback">
+                            <label id="first-language-third-person-singular" class="col-sm-4 control-label"></label>
+                            <label id="second-language-third-person-singular-personalpronomen" class="col-sm-2 control-label"></label>
+                            <div class="col-sm-6">
+                                <input class="form-control" id="second-language-third-person-singular_input" type="text">
+                                <span id="third-person-singular-glyphicon" class="glyphicon form-control-feedback"></span>
+                            </div>
+                        </div>
+                        <div id="first-person-plural" class="form-group has-feedback">
+                            <label id="first-language-first-person-plural" class="col-sm-4 control-label"></label>
+                            <label id="second-language-first-person-plural-personalpronomen" class="col-sm-2 control-label"></label>
+                            <div class="col-sm-6">
+                                <input class="form-control" id="second-language-first-person-plural_input" type="text">
+                                <span id="first-person-plural-glyphicon" class="glyphicon form-control-feedback"></span>
+                            </div>
+                        </div>
+                        <div id="second-person-plural" class="form-group has-feedback">
+                            <label id="first-language-second-person-plural" class="col-sm-4 control-label"></label>
+                            <label id="second-language-second-person-plural-personalpronomen" class="col-sm-2 control-label"></label>
+                            <div class="col-sm-6">
+                                <input class="form-control" id="second-language-second-person-plural_input" type="text">
+                                <span id="second-person-plural-glyphicon" class="glyphicon form-control-feedback"></span>
+                            </div>
+                        </div>
+                        <div id="third-person-plural" class="form-group has-feedback">
+                            <label id="first-language-third-person-plural" class="col-sm-4 control-label"></label>
+                            <label id="second-language-third-person-plural-personalpronomen" class="col-sm-2 control-label"></label>
+                            <div class="col-sm-6">
+                                <input class="form-control" id="second-language-third-person-plural_input" type="text">
+                                <span id="third-person-plural-glyphicon" class="glyphicon form-control-feedback"></span>
+                            </div>
+                        </div>
+                    </fieldset>                    
+                    <div class="form-group">
+                        <div class="col-sm-offset-6 col-sm-6">
+                            <button type="button" id="button_pruefen" class="btn btn-default btn-sm pull-left" onclick="pruefen()">Prüfen</button>
+                            <button type="button" id="button_loesen" class="btn btn-default btn-sm" onclick="loesen()">Lösen</button>
+                            <button type="button" id="button_wiederholen" class="btn btn-default btn-sm" onclick="wiederholen()">Verb wiederholen</button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-offset-6 col-sm-6">
+                            <button type="button" id="button_naechstes" class="btn btn-link btn-sm" onclick="naechstes()">Nächstes Verb</button>
+                            <button type="button" id="button_zufall" class="btn btn-link btn-sm" onclick="zufall()">Zufälliges Verb</button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-offset-6 col-sm-6">
+                            <label class="radio-inline">
+                                <input type="radio" name="option_language" checked onclick="first_language_to_second_language()">de-->hr
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="option_language" onclick="second_language_to_first_language()">hr-->de
+                            </label>
+                        </div>
+                    </div>                        
+                </form>
+            </div>   
+            <div class="col-lg-6">
+                <div id="flip">Click to slide the conjugation table down or up</div>
+                <div id="panel" class="small">
+
+                    <p>Die meisten Verben enden auf -ti oder -ći</p>     
+                    <p>Verben auf -ati --> -am Konjugation</p>
+                    <p>Verben auf -ći, -gati, -sati, -ti, zati --> -em Konjugation</p>
+                    <p>Verben auf -iti, -jeti --> -im Konjugation</p>
+                    <p>Verben auf -evati, -ivati, -ovati --> -jem Konjugation</p>
+                    
+                    <table class="table table-striped text-info">
+                    <thead>
+                            <tr>
+                                <th></th>  
+                                <th>am-Konjugation</th>
+                                <th>em-Konjugation</th>
+                                <th>im-Konjugation</th>
+                                <th>jem-Konjugation</th>  
+                            </tr>
+                        </thead>
+                    <table class="table table-striped text-info">
+                        <thead>
+                            <tr>
+                                <th></th>  
+                                <th>am-Konjugation</th>
+                                <th>em-Konjugation</th>
+                                <th>im-Konjugation</th>
+                                <th>jem-Konjugation</th>  
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1. Person Singular</td>
+                                <td>-am</td>
+                                <td>-em</td>
+                                <td>-im</td>
+                                <td>-jem</td>
+                            </tr>
+                            <tr>
+                                <td>2. Person Singular</td>
+                                <td>-aš</td>
+                                <td>-eš</td>
+                                <td>-iš</td>
+                                <td>-ješ</td>
+                            </tr>
+                            <tr>
+                                <td>3. Person Singular</td>
+                                <td>-a</td>
+                                <td>-e</td>
+                                <td>-i</td>
+                                <td>-je</td>
+                            </tr>
+                            <tr>
+                                <td>1. Person Plural</td>
+                                <td>-amo</td>
+                                <td>-emo</td>
+                                <td>-imo</td>
+                                <td>-jemo</td>
+                            </tr>
+                            <tr>
+                                <td>2. Person Plural</td>
+                                <td>-ate</td>
+                                <td>-ete</td>
+                                <td>-ite</td>
+                                <td>-jete</td>
+                            </tr>
+                            <tr>
+                                <td>3. Person Plural</td>
+                                <td>-aju</td>
+                                <td>-u</td>
+                                <td>-e</td>
+                                <td>-ju</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>        
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+        
+    <!-- myscripts -->
+    <script>
+        var wordlist = [];
+    
+        function myFunction(arr) {
+            wordlist = arr;            
+        }    
+    </script>
+    <script src="js/verben.js"></script>
+    <script src="js/script2.js"></script>
+    <script src="js/load_menu.js"></script>
+    
+</body>
+
+</html>

@@ -1,45 +1,121 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
+    <title>Language course</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
 
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
+    <style>
+        /* CSS used here will be applied after bootstrap.css */
+        
+        html,
+        body {
+            height: 100%;
+        }
+        
+        .vertical-center {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            /* align the inline(-block) elements horizontally */
+            font: 0/0 a;
+            /* remove the gap between inline(-block) elements */
+        }
+        
+        .vertical-center:before {
+            /* create a full-height inline block pseudo=element */
+            content: ' ';
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            height: 100%;
+        }
+        
+        .vertical-center>.container {
+            max-width: 100%;
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+            /* <-- reset the font property */
+        }
+        
+        @media (max-width: 768px) {
+            .vertical-center:before {
+                /* height: auto; or 0*/
+                display: none;
+            }
+        }
 
-    Fore more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-  -->
-  <base href="/">
-
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="lern_from_quotes">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>lern_from_quotes</title>
-  <link rel="manifest" href="manifest.json">
+    </style>
 </head>
-<body>
-  <!-- This script installs service_worker.js to provide PWA functionality to
-       application. For more information, see:
-       https://developers.google.com/web/fundamentals/primers/service-workers -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=3229178046');
-      });
-    }
-  </script>
-  <script src="main.dart.js" type="application/javascript"></script>
+
+<body style="background-color:green;">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> 
+                </button>
+                <a class="navbar-brand" href="index.html">Language course</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="">Practice<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="multiple_choise.html">Multiple choice test</a></li>
+                            <li><a href="spaces.html">Fill out spaces</a></li>
+                            <li><a href="Vokabeln.html">Write vocables</a></li>
+                            <li><a href="listen.html">Listen</a></li>
+                            <li><a href="list_and_print.html">List and print vocablelist</a></li>
+                            <li class="divider"></li>
+                            <li><a href="verben_konjugieren.html">Verb conjugation</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="makewordlist.php">Make a wordlist</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Aussprache<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">č - tsch (wie deutsch)</a></li>
+                            <li><a href="#">ć - dch </a></li>
+                            <li><a href="#">đ - dj</a></li>
+                            <li><a href="#">dž - dsch (wie Dschungel)</a></li>
+                            <li><a href="#">š - sch (wie Schule)</a></li>
+                            <li><a href="#">s - ß</a></li>
+                            <li><a href="#">v - w (wenig)</a></li>
+                            <li><a href="#">ž - frz. g</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <div class="vertical-center">
+        <div class="container text-center">
+            <div class="col-sm-4 col-sm-offset-4">
+                <!--<p>The pictures and audio files are not my own work! They are linked from <a href="http://www.50languages.com">www.50languages.com</a>. These vocabular files are very good, but the practice methodes i don't like. So i decided to program my own. Maybe i will make my own pictures and audio files later. This Web-Application is for my private use only. So I hope not to violate any law! If some one find this Web-Application accidentally and think that i violate any law, feel free to write me an Email: <a href="mailto:info@betterlife-withoutschool.org">info@betterlife-withoutschool.org</a></p>-->
+                <img src="images/index.jpg" width="300px">
+            </div>
+        </div>
+    </div>
+    <script src="js/load_menu.js"></script>
+
+
 </body>
+
 </html>

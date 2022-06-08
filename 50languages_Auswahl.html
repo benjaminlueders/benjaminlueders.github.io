@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Language course</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    
+    <style>
+        /* CSS used here will be applied after bootstrap.css */
+        
+        html,
+        body {
+            height: 100%;
+        }
+        
+        .vertical-center {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            /* align the inline(-block) elements horizontally */
+            font: 0/0 a;
+            /* remove the gap between inline(-block) elements */
+        }
+        
+        .vertical-center:before {
+            /* create a full-height inline block pseudo=element */
+            content: ' ';
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            height: 100%;
+        }
+        
+        .vertical-center>.container {
+            max-width: 100%;
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+            /* <-- reset the font property */
+        }
+        
+        @media (max-width: 768px) {
+            .vertical-center:before {
+                /* height: auto; or 0*/
+                display: none;
+            }
+        }
+
+    </style>
+</head>
+
+<body style="background-color:green;">
+    
+     <!-- Navigation -->
+       <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> 
+                </button>
+                <a class="navbar-brand" href="index.html">Language course</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="">Practice<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li class="active"><a href="1von3.html">Multiple choice test</a></li>
+                            <li><a href="wort_uebung.html">Type word test</a></li>
+                            <li><a href="50languages_Vokabeln.html">Multiple type word test</a></li>
+                            <li><a href="vorlesen.html">Listen</a></li>
+                            <li class="divider"></li>
+                            <li><a href="verben_konjugieren.html">Verb conjugation</a></li>
+                        </ul>
+                    </li>
+                    <li id="menu" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="">Wordlist1<span class="caret"></span></a>
+                        <ul id="cat" class="dropdown-menu">
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="">Wordlist2<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="wortauswahl.php?wordlist=Vokabeln1">Vokabeln1</a></li>
+                            <li><a href="wortauswahl.php?wordlist=Dialogtext1">Dialogtext1</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="change_practice_list.php">Practice list</a></li>
+
+                </ul>            
+            </div>
+        </div>
+    </nav>
+
+   
+    
+  <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-6">                                
+                <form id="vokabluar-input-form" class="form-horizontal" role="form">
+                  <fieldset id="vokabluar-input-form-fieldset">
+                    <div id="vokable1" class="form-group has-feedback">
+                        <div class="col-sm-12">
+                            <label id="vokable1-first-language-label" class="control-label" for="vokable1-second-language-input"></label>
+                        </div>
+                        <div class="col-sm-12">
+                            <input class="form-control" id="vokable1-second-language-input" type="text">
+                            <span id="vokable1-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                    </div>
+                    <div id="vokable2" class="form-group has-feedback">
+                        <div class="col-sm-12">
+                            <label id="vokable2-first-language-label" class="control-label" for="vokable2-second-language-input"></label>
+                        </div>
+                        <div class="col-sm-12">
+                            <input class="form-control" id="vokable2-second-language-input" type="text">
+                            <span id="vokable2-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                    </div>
+                    <div id="vokable3" class="form-group has-feedback">
+                        <div class="col-sm-12">
+                            <label id="vokable3-first-language-label" class="control-label" for="vokable3-second-language-input"></label>
+                        </div>
+                        <div class="col-sm-12">
+                            <input class="form-control" id="vokable3-second-language-input" type="text">
+                            <span id="vokable3-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                    </div>
+                    <div id="vokable4" class="form-group has-feedback">
+                        <div class="col-sm-12">
+                            <label id="vokable4-first-language-label" class="control-label" for="vokable4-second-language-input"></label>
+                        </div>
+                        <div class="col-sm-12">
+                            <input class="form-control" id="vokable4-second-language-input" type="text">
+                            <span id="vokable4-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                    </div>
+                    <div id="vokable5" class="form-group has-feedback">
+                        <div class="col-sm-12">
+                            <label id="vokable5-first-language-label" class="control-label" for="vokable5-second-language-input"></label>
+                        </div>
+                        <div class="col-sm-12">
+                            <input class="form-control" id="vokable5-second-language-input" type="text">
+                            <span id="vokable5-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                    </div>
+                    <div id="vokable6" class="form-group has-feedback">
+                        <div class="col-sm-12">
+                            <label id="vokable6-first-language-label" class="control-label" for="vokable6-second-language-input"></label>
+                        </div>    
+                        <div class="col-sm-12">
+                            <input class="form-control" id="vokable6-second-language-input" type="text">
+                            <span id="vokable6-glyphicon" class="glyphicon form-control-feedback"></span>
+                        </div>
+                    </div>
+                    </fieldset>
+                     <div class="form-group">
+                        <div class="col-sm-offset-4 col-sm-6">
+                            <button type="button" id="pruefen" class="btn btn-default btn-sm">Prüfen</button>
+                            <button type="button" id="loesen" class="btn btn-default btn-sm">Lösen</button>
+                            <button type="button" id="wiederholen" class="btn btn-default btn-sm">Wiederholen</button>
+                            <button type="button" id="naechstes" class="btn btn-link btn-sm pull-right" onfocusout="give_focus_to_vokable_input()">Nächsten 6 Vokabeln</button>
+                        </div>
+                    </div>                    
+                </form>                
+            </div>
+            <div class="col-lg-6">                
+                <div id="flip2">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <label for="filelist">Wähle eine Lektion</label>
+                            <select id="filelist" class="form-control" onchange="change_file()"></select>
+                        </div>
+                        <div class="col-lg-12">                            
+                                <img id="Image" src="images/1.jpg">                                                           
+                                <button id="previous" type="button" class="btn btn-default btn-sm" onclick="previous_lesson()">vorherige Lektion</button>
+                                <button id="next" type="button" class="btn btn-default btn-sm" onclick="next_lesson()">nächste Lektion</button> 
+                        </div>
+                    </div>
+                </div>
+                <div id="panel2" class="small">                    
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <label for="in">in Vokabelliste enthalten:</label>
+                            <select multiple class="form-control" size="10" id="in" ondblclick="takeout()"></select>                                          
+                        </div>
+                        <div class="col-lg-12 text-center">
+                            <button type="button" class="btn btn-default btn-sm" onclick="takeout()"><span class="glyphicon glyphicon-arrow-down"></span>&nbsp;&nbsp;Entfernen</button>
+                            <button type="button" class="btn btn-default btn-sm" onclick="putin()"><span class="glyphicon glyphicon-arrow-up"></span>&nbsp;&nbsp;Hinzufügen</button>                           
+                        </div>                                        
+                        <div class="col-lg-12">
+                            <label for="out">in Vokabelliste <u>nicht</u> enthalten:</label>
+                             <select multiple class="form-control" size="10" id="out" ondblclick="putin()"></select>
+                        </div>
+                    </div>
+                    <div class="row">    
+                        <div class="form-group" id="change-wordlist-form">
+                            <div class="col-lg-12 text-right">     
+                                <button type="button" class="btn btn-sm btn-primary" onclick="load_wordlist()">Laden</button>                                                       
+                                <button type="button" id="save-wordlist-button" class="btn btn-sm btn-primary" onclick="save_wordlist()">Speichern</button>
+                                <button type="button" class="btn btn-sm btn-primary" onclick="reset_wordlist()">Zurücksetzen</button>                                     
+                            </div>
+                            <div class="col-lg-12">
+                            <div class="col-lg-6">                                
+                                <label class="radio">
+                                    <input type="radio" name="option_language" checked onclick="first_language_to_second_language()">de-->hr
+                                </label>
+                                <label class="radio">
+                                  <input type="radio" name="option_language" onclick="second_language_to_first_language()">hr-->de
+                                </label>
+                                <label class="radio">
+                                  <input type="radio" name="option_language" disabled>gemixed 
+                                </label>
+                            </div>
+                            
+                            <div class="col-lg-6">                                
+                                <label class="radio">
+                                    <input type="radio" name="option_words_repeat" onclick="words_repeat_all()">alle Vokabeln wiederholen</label>
+                                <label class="radio">
+                                  <input type="radio" name="option_words_repeat" checked onclick="words_repeat_only_false()">nur falsche Vokabeln wiederholen</label>
+                                <label class="radio">
+                                  <input type="radio" name="option_words_repeat" onchange="words_repeat_none()">Vokabeln nicht wiederholen</label>                             
+                            </div>
+                            </div>
+                        </div> 
+                    </div>               
+                </div>
+                <div id="right_and_wrong">
+                    <div class="row">
+                    <div class="col-lg-6">
+                        <label for="words_right_label">Richtig:</label>
+                        <label id="words_right_label" class="text-success">0</label>
+                    </div>
+                    <div class="col-lg-6">
+                        <label for="words_wrong_label">Falsch:</label>
+                        <label id="words_wrong_label" class="text-danger">0</label>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+
+    
+    
+    <!-- myscripts -->
+    <script>
+        var wordlist;
+        var dateiliste;
+        var url;
+        var image_nr;
+        var xmlhttp = new XMLHttpRequest();
+        
+        xmlhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    dateiliste = JSON.parse(this.responseText);
+                }
+        };
+        xmlhttp.open("GET", "json/index50.json", false);
+        xmlhttp.send();
+        filelist_entry="";
+        /*for (s9 = 0; s9 < dateiliste.length; s9++) { 
+            filelist_entry +=  "<option>" + "50 Languages - Vokabeln " + " - " + dateiliste[s9]  + "</option>";            
+        }*/
+        filelist_entry +=  "<option>50 Languages - Auswahl</option>";
+        document.getElementById("filelist").innerHTML = filelist_entry;
+        
+        
+        document.getElementById("filelist").selectedIndex=0;
+        change_file();
+        
+        function next_lesson() {
+            document.getElementById("filelist").selectedIndex++;            
+            change_file();
+        }
+        function previous_lesson() {
+            document.getElementById("filelist").selectedIndex--;            
+            change_file();
+        } 
+                
+        function change_file() {
+            document.getElementById("next").removeAttribute("disabled");
+            document.getElementById("previous").removeAttribute("disabled");
+            if ( document.getElementById("filelist").selectedIndex == (dateiliste.length-1) ) {
+               document.getElementById("next").setAttribute("disabled","");
+            }
+            if (document.getElementById("filelist").selectedIndex == 0) {
+               document.getElementById("previous").setAttribute("disabled","");
+            }
+            image_nr="images/" + dateiliste[document.getElementById("filelist").selectedIndex] + ".jpg";
+            document.getElementById("Image").setAttribute("src",image_nr);           
+            url = "json/p.json";
+            xmlhttp.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                        wordlist = JSON.parse(this.responseText);
+                    }
+            };
+            xmlhttp.open("GET", url, false);
+            xmlhttp.send();
+            reset_wordlist();
+            change_vokabluar_input();
+
+        }
+        
+        function save_wordlist() {
+            localStorage["in_wordlist_"+url] = JSON.stringify(in_wordlist);
+            localStorage["out_wordlist_"+url] = JSON.stringify(out_of_wordlist);
+            change_wordlist();
+        }
+
+        function load_wordlist() {
+            in_wordlist = JSON.parse(localStorage["in_wordlist_"+url]);
+            out_of_wordlist = JSON.parse(localStorage["out_wordlist_"+url]);
+            change_wordlist();
+        }
+        
+            
+        
+    </script>
+    
+    <script src="js/script3.js"></script>        
+
+</body>
+
+</html>

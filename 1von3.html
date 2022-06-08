@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Language course</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/toggle_language.js"></script>
+    <style>
+        /* CSS used here will be applied after bootstrap.css */
+        
+        html,
+        body {
+            height: 100%;
+        }
+        
+        .vertical-center {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            /* align the inline(-block) elements horizontally */
+            font: 0/0 a;
+            /* remove the gap between inline(-block) elements */
+        }
+        
+        .vertical-center:before {
+            /* create a full-height inline block pseudo=element */
+            content: ' ';
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            height: 100%;
+        }
+        
+        .vertical-center>.container {
+            max-width: 100%;
+            display: inline-block;
+            vertical-align: middle;
+            /* vertical alignment of the inline element */
+            font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+            /* <-- reset the font property */
+        }
+        
+        @media (max-width: 768px) {
+            .vertical-center:before {
+                /* height: auto; or 0*/
+                display: none;
+            }
+        }
+
+    </style>
+</head>
+
+<body style="background-color:green;">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> 
+                </button>
+                <a class="navbar-brand" href="index.html">Language course</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="">Practice<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li class="active"><a href="1von3.html">Multiple choice test</a></li>
+                            <li><a href="wort_uebung.html">Type word test</a></li>
+                            <li><a href="vorlesen.html">Listen</a></li>
+                            <li class="divider"></li>
+                            <li><a href="Vokabeln.html">Vokable test</a></li>
+                            <li><a href="verben_konjugieren.html">Verb conjugation</a></li>
+                        </ul>
+                    </li>
+                    <li id="menu" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="">Wordlist1<span class="caret"></span></a>
+                        <ul id="cat" class="dropdown-menu">
+                        </ul>
+                    </li>
+                    <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="">Wordlist2<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="wortauswahl.php?wordlist=Vokabeln1">Vokabeln1</a></li>
+                            <li><a href="wortauswahl.php?wordlist=Dialogtext1">Dialogtext1</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="change_practice_list.php">Practice list</a></li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><img id="imgNavSel" src="" alt="..." class="img-thumbnail icon-small">  <span id="lanNavSel">DE</span> <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a id="navDeu" href="#" class="language"> <img id="imgNavDeu" src="" alt="..." class="img-thumbnail icon-small">  <span id="lanNavDeu">Deutsch</span></a>
+                            </li>
+                            <li>
+                                <a id="navEng" href="#" class="language"><img id="imgNavEng" src="/" alt="..." class="img-thumbnail icon-small">  <span id="lanNavEng">Hrvatski</span></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="">Options<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><label><input type="checkbox" value="" onclick="change_showpicture()">Show images</label></li>
+                            <li><label><input id="showaudioplayer" type="checkbox" value="" onclick="change_showaudioplayer()">Show audioplayer</label></li>
+                            <li><label><input id="autoplay" type="checkbox" value="" onclick="change_autoplay()">Autoplay audioplayer</label></li>
+                            <li class="divider"></li>
+                            <li><label><input id="" type="checkbox" size="1" checked value="" onclick="change_repeatvocables()">Remove right answered vocables</label></li>
+                            <li><label>after <input id="repetitions" value="2" min="1" step="1" type="number">times right answered</label></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="vertical-center">
+        <div class="container text-center">
+            <div id="inhalt" class="col-sm-4 col-sm-offset-4">
+
+                <img id="picture" class="hide" src="">
+
+                <div>
+                    <h2 id="german-word"></h2>
+                    <button id="answer1" type="button" class="My_button btn btn-default btn-lg btn-block" onclick="right_answer(0)"></button>
+                    <button id="answer2" type="button" class="My_button btn btn-default btn-lg btn-block" onclick="right_answer(1)"></button>
+                    <button id="answer3" type="button" class="My_button btn btn-default btn-lg btn-block" onclick="right_answer(2)"></button>
+
+                    <h2 id="croatian-word"></h2>
+                    <audio id="croatianaudio" controls hidden="true">                    
+                        <source id="croatianaudiosrc" src="" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <div>
+                        <button id="next_button" type="button" style="margin-top:10px;" class="btn hide" onclick="next_word()">next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        var all = [];
+        var url;
+        var xmlhttp = new XMLHttpRequest();
+
+        url = "json/ALL.json";
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                all = JSON.parse(this.responseText);
+            }
+        }
+        xmlhttp.open("GET", url, false);
+        xmlhttp.send();
+
+        var vocabulary = [];
+        var url;
+        var xmlhttp = new XMLHttpRequest();
+
+        url = "json/practice_list.json";
+        xmlhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                vocabulary = JSON.parse(this.responseText);
+            }
+        }
+        xmlhttp.open("GET", url, false);
+        xmlhttp.send();
+
+        var shuffle = function() {
+            return Math.random() - 0.5;
+        }
+        vocabulary = vocabulary.sort(shuffle);
+        for (i = 0; i < vocabulary.length; i++) {
+            vocabulary[i].rightanswered = 0;
+        }
+
+        vocableindex = 0;
+        var check;
+        set_word();
+        var answer = [];
+        var x = $("button.btn-block");
+        var audio = false;
+        var autoplay = false;
+        var richtig = true;
+        var always_repeat = false;
+
+
+
+        function change_showpicture() {
+            var x = $("#picture");
+            if (x.hasClass("hide")) {
+                x.removeClass("hide");
+            } else {
+                x.addClass("hide");
+            }
+        }
+
+        function change_showaudioplayer() {
+            if (audio == true) {
+                audio = false;
+            } else {
+                audio = true;
+            }
+        }
+
+        function change_repeatvocables() {
+            if (always_repeat == true) {
+                always_repeat = false;
+            } else {
+                always_repeat = true;
+            }
+        }
+
+        function change_autoplay() {
+            if (autoplay == true) {
+                autoplay = false;
+            } else {
+                autoplay = true;
+            }
+        }
+
+        function set_word() {
+            document.getElementById("answer1").blur();
+            document.getElementById("answer2").blur();
+            document.getElementById("answer3").blur();
+
+            if (vocabulary.length == 0) {
+                document.getElementById("inhalt").innerHTML = "<p>Super</p>";
+            }
+            $("#answer1").removeClass("hide");
+            $("#answer2").removeClass("hide");
+            $("#answer3").removeClass("hide");
+            document.getElementById("croatian-word").innerHTML = "";
+            var x = $("button.btn-block");
+            x[0].classList.remove("btn-danger");
+            x[0].classList.add("btn-default");
+            x[1].classList.remove("btn-danger");
+            x[1].classList.add("btn-default");
+            x[2].classList.remove("btn-danger");
+            x[2].classList.add("btn-default");
+
+            if (document.getElementById("lanNavSel").innerHTML == "DE") {
+
+                answer = vocabulary.slice(vocableindex, vocableindex + 1);
+                answer.push(all[Math.round(Math.random() * 1903)]);
+                answer.push(all[Math.round(Math.random() * 1903)]);
+
+                var shuffle = function() {
+                    return Math.random() - 0.5;
+                };
+                answer = answer.sort(shuffle);
+
+                document.getElementById("picture").setAttribute("src", vocabulary[vocableindex].pic_url);
+                document.getElementById("german-word").innerHTML = vocabulary[vocableindex].de_word;
+                document.getElementById("answer1").innerHTML = answer[0].hr_word;
+                document.getElementById("answer2").innerHTML = answer[1].hr_word;
+                document.getElementById("answer3").innerHTML = answer[2].hr_word;
+                document.getElementById("croatianaudio").setAttribute("hidden", "true");
+                $("#next_button").addClass("hide");
+                check = "DE";
+
+            } else if (document.getElementById("lanNavSel").innerHTML == "HR") {
+
+                answer = vocabulary.slice(vocableindex, vocableindex + 1);
+                answer.push(all[Math.round(Math.random() * 1903)]);
+                answer.push(all[Math.round(Math.random() * 1903)]);
+
+                var shuffle = function() {
+                    return Math.random() - 0.5;
+                };
+                answer = answer.sort(shuffle);
+
+                document.getElementById("picture").setAttribute("src", vocabulary[vocableindex].pic_url);
+                document.getElementById("german-word").innerHTML = vocabulary[vocableindex].hr_word;
+                document.getElementById("answer1").innerHTML = answer[0].de_word;
+                document.getElementById("answer2").innerHTML = answer[1].de_word;
+                document.getElementById("answer3").innerHTML = answer[2].de_word;
+                document.getElementById("croatianaudio").setAttribute("hidden", "true");
+                $("#next_button").addClass("hide");
+                check = "HR";
+
+            }
+        }
+
+
+        function right_answer(btn) {
+            if (check == "DE") {
+                var y = vocabulary[vocableindex].hr_word;
+            } else {
+                var y = vocabulary[vocableindex].de_word;
+            }
+            if (x[btn].innerHTML == y) {
+                if (audio == true) {
+                    check_word();
+                } else {
+                    if (richtig == true && always_repeat == false) {
+                        vocabulary[vocableindex].rightanswered++;
+
+                        if (vocabulary[vocableindex].rightanswered == document.getElementById("repetitions").value) {
+                            vocabulary.splice(vocableindex, 1);
+                        }
+                    }
+
+                    x[btn].classList.remove("btn-default");
+                    x[btn].classList.add("btn-success");
+                    if (autoplay == true) {
+                        if (document.getElementById("lanNavSel").innerHTML == "DE") {
+                            document.getElementById("croatianaudiosrc").src = vocabulary[vocableindex].hr_audio_url;
+                            document.getElementById("croatianaudio").load();
+                            document.getElementById("croatianaudio").play();
+                        } else {
+                            document.getElementById("croatianaudiosrc").src = vocabulary[vocableindex].de_audio_url;
+                            document.getElementById("croatianaudio").load();
+                            document.getElementById("croatianaudio").play();
+                        }
+                    }
+                    setTimeout(function() {
+                        next_word();
+                        x[btn].classList.remove("btn-success");
+                        x[btn].classList.add("btn-default");
+                    }, 2000);
+
+                }
+            } else {
+                x[btn].classList.remove("btn-default");
+                x[btn].classList.add("btn-danger");
+                richtig = false;
+            }
+
+        }
+
+        function check_word() {
+
+            $("#answer1").addClass("hide");
+            $("#answer2").addClass("hide");
+            $("#answer3").addClass("hide");
+
+            if (check == "DE") {
+
+                document.getElementById("croatian-word").innerHTML = vocabulary[vocableindex].hr_word;
+                document.getElementById("croatianaudio").removeAttribute("hidden");
+                document.getElementById("croatianaudiosrc").src = vocabulary[vocableindex].hr_audio_url;
+                document.getElementById("croatianaudio").load();
+                $("#next_button").removeClass("hide");
+                document.getElementById("next_button").focus();
+
+            } else if (check == "HR") {
+
+                document.getElementById("croatian-word").innerHTML = vocabulary[vocableindex].de_word;
+                document.getElementById("croatianaudio").removeAttribute("hidden");
+                document.getElementById("croatianaudiosrc").src = vocabulary[vocableindex].de_audio_url;
+                document.getElementById("croatianaudio").load();
+                $("#next_button").removeClass("hide");
+                document.getElementById("next_button").focus();
+            }
+        }
+
+        function next_word() {
+            vocableindex++;
+            if (vocableindex >= vocabulary.length) {
+                vocableindex = 0;
+            }
+            richtig = true;
+            set_word();
+        }
+
+    </script>
+
+    <script src="js/load_menu.js"></script>
+
+</body>
+
+</html>
