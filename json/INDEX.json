@@ -1,0 +1,380 @@
+[
+    {
+        "INDEX": "0",
+        "pic_url": "images/50/x01.jpg",
+        "de_audio_url": "audio/50/de_audio/x01.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x01.mp3",
+        "de_word": "Gef\u00fchle",
+        "hr_word": "Osje\u0107aji ",
+        "category": "0"
+    },
+    {
+        "INDEX": "1",
+        "pic_url": "images/50/x02.jpg",
+        "de_audio_url": "audio/50/de_audio/x02.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x02.mp3",
+        "de_word": "Tiere",
+        "hr_word": "\u017divotinje ",
+        "category": "0"
+    },
+    {
+        "INDEX": "2",
+        "pic_url": "images/50/x03.jpg",
+        "de_audio_url": "audio/50/de_audio/x03.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x03.mp3",
+        "de_word": "Sport",
+        "hr_word": "\u0160port",
+        "category": "0"
+    },
+    {
+        "INDEX": "3",
+        "pic_url": "images/50/x04.jpg",
+        "de_audio_url": "audio/50/de_audio/x04.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x04.mp3",
+        "de_word": "Musik",
+        "hr_word": "Glazba",
+        "category": "0"
+    },
+    {
+        "INDEX": "4",
+        "pic_url": "images/50/x05.jpg",
+        "de_audio_url": "audio/50/de_audio/x05.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x05.mp3",
+        "de_word": "B\u00fcro",
+        "hr_word": "Ured ",
+        "category": "0"
+    },
+    {
+        "INDEX": "5",
+        "pic_url": "images/50/x06.jpg",
+        "de_audio_url": "audio/50/de_audio/x06.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x06.mp3",
+        "de_word": "Getr\u00e4nke",
+        "hr_word": "Napici",
+        "category": "0"
+    },
+    {
+        "INDEX": "6",
+        "pic_url": "images/50/x07.jpg",
+        "de_audio_url": "audio/50/de_audio/x07.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x07.mp3",
+        "de_word": "Menschen",
+        "hr_word": "Ljudi",
+        "category": "0"
+    },
+    {
+        "INDEX": "7",
+        "pic_url": "images/50/x08.jpg",
+        "de_audio_url": "audio/50/de_audio/x08.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x08.mp3",
+        "de_word": "Zeit",
+        "hr_word": "Vrijeme",
+        "category": "0"
+    },
+    {
+        "INDEX": "8",
+        "pic_url": "images/50/x09.jpg",
+        "de_audio_url": "audio/50/de_audio/x09.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x09.mp3",
+        "de_word": "Umwelt",
+        "hr_word": "Okolina",
+        "category": "0"
+    },
+    {
+        "INDEX": "9",
+        "pic_url": "images/50/x10.jpg",
+        "de_audio_url": "audio/50/de_audio/x10.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x10.mp3",
+        "de_word": "Verpackung",
+        "hr_word": "Pakovanje",
+        "category": "0"
+    },
+    {
+        "INDEX": "10",
+        "pic_url": "images/50/x11.jpg",
+        "de_audio_url": "audio/50/de_audio/x11.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x11.mp3",
+        "de_word": "Werkzeuge",
+        "hr_word": "Alat",
+        "category": "0"
+    },
+    {
+        "INDEX": "11",
+        "pic_url": "images/50/x12.jpg",
+        "de_audio_url": "audio/50/de_audio/x12.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x12.mp3",
+        "de_word": "Verkehr",
+        "hr_word": "Promet",
+        "category": "0"
+    },
+    {
+        "INDEX": "12",
+        "pic_url": "images/50/x13.jpg",
+        "de_audio_url": "audio/50/de_audio/x13.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x13.mp3",
+        "de_word": "Fr\u00fcchte",
+        "hr_word": "Vo\u0107e",
+        "category": "0"
+    },
+    {
+        "INDEX": "13",
+        "pic_url": "images/50/x14.jpg",
+        "de_audio_url": "audio/50/de_audio/x14.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x14.mp3",
+        "de_word": "Freizeit",
+        "hr_word": "Slobodno vrijeme",
+        "category": "0"
+    },
+    {
+        "INDEX": "14",
+        "pic_url": "images/50/x15.jpg",
+        "de_audio_url": "audio/50/de_audio/x15.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x15.mp3",
+        "de_word": "Milit\u00e4r",
+        "hr_word": "Vojska",
+        "category": "0"
+    },
+    {
+        "INDEX": "15",
+        "pic_url": "images/50/x16.jpg",
+        "de_audio_url": "audio/50/de_audio/x16.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x16.mp3",
+        "de_word": "Kleidung",
+        "hr_word": "Odje\u0107a",
+        "category": "0"
+    },
+    {
+        "INDEX": "16",
+        "pic_url": "images/50/x17.jpg",
+        "de_audio_url": "audio/50/de_audio/x17.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x17.mp3",
+        "de_word": "Kommunikation",
+        "hr_word": "Komunikacija",
+        "category": "0"
+    },
+    {
+        "INDEX": "17",
+        "pic_url": "images/50/x18.jpg",
+        "de_audio_url": "audio/50/de_audio/x18.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x18.mp3",
+        "de_word": "Technik",
+        "hr_word": "Tehnika",
+        "category": "0"
+    },
+    {
+        "INDEX": "18",
+        "pic_url": "images/50/x19.jpg",
+        "de_audio_url": "audio/50/de_audio/x19.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x19.mp3",
+        "de_word": "Wohnung",
+        "hr_word": "Stan",
+        "category": "0"
+    },
+    {
+        "INDEX": "19",
+        "pic_url": "images/50/x20.jpg",
+        "de_audio_url": "audio/50/de_audio/x20.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x20.mp3",
+        "de_word": "Essen",
+        "hr_word": "Hrana",
+        "category": "0"
+    },
+    {
+        "INDEX": "20",
+        "pic_url": "images/50/x21.jpg",
+        "de_audio_url": "audio/50/de_audio/x21.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x21.mp3",
+        "de_word": "Berufe",
+        "hr_word": "Zanimanje",
+        "category": "0"
+    },
+    {
+        "INDEX": "21",
+        "pic_url": "images/50/x22.jpg",
+        "de_audio_url": "audio/50/de_audio/x22.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x22.mp3",
+        "de_word": "Gem\u00fcse",
+        "hr_word": "Povr\u0107e",
+        "category": "0"
+    },
+    {
+        "INDEX": "22",
+        "pic_url": "images/50/x23.jpg",
+        "de_audio_url": "audio/50/de_audio/x23.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x23.mp3",
+        "de_word": "Gegenst\u00e4nde",
+        "hr_word": "Predmeti",
+        "category": "0"
+    },
+    {
+        "INDEX": "23",
+        "pic_url": "images/50/x24.jpg",
+        "de_audio_url": "audio/50/de_audio/x24.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x24.mp3",
+        "de_word": "Bildung",
+        "hr_word": "Obrazovanje",
+        "category": "0"
+    },
+    {
+        "INDEX": "24",
+        "pic_url": "images/50/x25.jpg",
+        "de_audio_url": "audio/50/de_audio/x25.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x25.mp3",
+        "de_word": "K\u00f6rper",
+        "hr_word": "Tijelo",
+        "category": "0"
+    },
+    {
+        "INDEX": "25",
+        "pic_url": "images/50/x26.jpg",
+        "de_audio_url": "audio/50/de_audio/x26.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x26.mp3",
+        "de_word": "Natur",
+        "hr_word": "Priroda",
+        "category": "0"
+    },
+    {
+        "INDEX": "26",
+        "pic_url": "images/50/x27.jpg",
+        "de_audio_url": "audio/50/de_audio/x27.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x27.mp3",
+        "de_word": "Finanzen",
+        "hr_word": "Financije",
+        "category": "0"
+    },
+    {
+        "INDEX": "27",
+        "pic_url": "images/50/x28.jpg",
+        "de_audio_url": "audio/50/de_audio/x28.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x28.mp3",
+        "de_word": "M\u00f6bel",
+        "hr_word": "Namje\u0161taj",
+        "category": "0"
+    },
+    {
+        "INDEX": "28",
+        "pic_url": "images/50/x29.jpg",
+        "de_audio_url": "audio/50/de_audio/x29.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x29.mp3",
+        "de_word": "Religion",
+        "hr_word": "Religija",
+        "category": "0"
+    },
+    {
+        "INDEX": "29",
+        "pic_url": "images/50/x30.jpg",
+        "de_audio_url": "audio/50/de_audio/x30.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x30.mp3",
+        "de_word": "Pflanzen",
+        "hr_word": "Biljke",
+        "category": "0"
+    },
+    {
+        "INDEX": "30",
+        "pic_url": "images/50/x31.jpg",
+        "de_audio_url": "audio/50/de_audio/x31.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x31.mp3",
+        "de_word": "Abstrakta",
+        "hr_word": "Apstraktni izrazi",
+        "category": "0"
+    },
+    {
+        "INDEX": "31",
+        "pic_url": "images/50/x32.jpg",
+        "de_audio_url": "audio/50/de_audio/x32.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x32.mp3",
+        "de_word": "K\u00fcchenger\u00e4te",
+        "hr_word": "Kuhinjski ure\u0111aji",
+        "category": "0"
+    },
+    {
+        "INDEX": "32",
+        "pic_url": "images/50/x33.jpg",
+        "de_audio_url": "audio/50/de_audio/x33.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x33.mp3",
+        "de_word": "Materialien",
+        "hr_word": "Materijali",
+        "category": "0"
+    },
+    {
+        "INDEX": "33",
+        "pic_url": "images/50/x34.jpg",
+        "de_audio_url": "audio/50/de_audio/x34.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x34.mp3",
+        "de_word": "Gesundheit",
+        "hr_word": "Zdravlje",
+        "category": "0"
+    },
+    {
+        "INDEX": "34",
+        "pic_url": "images/50/x35.jpg",
+        "de_audio_url": "audio/50/de_audio/x35.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x35.mp3",
+        "de_word": "Auto",
+        "hr_word": "Automobil",
+        "category": "0"
+    },
+    {
+        "INDEX": "35",
+        "pic_url": "images/50/x36.jpg",
+        "de_audio_url": "audio/50/de_audio/x36.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x36.mp3",
+        "de_word": "K\u00fcnste",
+        "hr_word": "Umjetnosti",
+        "category": "0"
+    },
+    {
+        "INDEX": "36",
+        "pic_url": "images/50/x37.jpg",
+        "de_audio_url": "audio/50/de_audio/x37.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x37.mp3",
+        "de_word": "Stadt",
+        "hr_word": "Grad",
+        "category": "0"
+    },
+    {
+        "INDEX": "37",
+        "pic_url": "images/50/x38.jpg",
+        "de_audio_url": "audio/50/de_audio/x38.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x38.mp3",
+        "de_word": "Wetter",
+        "hr_word": "Vrijeme",
+        "category": "0"
+    },
+    {
+        "INDEX": "38",
+        "pic_url": "images/50/x39.jpg",
+        "de_audio_url": "audio/50/de_audio/x39.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x39.mp3",
+        "de_word": "Einkauf",
+        "hr_word": "Kupovina",
+        "category": "0"
+    },
+    {
+        "INDEX": "39",
+        "pic_url": "images/50/x40.jpg",
+        "de_audio_url": "audio/50/de_audio/x40.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x40.mp3",
+        "de_word": "Architektur",
+        "hr_word": "Arhitektura",
+        "category": "0"
+    },
+    {
+        "INDEX": "40",
+        "pic_url": "images/50/x41.jpg",
+        "de_audio_url": "audio/50/de_audio/x41.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x41.mp3",
+        "de_word": "Gro\u00dfe Tiere",
+        "hr_word": "Velike \u017eivotinje",
+        "category": "0"
+    },
+    {
+        "INDEX": "41",
+        "pic_url": "images/50/x42.jpg",
+        "de_audio_url": "audio/50/de_audio/x42.mp3",
+        "hr_audio_url": "audio/50/hr_audio/x42.mp3",
+        "de_word": "Kleine Tiere",
+        "hr_word": "Male \u017eivotinje",
+        "category": "0"
+    }
+]
