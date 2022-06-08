@@ -1,0 +1,49 @@
+#accordion table * {
+    padding: 0px;
+    text-align: center;
+}
+
+#change-wordlist-form {
+    padding: 10px;
+}
+
+#flip2,
+#panel2,
+#panel,
+#flip,
+#right_and_wrong {
+    padding: 5px;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#panel,
+#right_and_wrong {
+    display: none;
+}
+
+#flip {
+    text-align: center;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>h4,
+.carousel-inner>.item>p {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.vertical-centered {
+    position: absolute;
+    left: 0;
+    bottom: 50%;
+    width: 100%;
+}
+
+.icon-small {
+    height: 18px;
+    width: 30px;
+    margin: 0;
+    padding: 0;
+}
