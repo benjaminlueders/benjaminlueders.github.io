@@ -1,0 +1,298 @@
+[
+    {
+        "pic_url": "images/50/0020.jpg",
+        "de_audio_url": "audio/50/de_audio/1868.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1868.mp3",
+        "de_word": "die Ameise",
+        "hr_word": "mrav",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0750.jpg",
+        "de_audio_url": "audio/50/de_audio/1869.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1869.mp3",
+        "de_word": "der K\u00e4fer",
+        "hr_word": "buba",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1503.jpg",
+        "de_audio_url": "audio/50/de_audio/1870.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1870.mp3",
+        "de_word": "der Vogel",
+        "hr_word": "ptica",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1505.jpg",
+        "de_audio_url": "audio/50/de_audio/1871.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1871.mp3",
+        "de_word": "der Vogelk\u00e4fig",
+        "hr_word": "kavez za ptice",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1504.jpg",
+        "de_audio_url": "audio/50/de_audio/1872.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1872.mp3",
+        "de_word": "das Vogelhaus",
+        "hr_word": "ku\u0107ica za ptice",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0568.jpg",
+        "de_audio_url": "audio/50/de_audio/1873.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1873.mp3",
+        "de_word": "die Hummel",
+        "hr_word": "bumbar",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1183.jpg",
+        "de_audio_url": "audio/50/de_audio/1874.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1874.mp3",
+        "de_word": "der Schmetterling",
+        "hr_word": "leptir",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1079.jpg",
+        "de_audio_url": "audio/50/de_audio/1875.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1875.mp3",
+        "de_word": "die Raupe",
+        "hr_word": "gusjenica",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1391.jpg",
+        "de_audio_url": "audio/50/de_audio/1876.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1876.mp3",
+        "de_word": "der Tausendf\u00fc\u00dfler",
+        "hr_word": "stonoga",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0718.jpg",
+        "de_audio_url": "audio/50/de_audio/1877.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1877.mp3",
+        "de_word": "die Krabbe",
+        "hr_word": "rak",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0364.jpg",
+        "de_audio_url": "audio/50/de_audio/1878.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1878.mp3",
+        "de_word": "die Fliege",
+        "hr_word": "muha",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0387.jpg",
+        "de_audio_url": "audio/50/de_audio/1879.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1879.mp3",
+        "de_word": "der Frosch",
+        "hr_word": "\u017eaba",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0474.jpg",
+        "de_audio_url": "audio/50/de_audio/1880.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1880.mp3",
+        "de_word": "der Goldfisch",
+        "hr_word": "zlatna ribica",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0550.jpg",
+        "de_audio_url": "audio/50/de_audio/1881.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1881.mp3",
+        "de_word": "die Heuschrecke",
+        "hr_word": "skakavac",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0855.jpg",
+        "de_audio_url": "audio/50/de_audio/1882.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1882.mp3",
+        "de_word": "das Meerschweinchen",
+        "hr_word": "zamorac",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0511.jpg",
+        "de_audio_url": "audio/50/de_audio/1883.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1883.mp3",
+        "de_word": "der Hamster",
+        "hr_word": "hr\u010dak",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0586.jpg",
+        "de_audio_url": "audio/50/de_audio/1884.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1884.mp3",
+        "de_word": "der Igel",
+        "hr_word": "je\u017e",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0695.jpg",
+        "de_audio_url": "audio/50/de_audio/1885.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1885.mp3",
+        "de_word": "der Kolibri",
+        "hr_word": "kolibri",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0785.jpg",
+        "de_audio_url": "audio/50/de_audio/1886.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1886.mp3",
+        "de_word": "der Leguan",
+        "hr_word": "iguana",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0590.jpg",
+        "de_audio_url": "audio/50/de_audio/1887.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1887.mp3",
+        "de_word": "das Insekt",
+        "hr_word": "kukac",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1059.jpg",
+        "de_audio_url": "audio/50/de_audio/1888.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1888.mp3",
+        "de_word": "die Qualle",
+        "hr_word": "meduza",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0756.jpg",
+        "de_audio_url": "audio/50/de_audio/1889.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1889.mp3",
+        "de_word": "das K\u00e4tzchen",
+        "hr_word": "ma\u010di\u0107",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0837.jpg",
+        "de_audio_url": "audio/50/de_audio/1890.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1890.mp3",
+        "de_word": "der Marienk\u00e4fer",
+        "hr_word": "bubamara",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0262.jpg",
+        "de_audio_url": "audio/50/de_audio/1891.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1891.mp3",
+        "de_word": "die Eidechse",
+        "hr_word": "gu\u0161ter",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0782.jpg",
+        "de_audio_url": "audio/50/de_audio/1892.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1892.mp3",
+        "de_word": "die Laus",
+        "hr_word": "u\u0161",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0903.jpg",
+        "de_audio_url": "audio/50/de_audio/1893.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1893.mp3",
+        "de_word": "das Murmeltier",
+        "hr_word": "svizac",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/2122.jpg",
+        "de_audio_url": "audio/50/de_audio/1894.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1894.mp3",
+        "de_word": "die M\u00fccke",
+        "hr_word": "komarac",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/2081.jpg",
+        "de_audio_url": "audio/50/de_audio/1895.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1895.mp3",
+        "de_word": "die Maus",
+        "hr_word": "mi\u0161",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1948.jpg",
+        "de_audio_url": "audio/50/de_audio/1896.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1896.mp3",
+        "de_word": "die Auster",
+        "hr_word": "kamenica",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1273.jpg",
+        "de_audio_url": "audio/50/de_audio/1897.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1897.mp3",
+        "de_word": "der Skorpion",
+        "hr_word": "\u0161korpion",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1238.jpg",
+        "de_audio_url": "audio/50/de_audio/1898.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1898.mp3",
+        "de_word": "das Seepferdchen",
+        "hr_word": "morski konjic",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0904.jpg",
+        "de_audio_url": "audio/50/de_audio/1899.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1899.mp3",
+        "de_word": "die Muschel",
+        "hr_word": "\u0161koljka",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/0410.jpg",
+        "de_audio_url": "audio/50/de_audio/1900.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1900.mp3",
+        "de_word": "die Garnele",
+        "hr_word": "kozica",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1312.jpg",
+        "de_audio_url": "audio/50/de_audio/1901.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1901.mp3",
+        "de_word": "die Spinne",
+        "hr_word": "pauk",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1313.jpg",
+        "de_audio_url": "audio/50/de_audio/1902.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1902.mp3",
+        "de_word": "das Spinnennetz",
+        "hr_word": "paukova mre\u017ea",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1240.jpg",
+        "de_audio_url": "audio/50/de_audio/1903.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1903.mp3",
+        "de_word": "der Seestern",
+        "hr_word": "zvjezda\u010da",
+        "category": "Kleine Tiere"
+    },
+    {
+        "pic_url": "images/50/1558.jpg",
+        "de_audio_url": "audio/50/de_audio/1904.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1904.mp3",
+        "de_word": "die Wespe",
+        "hr_word": "osa",
+        "category": "Kleine Tiere"
+    }
+]

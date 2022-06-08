@@ -1,0 +1,170 @@
+[
+    {
+        "pic_url": "images/50/0860.jpg",
+        "de_audio_url": "audio/50/de_audio/1591.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1591.mp3",
+        "de_word": "das Messing",
+        "hr_word": "mjed",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1610.jpg",
+        "de_audio_url": "audio/50/de_audio/1592.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1592.mp3",
+        "de_word": "der Zement",
+        "hr_word": "cement",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/0655.jpg",
+        "de_audio_url": "audio/50/de_audio/1593.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1593.mp3",
+        "de_word": "die Keramik",
+        "hr_word": "keramika",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1457.jpg",
+        "de_audio_url": "audio/50/de_audio/1594.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1594.mp3",
+        "de_word": "das Tuch",
+        "hr_word": "krpa",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/2125.jpg",
+        "de_audio_url": "audio/50/de_audio/1595.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1595.mp3",
+        "de_word": "der Stoff",
+        "hr_word": "tkanina",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1997.jpg",
+        "de_audio_url": "audio/50/de_audio/1596.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1596.mp3",
+        "de_word": "die Baumwolle",
+        "hr_word": "pamuk",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/0731.jpg",
+        "de_audio_url": "audio/50/de_audio/1597.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1597.mp3",
+        "de_word": "das Kristall",
+        "hr_word": "kristal",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1187.jpg",
+        "de_audio_url": "audio/50/de_audio/1598.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1598.mp3",
+        "de_word": "der Schmutz",
+        "hr_word": "prljav\u0161tina",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/2009.jpg",
+        "de_audio_url": "audio/50/de_audio/1599.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1599.mp3",
+        "de_word": "der Leim",
+        "hr_word": "ljepilo",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/2088.jpg",
+        "de_audio_url": "audio/50/de_audio/1600.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1600.mp3",
+        "de_word": "das Leder",
+        "hr_word": "ko\u017ea",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/0861.jpg",
+        "de_audio_url": "audio/50/de_audio/1601.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1601.mp3",
+        "de_word": "das Metall",
+        "hr_word": "metal",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1641.jpg",
+        "de_audio_url": "audio/50/de_audio/1602.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1602.mp3",
+        "de_word": "das \u00d6l",
+        "hr_word": "ulje",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1054.jpg",
+        "de_audio_url": "audio/50/de_audio/1603.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1603.mp3",
+        "de_word": "das Pulver",
+        "hr_word": "prah",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/2062.jpg",
+        "de_audio_url": "audio/50/de_audio/1604.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1604.mp3",
+        "de_word": "das Salz",
+        "hr_word": "sol",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1138.jpg",
+        "de_audio_url": "audio/50/de_audio/1605.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1605.mp3",
+        "de_word": "der Sand",
+        "hr_word": "pijesak",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1211.jpg",
+        "de_audio_url": "audio/50/de_audio/1606.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1606.mp3",
+        "de_word": "der Schrott",
+        "hr_word": "otpad",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1262.jpg",
+        "de_audio_url": "audio/50/de_audio/1607.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1607.mp3",
+        "de_word": "das Silber",
+        "hr_word": "srebro",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1337.jpg",
+        "de_audio_url": "audio/50/de_audio/1608.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1608.mp3",
+        "de_word": "der Stein",
+        "hr_word": "kamen",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1359.jpg",
+        "de_audio_url": "audio/50/de_audio/1609.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1609.mp3",
+        "de_word": "das Stroh",
+        "hr_word": "slama",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1868.jpg",
+        "de_audio_url": "audio/50/de_audio/1610.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1610.mp3",
+        "de_word": "das Holz",
+        "hr_word": "drvo",
+        "category": "Materialien"
+    },
+    {
+        "pic_url": "images/50/1578.jpg",
+        "de_audio_url": "audio/50/de_audio/1611.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1611.mp3",
+        "de_word": "die Wolle",
+        "hr_word": "vuna",
+        "category": "Materialien"
+    }
+]

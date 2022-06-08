@@ -1,0 +1,218 @@
+[
+    {
+        "pic_url": "images/50/0147.jpg",
+        "de_audio_url": "audio/50/de_audio/1344.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1344.mp3",
+        "de_word": "der Bogen",
+        "hr_word": "luk",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/2059.jpg",
+        "de_audio_url": "audio/50/de_audio/1345.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1345.mp3",
+        "de_word": "der Stall",
+        "hr_word": "\u0161tala",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0178.jpg",
+        "de_audio_url": "audio/50/de_audio/1346.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1346.mp3",
+        "de_word": "die Bucht",
+        "hr_word": "zaljev",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1349.jpg",
+        "de_audio_url": "audio/50/de_audio/1347.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1347.mp3",
+        "de_word": "der Strand",
+        "hr_word": "pla\u017ea",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0135.jpg",
+        "de_audio_url": "audio/50/de_audio/1348.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1348.mp3",
+        "de_word": "die Blase",
+        "hr_word": "mjehuri\u0107",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0580.jpg",
+        "de_audio_url": "audio/50/de_audio/1349.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1349.mp3",
+        "de_word": "die H\u00f6hle",
+        "hr_word": "\u0161pilja",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1808.jpg",
+        "de_audio_url": "audio/50/de_audio/1350.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1350.mp3",
+        "de_word": "der Bauernhof",
+        "hr_word": "gospodarstvo",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0344.jpg",
+        "de_audio_url": "audio/50/de_audio/1351.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1351.mp3",
+        "de_word": "das Feuer",
+        "hr_word": "vatra",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1325.jpg",
+        "de_audio_url": "audio/50/de_audio/1352.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1352.mp3",
+        "de_word": "die Spur",
+        "hr_word": "trag",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0470.jpg",
+        "de_audio_url": "audio/50/de_audio/1353.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1353.mp3",
+        "de_word": "der Globus",
+        "hr_word": "globus",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0303.jpg",
+        "de_audio_url": "audio/50/de_audio/1354.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1354.mp3",
+        "de_word": "die Ernte",
+        "hr_word": "\u017eetva",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0548.jpg",
+        "de_audio_url": "audio/50/de_audio/1355.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1355.mp3",
+        "de_word": "der Heuballen",
+        "hr_word": "bala sijena",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0301.jpg",
+        "de_audio_url": "audio/50/de_audio/1356.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1356.mp3",
+        "de_word": "der See",
+        "hr_word": "jezero",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0136.jpg",
+        "de_audio_url": "audio/50/de_audio/1357.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1357.mp3",
+        "de_word": "das Blatt",
+        "hr_word": "list",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0114.jpg",
+        "de_audio_url": "audio/50/de_audio/1358.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1358.mp3",
+        "de_word": "der Berg",
+        "hr_word": "planina",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0972.jpg",
+        "de_audio_url": "audio/50/de_audio/1359.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1359.mp3",
+        "de_word": "der Ozean",
+        "hr_word": "ocean",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0979.jpg",
+        "de_audio_url": "audio/50/de_audio/1360.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1360.mp3",
+        "de_word": "das Panorama",
+        "hr_word": "panorama",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0331.jpg",
+        "de_audio_url": "audio/50/de_audio/1361.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1361.mp3",
+        "de_word": "der Felsen",
+        "hr_word": "stijena",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1060.jpg",
+        "de_audio_url": "audio/50/de_audio/1362.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1362.mp3",
+        "de_word": "die Quelle",
+        "hr_word": "izvor",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1366.jpg",
+        "de_audio_url": "audio/50/de_audio/1363.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1363.mp3",
+        "de_word": "der Sumpf",
+        "hr_word": "mo\u010dvara",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0104.jpg",
+        "de_audio_url": "audio/50/de_audio/1364.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1364.mp3",
+        "de_word": "der Baum",
+        "hr_word": "stablo",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0105.jpg",
+        "de_audio_url": "audio/50/de_audio/1365.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1365.mp3",
+        "de_word": "der Baumstamm",
+        "hr_word": "panj",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/2040.jpg",
+        "de_audio_url": "audio/50/de_audio/1366.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1366.mp3",
+        "de_word": "das Tal",
+        "hr_word": "dolina",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/0063.jpg",
+        "de_audio_url": "audio/50/de_audio/1367.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1367.mp3",
+        "de_word": "die Aussicht",
+        "hr_word": "pogled",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1536.jpg",
+        "de_audio_url": "audio/50/de_audio/1368.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1368.mp3",
+        "de_word": "der Wasserstrahl",
+        "hr_word": "mlaz vode",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1527.jpg",
+        "de_audio_url": "audio/50/de_audio/1369.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1369.mp3",
+        "de_word": "der Wasserfall",
+        "hr_word": "vodopad",
+        "category": "Natur"
+    },
+    {
+        "pic_url": "images/50/1552.jpg",
+        "de_audio_url": "audio/50/de_audio/1370.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1370.mp3",
+        "de_word": "die Welle",
+        "hr_word": "val",
+        "category": "Natur"
+    }
+]

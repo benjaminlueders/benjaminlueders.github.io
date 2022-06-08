@@ -1,0 +1,218 @@
+[
+    {
+        "pic_url": "images/50/0006.jpg",
+        "de_audio_url": "audio/50/de_audio/0190.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0190.mp3",
+        "de_word": "das Akkordeon",
+        "hr_word": "harmonika",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0084.jpg",
+        "de_audio_url": "audio/50/de_audio/0191.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0191.mp3",
+        "de_word": "die Balalaika",
+        "hr_word": "balalajka",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0091.jpg",
+        "de_audio_url": "audio/50/de_audio/0192.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0192.mp3",
+        "de_word": "die Band",
+        "hr_word": "bend",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0094.jpg",
+        "de_audio_url": "audio/50/de_audio/0193.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0193.mp3",
+        "de_word": "das Banjo",
+        "hr_word": "bend\u017eo",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0669.jpg",
+        "de_audio_url": "audio/50/de_audio/0194.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0194.mp3",
+        "de_word": "die Klarinette",
+        "hr_word": "klarinet",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1866.jpg",
+        "de_audio_url": "audio/50/de_audio/0195.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0195.mp3",
+        "de_word": "das Konzert",
+        "hr_word": "koncert",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1452.jpg",
+        "de_audio_url": "audio/50/de_audio/0196.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0196.mp3",
+        "de_word": "die Trommel",
+        "hr_word": "bubanj",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1172.jpg",
+        "de_audio_url": "audio/50/de_audio/0197.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0197.mp3",
+        "de_word": "das Schlagzeug",
+        "hr_word": "bubnjevi",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0371.jpg",
+        "de_audio_url": "audio/50/de_audio/0198.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0198.mp3",
+        "de_word": "die Fl\u00f6te",
+        "hr_word": "flauta",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0372.jpg",
+        "de_audio_url": "audio/50/de_audio/0199.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0199.mp3",
+        "de_word": "der Fl\u00fcgel",
+        "hr_word": "veliki glasovir",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0462.jpg",
+        "de_audio_url": "audio/50/de_audio/0200.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0200.mp3",
+        "de_word": "die Gitarre",
+        "hr_word": "gitara",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1128.jpg",
+        "de_audio_url": "audio/50/de_audio/0201.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0201.mp3",
+        "de_word": "der Saal",
+        "hr_word": "dvorana",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0660.jpg",
+        "de_audio_url": "audio/50/de_audio/0202.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0202.mp3",
+        "de_word": "das Keyboard",
+        "hr_word": "klavijatura",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0900.jpg",
+        "de_audio_url": "audio/50/de_audio/0203.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0203.mp3",
+        "de_word": "die Mundharmonika",
+        "hr_word": "usna harmonika",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0906.jpg",
+        "de_audio_url": "audio/50/de_audio/0204.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0204.mp3",
+        "de_word": "die Musik",
+        "hr_word": "glazba",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0941.jpg",
+        "de_audio_url": "audio/50/de_audio/0205.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0205.mp3",
+        "de_word": "der Notenst\u00e4nder",
+        "hr_word": "glazbeni stalak",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0940.jpg",
+        "de_audio_url": "audio/50/de_audio/0206.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0206.mp3",
+        "de_word": "die Note",
+        "hr_word": "nota",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0968.jpg",
+        "de_audio_url": "audio/50/de_audio/0207.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0207.mp3",
+        "de_word": "die Orgel",
+        "hr_word": "orgulje",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0671.jpg",
+        "de_audio_url": "audio/50/de_audio/0208.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0208.mp3",
+        "de_word": "das Klavier",
+        "hr_word": "glasovir",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1146.jpg",
+        "de_audio_url": "audio/50/de_audio/0209.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0209.mp3",
+        "de_word": "das Saxofon",
+        "hr_word": "saksofon",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0440.jpg",
+        "de_audio_url": "audio/50/de_audio/0210.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0210.mp3",
+        "de_word": "der S\u00e4nger",
+        "hr_word": "pjeva\u010d",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1132.jpg",
+        "de_audio_url": "audio/50/de_audio/0211.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0211.mp3",
+        "de_word": "die Saite",
+        "hr_word": "\u017eica",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1453.jpg",
+        "de_audio_url": "audio/50/de_audio/0212.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0212.mp3",
+        "de_word": "die Trompete",
+        "hr_word": "truba",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1454.jpg",
+        "de_audio_url": "audio/50/de_audio/0213.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0213.mp3",
+        "de_word": "der Trompeter",
+        "hr_word": "truba\u010d",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0428.jpg",
+        "de_audio_url": "audio/50/de_audio/0214.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0214.mp3",
+        "de_word": "die Geige",
+        "hr_word": "violina",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/0429.jpg",
+        "de_audio_url": "audio/50/de_audio/0215.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0215.mp3",
+        "de_word": "der Geigenkasten",
+        "hr_word": "violinski kov\u010deg",
+        "category": "Musik"
+    },
+    {
+        "pic_url": "images/50/1588.jpg",
+        "de_audio_url": "audio/50/de_audio/0216.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0216.mp3",
+        "de_word": "das Xylofon",
+        "hr_word": "ksilofon",
+        "category": "Musik"
+    }
+]

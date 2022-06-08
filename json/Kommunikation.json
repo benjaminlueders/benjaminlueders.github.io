@@ -1,0 +1,514 @@
+[
+    {
+        "pic_url": "images/50/2014.jpg",
+        "de_audio_url": "audio/50/de_audio/0803.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0803.mp3",
+        "de_word": "die Adresse",
+        "hr_word": "adresa",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1844.jpg",
+        "de_audio_url": "audio/50/de_audio/0804.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0804.mp3",
+        "de_word": "das Alphabet",
+        "hr_word": "abeceda",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1975.jpg",
+        "de_audio_url": "audio/50/de_audio/0805.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0805.mp3",
+        "de_word": "der Anrufbeantworter",
+        "hr_word": "telefonska tajnica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0034.jpg",
+        "de_audio_url": "audio/50/de_audio/0806.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0806.mp3",
+        "de_word": "die Antenne",
+        "hr_word": "antena",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0031.jpg",
+        "de_audio_url": "audio/50/de_audio/0807.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0807.mp3",
+        "de_word": "der Anruf",
+        "hr_word": "poziv",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0199.jpg",
+        "de_audio_url": "audio/50/de_audio/0808.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0808.mp3",
+        "de_word": "die CD",
+        "hr_word": "kompakti disk",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0699.jpg",
+        "de_audio_url": "audio/50/de_audio/0809.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0809.mp3",
+        "de_word": "die Kommunikation",
+        "hr_word": "komunikacija",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/2133.jpg",
+        "de_audio_url": "audio/50/de_audio/0810.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0810.mp3",
+        "de_word": "die Vertraulichkeit",
+        "hr_word": "povjerljivost",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0032.jpg",
+        "de_audio_url": "audio/50/de_audio/0811.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0811.mp3",
+        "de_word": "der Anschluss",
+        "hr_word": "priklju\u010dak",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1851.jpg",
+        "de_audio_url": "audio/50/de_audio/0812.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0812.mp3",
+        "de_word": "die Diskussion",
+        "hr_word": "rasprava",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1802.jpg",
+        "de_audio_url": "audio/50/de_audio/0813.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0813.mp3",
+        "de_word": "die E-Mail",
+        "hr_word": "e-mail",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1474.jpg",
+        "de_audio_url": "audio/50/de_audio/0814.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0814.mp3",
+        "de_word": "die Unterhaltung",
+        "hr_word": "zabava",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1739.jpg",
+        "de_audio_url": "audio/50/de_audio/0815.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0815.mp3",
+        "de_word": "die Eilsendung",
+        "hr_word": "\u017eurna dostava",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1969.jpg",
+        "de_audio_url": "audio/50/de_audio/0816.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0816.mp3",
+        "de_word": "das Fax",
+        "hr_word": "faks",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0351.jpg",
+        "de_audio_url": "audio/50/de_audio/0817.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0817.mp3",
+        "de_word": "die Filmindustrie",
+        "hr_word": "filmska industrija",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1210.jpg",
+        "de_audio_url": "audio/50/de_audio/0818.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0818.mp3",
+        "de_word": "die Schrift",
+        "hr_word": "pismo",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0111.jpg",
+        "de_audio_url": "audio/50/de_audio/0819.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0819.mp3",
+        "de_word": "die Begr\u00fc\u00dfung",
+        "hr_word": "pozdrav",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0490.jpg",
+        "de_audio_url": "audio/50/de_audio/0820.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0820.mp3",
+        "de_word": "der Gru\u00df",
+        "hr_word": "pozdrav",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1887.jpg",
+        "de_audio_url": "audio/50/de_audio/0821.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0821.mp3",
+        "de_word": "die Gl\u00fcckwunschkarte",
+        "hr_word": "\u010destitka",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0709.jpg",
+        "de_audio_url": "audio/50/de_audio/0822.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0822.mp3",
+        "de_word": "der Kopfh\u00f6rer",
+        "hr_word": "slu\u0161alice",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0584.jpg",
+        "de_audio_url": "audio/50/de_audio/0823.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0823.mp3",
+        "de_word": "das Icon",
+        "hr_word": "ikona",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0589.jpg",
+        "de_audio_url": "audio/50/de_audio/0824.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0824.mp3",
+        "de_word": "die Information",
+        "hr_word": "informacija",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1980.jpg",
+        "de_audio_url": "audio/50/de_audio/0825.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0825.mp3",
+        "de_word": "das Internet",
+        "hr_word": "internet",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1836.jpg",
+        "de_audio_url": "audio/50/de_audio/0826.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0826.mp3",
+        "de_word": "das Interview",
+        "hr_word": "intervju",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1387.jpg",
+        "de_audio_url": "audio/50/de_audio/0827.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0827.mp3",
+        "de_word": "die Tastatur",
+        "hr_word": "tipkovnica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0177.jpg",
+        "de_audio_url": "audio/50/de_audio/0828.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0828.mp3",
+        "de_word": "der Buchstabe",
+        "hr_word": "slovo",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1954.jpg",
+        "de_audio_url": "audio/50/de_audio/0829.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0829.mp3",
+        "de_word": "der Brief",
+        "hr_word": "pismo",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0588.jpg",
+        "de_audio_url": "audio/50/de_audio/0830.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0830.mp3",
+        "de_word": "die Illustrierte",
+        "hr_word": "\u010dasopis",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1966.jpg",
+        "de_audio_url": "audio/50/de_audio/0831.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0831.mp3",
+        "de_word": "das Medium",
+        "hr_word": "medij",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0865.jpg",
+        "de_audio_url": "audio/50/de_audio/0832.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0832.mp3",
+        "de_word": "das Mikrofon",
+        "hr_word": "mikrofon",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1877.jpg",
+        "de_audio_url": "audio/50/de_audio/0833.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0833.mp3",
+        "de_word": "das Handy",
+        "hr_word": "mobilni telefon",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1924.jpg",
+        "de_audio_url": "audio/50/de_audio/0834.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0834.mp3",
+        "de_word": "das Modem",
+        "hr_word": "modem",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0883.jpg",
+        "de_audio_url": "audio/50/de_audio/0835.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0835.mp3",
+        "de_word": "der Monitor",
+        "hr_word": "monitor",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0850.jpg",
+        "de_audio_url": "audio/50/de_audio/0836.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0836.mp3",
+        "de_word": "das Mauspad",
+        "hr_word": "podlo\u017eak za mi\u0161\u0430",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0921.jpg",
+        "de_audio_url": "audio/50/de_audio/0837.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0837.mp3",
+        "de_word": "die Nachricht",
+        "hr_word": "novost",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1606.jpg",
+        "de_audio_url": "audio/50/de_audio/0838.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0838.mp3",
+        "de_word": "die Zeitung",
+        "hr_word": "novine",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/2066.jpg",
+        "de_audio_url": "audio/50/de_audio/0839.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0839.mp3",
+        "de_word": "der L\u00e4rm",
+        "hr_word": "buka",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0942.jpg",
+        "de_audio_url": "audio/50/de_audio/0840.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0840.mp3",
+        "de_word": "die Notiz",
+        "hr_word": "bilje\u017enik",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1613.jpg",
+        "de_audio_url": "audio/50/de_audio/0841.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0841.mp3",
+        "de_word": "der Zettel",
+        "hr_word": "cedulja",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1901.jpg",
+        "de_audio_url": "audio/50/de_audio/0842.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0842.mp3",
+        "de_word": "der M\u00fcnzfernsprecher",
+        "hr_word": "javna telefonska govornica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0375.jpg",
+        "de_audio_url": "audio/50/de_audio/0843.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0843.mp3",
+        "de_word": "das Foto",
+        "hr_word": "fotografija",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0376.jpg",
+        "de_audio_url": "audio/50/de_audio/0844.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0844.mp3",
+        "de_word": "das Fotoalbum",
+        "hr_word": "foto-album",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1951.jpg",
+        "de_audio_url": "audio/50/de_audio/0845.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0845.mp3",
+        "de_word": "die Ansichtskarte",
+        "hr_word": "razglednica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1892.jpg",
+        "de_audio_url": "audio/50/de_audio/0846.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0846.mp3",
+        "de_word": "das Postfach",
+        "hr_word": "po\u0161tanski sandu\u010di\u0107",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1064.jpg",
+        "de_audio_url": "audio/50/de_audio/0847.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0847.mp3",
+        "de_word": "das Radio",
+        "hr_word": "radio",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0581.jpg",
+        "de_audio_url": "audio/50/de_audio/0848.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0848.mp3",
+        "de_word": "der H\u00f6rer",
+        "hr_word": "slu\u0161alica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1986.jpg",
+        "de_audio_url": "audio/50/de_audio/0849.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0849.mp3",
+        "de_word": "die Fernbedienung",
+        "hr_word": "daljinski upravlja\u010d",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1143.jpg",
+        "de_audio_url": "audio/50/de_audio/0850.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0850.mp3",
+        "de_word": "der Satellit",
+        "hr_word": "satelit",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1876.jpg",
+        "de_audio_url": "audio/50/de_audio/0851.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0851.mp3",
+        "de_word": "der Bildschirm",
+        "hr_word": "ekran",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1165.jpg",
+        "de_audio_url": "audio/50/de_audio/0852.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0852.mp3",
+        "de_word": "das Schild",
+        "hr_word": "znak",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/2107.jpg",
+        "de_audio_url": "audio/50/de_audio/0853.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0853.mp3",
+        "de_word": "die Unterschrift",
+        "hr_word": "potpis",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1276.jpg",
+        "de_audio_url": "audio/50/de_audio/0854.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0854.mp3",
+        "de_word": "das Smartphone",
+        "hr_word": "pametni telefon",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0783.jpg",
+        "de_audio_url": "audio/50/de_audio/0855.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0855.mp3",
+        "de_word": "der Lautsprecher",
+        "hr_word": "zvu\u010dnik",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0164.jpg",
+        "de_audio_url": "audio/50/de_audio/0856.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0856.mp3",
+        "de_word": "die Briefmarke",
+        "hr_word": "po\u0161tanska markica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1906.jpg",
+        "de_audio_url": "audio/50/de_audio/0857.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0857.mp3",
+        "de_word": "das Briefpapier",
+        "hr_word": "papir za pisma",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1399.jpg",
+        "de_audio_url": "audio/50/de_audio/0858.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0858.mp3",
+        "de_word": "das Telefonat",
+        "hr_word": "telefonski poziv",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1400.jpg",
+        "de_audio_url": "audio/50/de_audio/0859.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0859.mp3",
+        "de_word": "das Telefongespr\u00e4ch",
+        "hr_word": "telefonski razgovor",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0339.jpg",
+        "de_audio_url": "audio/50/de_audio/0860.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0860.mp3",
+        "de_word": "die Fernsehkamera",
+        "hr_word": "televizijska kamera",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1414.jpg",
+        "de_audio_url": "audio/50/de_audio/0861.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0861.mp3",
+        "de_word": "der Text",
+        "hr_word": "tekst",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0338.jpg",
+        "de_audio_url": "audio/50/de_audio/0862.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0862.mp3",
+        "de_word": "der Fernseher",
+        "hr_word": "televizor",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1500.jpg",
+        "de_audio_url": "audio/50/de_audio/0863.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0863.mp3",
+        "de_word": "die Videocassette",
+        "hr_word": "video kazeta",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/0394.jpg",
+        "de_audio_url": "audio/50/de_audio/0864.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0864.mp3",
+        "de_word": "das Funkger\u00e4t",
+        "hr_word": "voki toki",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/2103.jpg",
+        "de_audio_url": "audio/50/de_audio/0865.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0865.mp3",
+        "de_word": "die Webseite",
+        "hr_word": "internetska stranica",
+        "category": "Kommunikation"
+    },
+    {
+        "pic_url": "images/50/1579.jpg",
+        "de_audio_url": "audio/50/de_audio/0866.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0866.mp3",
+        "de_word": "das Wort",
+        "hr_word": "rije\u010d",
+        "category": "Kommunikation"
+    }
+]

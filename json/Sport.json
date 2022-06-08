@@ -1,0 +1,706 @@
+[
+    {
+        "pic_url": "images/50/0007.jpg",
+        "de_audio_url": "audio/50/de_audio/0102.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0102.mp3",
+        "de_word": "die Akrobatik",
+        "hr_word": "akrobatika",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0004.jpg",
+        "de_audio_url": "audio/50/de_audio/0103.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0103.mp3",
+        "de_word": "das Aerobic",
+        "hr_word": "aerobik",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0819.jpg",
+        "de_audio_url": "audio/50/de_audio/0104.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0104.mp3",
+        "de_word": "die Leichtathletik",
+        "hr_word": "atletika",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0080.jpg",
+        "de_audio_url": "audio/50/de_audio/0105.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0105.mp3",
+        "de_word": "das Badminton",
+        "hr_word": "badminton",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0085.jpg",
+        "de_audio_url": "audio/50/de_audio/0106.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0106.mp3",
+        "de_word": "die Balance",
+        "hr_word": "ravnote\u017ea",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0087.jpg",
+        "de_audio_url": "audio/50/de_audio/0107.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0107.mp3",
+        "de_word": "der Ball",
+        "hr_word": "lopta",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0100.jpg",
+        "de_audio_url": "audio/50/de_audio/0108.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0108.mp3",
+        "de_word": "das Baseballspiel",
+        "hr_word": "bejsbol",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0101.jpg",
+        "de_audio_url": "audio/50/de_audio/0109.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0109.mp3",
+        "de_word": "der Basketball",
+        "hr_word": "ko\u0161arka",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0129.jpg",
+        "de_audio_url": "audio/50/de_audio/0110.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0110.mp3",
+        "de_word": "die Billardkugel",
+        "hr_word": "biljarska kugla",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0128.jpg",
+        "de_audio_url": "audio/50/de_audio/0111.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0111.mp3",
+        "de_word": "das Billiard",
+        "hr_word": "biljar",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0156.jpg",
+        "de_audio_url": "audio/50/de_audio/0112.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0112.mp3",
+        "de_word": "der Boxsport",
+        "hr_word": "boks",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0158.jpg",
+        "de_audio_url": "audio/50/de_audio/0113.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0113.mp3",
+        "de_word": "der Boxhandschuh",
+        "hr_word": "boksa\u010dka rukavica",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1911.jpg",
+        "de_audio_url": "audio/50/de_audio/0114.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0114.mp3",
+        "de_word": "die Gymnastik",
+        "hr_word": "gimnastika",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0632.jpg",
+        "de_audio_url": "audio/50/de_audio/0115.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0115.mp3",
+        "de_word": "das Kanu",
+        "hr_word": "kanu",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0067.jpg",
+        "de_audio_url": "audio/50/de_audio/0116.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0116.mp3",
+        "de_word": "das Autorennen",
+        "hr_word": "automobilska utrka",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0645.jpg",
+        "de_audio_url": "audio/50/de_audio/0117.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0117.mp3",
+        "de_word": "der Katamaran",
+        "hr_word": "katamaran",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0677.jpg",
+        "de_audio_url": "audio/50/de_audio/0118.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0118.mp3",
+        "de_word": "das Klettern",
+        "hr_word": "penjanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0211.jpg",
+        "de_audio_url": "audio/50/de_audio/0119.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0119.mp3",
+        "de_word": "das Kricket",
+        "hr_word": "kriket",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1269.jpg",
+        "de_audio_url": "audio/50/de_audio/0120.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0120.mp3",
+        "de_word": "der Skilanglauf",
+        "hr_word": "skija\u0161ko tr\u010danje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1037.jpg",
+        "de_audio_url": "audio/50/de_audio/0121.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0121.mp3",
+        "de_word": "der Pokal",
+        "hr_word": "pehar",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0002.jpg",
+        "de_audio_url": "audio/50/de_audio/0122.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0122.mp3",
+        "de_word": "die Abwehr",
+        "hr_word": "obrana",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0519.jpg",
+        "de_audio_url": "audio/50/de_audio/0123.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0123.mp3",
+        "de_word": "die Hantel",
+        "hr_word": "bu\u010dice",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1092.jpg",
+        "de_audio_url": "audio/50/de_audio/0124.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0124.mp3",
+        "de_word": "der Reitsport",
+        "hr_word": "konji\u010dki \u0161port",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1646.jpg",
+        "de_audio_url": "audio/50/de_audio/0125.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0125.mp3",
+        "de_word": "die \u00dcbung",
+        "hr_word": "vje\u017eba",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0497.jpg",
+        "de_audio_url": "audio/50/de_audio/0126.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0126.mp3",
+        "de_word": "der Gymnastikball",
+        "hr_word": "lopta za vje\u017ebanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1438.jpg",
+        "de_audio_url": "audio/50/de_audio/0127.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0127.mp3",
+        "de_word": "das Trainingsger\u00e4t",
+        "hr_word": "sprava za vje\u017ebanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0324.jpg",
+        "de_audio_url": "audio/50/de_audio/0128.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0128.mp3",
+        "de_word": "der Fechtsport",
+        "hr_word": "ma\u010devanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0366.jpg",
+        "de_audio_url": "audio/50/de_audio/0129.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0129.mp3",
+        "de_word": "die Flosse",
+        "hr_word": "peraje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0024.jpg",
+        "de_audio_url": "audio/50/de_audio/0130.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0130.mp3",
+        "de_word": "der Angelsport",
+        "hr_word": "sportski ribolov",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0359.jpg",
+        "de_audio_url": "audio/50/de_audio/0131.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0131.mp3",
+        "de_word": "die Fitness",
+        "hr_word": "fitnes",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1950.jpg",
+        "de_audio_url": "audio/50/de_audio/0132.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0132.mp3",
+        "de_word": "der Fu\u00dfballclub",
+        "hr_word": "nogometni klub",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0385.jpg",
+        "de_audio_url": "audio/50/de_audio/0133.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0133.mp3",
+        "de_word": "der Frisbee",
+        "hr_word": "frizbi",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1243.jpg",
+        "de_audio_url": "audio/50/de_audio/0134.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0134.mp3",
+        "de_word": "das Segelflugzeug",
+        "hr_word": "zra\u010dna jedrilica",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1431.jpg",
+        "de_audio_url": "audio/50/de_audio/0135.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0135.mp3",
+        "de_word": "das Tor",
+        "hr_word": "gol",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1433.jpg",
+        "de_audio_url": "audio/50/de_audio/0136.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0136.mp3",
+        "de_word": "der Torwart",
+        "hr_word": "vratar",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0476.jpg",
+        "de_audio_url": "audio/50/de_audio/0137.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0137.mp3",
+        "de_word": "der Golfschl\u00e4ger",
+        "hr_word": "golf-palica",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1461.jpg",
+        "de_audio_url": "audio/50/de_audio/0138.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0138.mp3",
+        "de_word": "das Turnen",
+        "hr_word": "gimnastika",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0517.jpg",
+        "de_audio_url": "audio/50/de_audio/0139.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0139.mp3",
+        "de_word": "der Handstand",
+        "hr_word": "stoj na rukama",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0245.jpg",
+        "de_audio_url": "audio/50/de_audio/0140.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0140.mp3",
+        "de_word": "der Drachenflieger",
+        "hr_word": "leta\u010d zmajem",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0557.jpg",
+        "de_audio_url": "audio/50/de_audio/0141.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0141.mp3",
+        "de_word": "der Hochsprung",
+        "hr_word": "skok u vis",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1018.jpg",
+        "de_audio_url": "audio/50/de_audio/0142.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0142.mp3",
+        "de_word": "das Pferderennen",
+        "hr_word": "konjske utrke",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0537.jpg",
+        "de_audio_url": "audio/50/de_audio/0143.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0143.mp3",
+        "de_word": "der Hei\u00dfluftballon",
+        "hr_word": "balon na vru\u0107i zrak",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0597.jpg",
+        "de_audio_url": "audio/50/de_audio/0144.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0144.mp3",
+        "de_word": "die Jagd",
+        "hr_word": "lov",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0278.jpg",
+        "de_audio_url": "audio/50/de_audio/0145.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0145.mp3",
+        "de_word": "das Eishockey",
+        "hr_word": "hokej na ledu",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1179.jpg",
+        "de_audio_url": "audio/50/de_audio/0146.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0146.mp3",
+        "de_word": "der Schlittschuh",
+        "hr_word": "klizaljka",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1301.jpg",
+        "de_audio_url": "audio/50/de_audio/0147.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0147.mp3",
+        "de_word": "der Speerwurf",
+        "hr_word": "bacanje koplja",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0602.jpg",
+        "de_audio_url": "audio/50/de_audio/0148.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0148.mp3",
+        "de_word": "das Jogging",
+        "hr_word": "d\u017eoging",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1323.jpg",
+        "de_audio_url": "audio/50/de_audio/0149.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0149.mp3",
+        "de_word": "der Sprung",
+        "hr_word": "skok",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0618.jpg",
+        "de_audio_url": "audio/50/de_audio/0150.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0150.mp3",
+        "de_word": "der Kajak",
+        "hr_word": "kajak",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1450.jpg",
+        "de_audio_url": "audio/50/de_audio/0151.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0151.mp3",
+        "de_word": "der Tritt",
+        "hr_word": "udarac nogom",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1226.jpg",
+        "de_audio_url": "audio/50/de_audio/0152.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0152.mp3",
+        "de_word": "die Schwimmweste",
+        "hr_word": "prsluk za spa\u0161avanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0834.jpg",
+        "de_audio_url": "audio/50/de_audio/0153.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0153.mp3",
+        "de_word": "der Marathonlauf",
+        "hr_word": "maraton",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0628.jpg",
+        "de_audio_url": "audio/50/de_audio/0154.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0154.mp3",
+        "de_word": "der Kampfsport",
+        "hr_word": "borila\u010dke vje\u0161tine",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0873.jpg",
+        "de_audio_url": "audio/50/de_audio/0155.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0155.mp3",
+        "de_word": "das Minigolf",
+        "hr_word": "mini-golf",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1227.jpg",
+        "de_audio_url": "audio/50/de_audio/0156.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0156.mp3",
+        "de_word": "der Schwung",
+        "hr_word": "zamah",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0316.jpg",
+        "de_audio_url": "audio/50/de_audio/0157.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0157.mp3",
+        "de_word": "der Fallschirm",
+        "hr_word": "padobran",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0992.jpg",
+        "de_audio_url": "audio/50/de_audio/0158.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0158.mp3",
+        "de_word": "das Paragleiten",
+        "hr_word": "paragl\u0430\u0458ting",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0820.jpg",
+        "de_audio_url": "audio/50/de_audio/0159.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0159.mp3",
+        "de_word": "die L\u00e4uferin",
+        "hr_word": "trka\u010dica",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1241.jpg",
+        "de_audio_url": "audio/50/de_audio/0160.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0160.mp3",
+        "de_word": "das Segel",
+        "hr_word": "jedro",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1242.jpg",
+        "de_audio_url": "audio/50/de_audio/0161.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0161.mp3",
+        "de_word": "das Segelboot",
+        "hr_word": "jedrilica",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1244.jpg",
+        "de_audio_url": "audio/50/de_audio/0162.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0162.mp3",
+        "de_word": "das Segelschiff",
+        "hr_word": "jedrenjak",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0701.jpg",
+        "de_audio_url": "audio/50/de_audio/0163.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0163.mp3",
+        "de_word": "die Kondition",
+        "hr_word": "kondicija",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1268.jpg",
+        "de_audio_url": "audio/50/de_audio/0164.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0164.mp3",
+        "de_word": "der Skikurs",
+        "hr_word": "skija\u0161ki te\u010daj",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1321.jpg",
+        "de_audio_url": "audio/50/de_audio/0165.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0165.mp3",
+        "de_word": "das Springseil",
+        "hr_word": "u\u017ee za preskakanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1277.jpg",
+        "de_audio_url": "audio/50/de_audio/0166.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0166.mp3",
+        "de_word": "das Snowboard",
+        "hr_word": "snowboard",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1278.jpg",
+        "de_audio_url": "audio/50/de_audio/0167.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0167.mp3",
+        "de_word": "der Snowboardfahrer",
+        "hr_word": "snowboarder",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1317.jpg",
+        "de_audio_url": "audio/50/de_audio/0168.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0168.mp3",
+        "de_word": "der Sport",
+        "hr_word": "\u0161port",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1326.jpg",
+        "de_audio_url": "audio/50/de_audio/0169.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0169.mp3",
+        "de_word": "der Squashspieler",
+        "hr_word": "igra\u010d squasha",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0720.jpg",
+        "de_audio_url": "audio/50/de_audio/0170.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0170.mp3",
+        "de_word": "das Krafttraining",
+        "hr_word": "trening snage",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1357.jpg",
+        "de_audio_url": "audio/50/de_audio/0171.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0171.mp3",
+        "de_word": "das Stretching",
+        "hr_word": "rastezanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1368.jpg",
+        "de_audio_url": "audio/50/de_audio/0172.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0172.mp3",
+        "de_word": "das Surfbrett",
+        "hr_word": "daska za surfanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1369.jpg",
+        "de_audio_url": "audio/50/de_audio/0173.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0173.mp3",
+        "de_word": "der Surfer",
+        "hr_word": "surfer",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1370.jpg",
+        "de_audio_url": "audio/50/de_audio/0174.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0174.mp3",
+        "de_word": "das Surfing",
+        "hr_word": "surfanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1423.jpg",
+        "de_audio_url": "audio/50/de_audio/0175.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0175.mp3",
+        "de_word": "das Tischtennis",
+        "hr_word": "stolni tenis",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1424.jpg",
+        "de_audio_url": "audio/50/de_audio/0176.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0176.mp3",
+        "de_word": "der Tischtennisball",
+        "hr_word": "loptica za stolni tenis",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1616.jpg",
+        "de_audio_url": "audio/50/de_audio/0177.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0177.mp3",
+        "de_word": "die Zielscheibe",
+        "hr_word": "meta",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1751.jpg",
+        "de_audio_url": "audio/50/de_audio/0178.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0178.mp3",
+        "de_word": "die Mannschaft",
+        "hr_word": "ekipa",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1406.jpg",
+        "de_audio_url": "audio/50/de_audio/0179.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0179.mp3",
+        "de_word": "das Tennis",
+        "hr_word": "tenis",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1407.jpg",
+        "de_audio_url": "audio/50/de_audio/0180.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0180.mp3",
+        "de_word": "der Tennisball",
+        "hr_word": "teniska loptica",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1409.jpg",
+        "de_audio_url": "audio/50/de_audio/0181.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0181.mp3",
+        "de_word": "der Tennisspieler",
+        "hr_word": "tenisa\u010d",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1408.jpg",
+        "de_audio_url": "audio/50/de_audio/0182.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0182.mp3",
+        "de_word": "der Tennisschl\u00e4ger",
+        "hr_word": "reket za tenis",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/0779.jpg",
+        "de_audio_url": "audio/50/de_audio/0183.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0183.mp3",
+        "de_word": "das Laufband",
+        "hr_word": "traka za tr\u010danje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1507.jpg",
+        "de_audio_url": "audio/50/de_audio/0184.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0184.mp3",
+        "de_word": "der Volleyballspieler",
+        "hr_word": "odbojka\u0161",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1535.jpg",
+        "de_audio_url": "audio/50/de_audio/0185.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0185.mp3",
+        "de_word": "der Wasserski",
+        "hr_word": "skijanje na vodi",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1449.jpg",
+        "de_audio_url": "audio/50/de_audio/0186.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0186.mp3",
+        "de_word": "die Trillerpfeife",
+        "hr_word": "zvi\u017edaljka",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1571.jpg",
+        "de_audio_url": "audio/50/de_audio/0187.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0187.mp3",
+        "de_word": "der Windsurfer",
+        "hr_word": "surfer",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1105.jpg",
+        "de_audio_url": "audio/50/de_audio/0188.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0188.mp3",
+        "de_word": "der Ringkampf",
+        "hr_word": "hrvanje",
+        "category": "Sport"
+    },
+    {
+        "pic_url": "images/50/1589.jpg",
+        "de_audio_url": "audio/50/de_audio/0189.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0189.mp3",
+        "de_word": "das Yoga",
+        "hr_word": "joga",
+        "category": "Sport"
+    }
+]

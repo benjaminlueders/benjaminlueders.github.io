@@ -1,0 +1,658 @@
+[
+    {
+        "pic_url": "images/50/0030.jpg",
+        "de_audio_url": "audio/50/de_audio/0721.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0721.mp3",
+        "de_word": "der Anorak",
+        "hr_word": "vjetrovka",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1121.jpg",
+        "de_audio_url": "audio/50/de_audio/0722.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0722.mp3",
+        "de_word": "der Rucksack",
+        "hr_word": "ruksak",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0076.jpg",
+        "de_audio_url": "audio/50/de_audio/0723.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0723.mp3",
+        "de_word": "der Bademantel",
+        "hr_word": "ku\u0107ni ogrta\u010d",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0499.jpg",
+        "de_audio_url": "audio/50/de_audio/0724.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0724.mp3",
+        "de_word": "der G\u00fcrtel",
+        "hr_word": "remen",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0818.jpg",
+        "de_audio_url": "audio/50/de_audio/0725.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0725.mp3",
+        "de_word": "das L\u00e4tzchen",
+        "hr_word": "podbrada\u010da",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0124.jpg",
+        "de_audio_url": "audio/50/de_audio/0726.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0726.mp3",
+        "de_word": "der Bikini",
+        "hr_word": "bikini",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1133.jpg",
+        "de_audio_url": "audio/50/de_audio/0727.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0727.mp3",
+        "de_word": "das Sakko",
+        "hr_word": "sako",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0145.jpg",
+        "de_audio_url": "audio/50/de_audio/0728.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0728.mp3",
+        "de_word": "die Bluse",
+        "hr_word": "bluza",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1343.jpg",
+        "de_audio_url": "audio/50/de_audio/0729.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0729.mp3",
+        "de_word": "der Stiefel",
+        "hr_word": "\u010dizma",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1176.jpg",
+        "de_audio_url": "audio/50/de_audio/0730.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0730.mp3",
+        "de_word": "die Schleife",
+        "hr_word": "ma\u0161na",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0048.jpg",
+        "de_audio_url": "audio/50/de_audio/0731.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0731.mp3",
+        "de_word": "das Armband",
+        "hr_word": "narukvica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0028.jpg",
+        "de_audio_url": "audio/50/de_audio/0732.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0732.mp3",
+        "de_word": "die Brosche",
+        "hr_word": "bro\u0161",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0686.jpg",
+        "de_audio_url": "audio/50/de_audio/0733.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0733.mp3",
+        "de_word": "der Knopf",
+        "hr_word": "gumb",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0919.jpg",
+        "de_audio_url": "audio/50/de_audio/0734.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0734.mp3",
+        "de_word": "die M\u00fctze",
+        "hr_word": "kapa",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0634.jpg",
+        "de_audio_url": "audio/50/de_audio/0735.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0735.mp3",
+        "de_word": "die Kappe",
+        "hr_word": "kapa",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1991.jpg",
+        "de_audio_url": "audio/50/de_audio/0736.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0736.mp3",
+        "de_word": "die Garderobe",
+        "hr_word": "garderoba",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0675.jpg",
+        "de_audio_url": "audio/50/de_audio/0737.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0737.mp3",
+        "de_word": "die Kleidung",
+        "hr_word": "odje\u0107a",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1584.jpg",
+        "de_audio_url": "audio/50/de_audio/0738.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0738.mp3",
+        "de_word": "die W\u00e4scheklammer",
+        "hr_word": "\u0161tipaljka za rublje",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/2143.jpg",
+        "de_audio_url": "audio/50/de_audio/0739.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0739.mp3",
+        "de_word": "der Kragen",
+        "hr_word": "ovratnik",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0734.jpg",
+        "de_audio_url": "audio/50/de_audio/0740.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0740.mp3",
+        "de_word": "die Krone",
+        "hr_word": "kruna",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0833.jpg",
+        "de_audio_url": "audio/50/de_audio/0741.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0741.mp3",
+        "de_word": "der Manschettenknopf",
+        "hr_word": "dugme za man\u0161etu",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1567.jpg",
+        "de_audio_url": "audio/50/de_audio/0742.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0742.mp3",
+        "de_word": "die Windel",
+        "hr_word": "pelena",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0674.jpg",
+        "de_audio_url": "audio/50/de_audio/0743.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0743.mp3",
+        "de_word": "das Kleid",
+        "hr_word": "haljina",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0955.jpg",
+        "de_audio_url": "audio/50/de_audio/0744.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0744.mp3",
+        "de_word": "der Ohrring",
+        "hr_word": "nau\u0161nica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0879.jpg",
+        "de_audio_url": "audio/50/de_audio/0745.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0745.mp3",
+        "de_word": "die Mode",
+        "hr_word": "moda",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0075.jpg",
+        "de_audio_url": "audio/50/de_audio/0746.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0746.mp3",
+        "de_word": "die Badelatschen",
+        "hr_word": "japanke",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0330.jpg",
+        "de_audio_url": "audio/50/de_audio/0747.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0747.mp3",
+        "de_word": "das Fell",
+        "hr_word": "krzno",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0516.jpg",
+        "de_audio_url": "audio/50/de_audio/0748.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0748.mp3",
+        "de_word": "der Handschuh",
+        "hr_word": "rukavica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0495.jpg",
+        "de_audio_url": "audio/50/de_audio/0749.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0749.mp3",
+        "de_word": "die Gummistiefel",
+        "hr_word": "gumene \u010dizme",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0502.jpg",
+        "de_audio_url": "audio/50/de_audio/0750.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0750.mp3",
+        "de_word": "die Haarspange",
+        "hr_word": "ukosnica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0518.jpg",
+        "de_audio_url": "audio/50/de_audio/0751.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0751.mp3",
+        "de_word": "die Handtasche",
+        "hr_word": "ru\u010dna torba",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0187.jpg",
+        "de_audio_url": "audio/50/de_audio/0752.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0752.mp3",
+        "de_word": "der Kleiderb\u00fcgel",
+        "hr_word": "vje\u0161alica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0574.jpg",
+        "de_audio_url": "audio/50/de_audio/0753.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0753.mp3",
+        "de_word": "der Hut",
+        "hr_word": "\u0161e\u0161ir",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0711.jpg",
+        "de_audio_url": "audio/50/de_audio/0754.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0754.mp3",
+        "de_word": "das Kopftuch",
+        "hr_word": "marama",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1520.jpg",
+        "de_audio_url": "audio/50/de_audio/0755.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0755.mp3",
+        "de_word": "der Wanderschuh",
+        "hr_word": "\u010dizma za planinarenje",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0635.jpg",
+        "de_audio_url": "audio/50/de_audio/0756.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0756.mp3",
+        "de_word": "die Kapuze",
+        "hr_word": "kapulja\u010da",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1267.jpg",
+        "de_audio_url": "audio/50/de_audio/0757.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0757.mp3",
+        "de_word": "die Jacke",
+        "hr_word": "jakna",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0601.jpg",
+        "de_audio_url": "audio/50/de_audio/0758.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0758.mp3",
+        "de_word": "die Jeans",
+        "hr_word": "traperice",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1186.jpg",
+        "de_audio_url": "audio/50/de_audio/0759.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0759.mp3",
+        "de_word": "der Schmuck",
+        "hr_word": "nakit",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1583.jpg",
+        "de_audio_url": "audio/50/de_audio/0760.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0760.mp3",
+        "de_word": "die W\u00e4sche",
+        "hr_word": "rublje",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/2144.jpg",
+        "de_audio_url": "audio/50/de_audio/0761.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0761.mp3",
+        "de_word": "der W\u00e4schekorb",
+        "hr_word": "ko\u0161ara za rublje",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0784.jpg",
+        "de_audio_url": "audio/50/de_audio/0762.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0762.mp3",
+        "de_word": "der Lederstiefel",
+        "hr_word": "ko\u017enate \u010dizme",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0844.jpg",
+        "de_audio_url": "audio/50/de_audio/0763.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0763.mp3",
+        "de_word": "die Maske",
+        "hr_word": "maska",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0322.jpg",
+        "de_audio_url": "audio/50/de_audio/0764.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0764.mp3",
+        "de_word": "der Fausthandschuh",
+        "hr_word": "rukavice za \u0161aku",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1150.jpg",
+        "de_audio_url": "audio/50/de_audio/0765.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0765.mp3",
+        "de_word": "der Schal",
+        "hr_word": "\u0161al",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0565.jpg",
+        "de_audio_url": "audio/50/de_audio/0766.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0766.mp3",
+        "de_word": "die Hose",
+        "hr_word": "hla\u010de",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/2071.jpg",
+        "de_audio_url": "audio/50/de_audio/0767.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0767.mp3",
+        "de_word": "die Perle",
+        "hr_word": "biser",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1039.jpg",
+        "de_audio_url": "audio/50/de_audio/0768.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0768.mp3",
+        "de_word": "der Poncho",
+        "hr_word": "pon\u010do",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0251.jpg",
+        "de_audio_url": "audio/50/de_audio/0769.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0769.mp3",
+        "de_word": "der Druckknopf",
+        "hr_word": "pritisno dugme",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1169.jpg",
+        "de_audio_url": "audio/50/de_audio/0770.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0770.mp3",
+        "de_word": "der Schlafanzug",
+        "hr_word": "pid\u017eama",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1104.jpg",
+        "de_audio_url": "audio/50/de_audio/0771.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0771.mp3",
+        "de_word": "der Ring",
+        "hr_word": "prsten",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1139.jpg",
+        "de_audio_url": "audio/50/de_audio/0772.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0772.mp3",
+        "de_word": "die Sandale",
+        "hr_word": "sandala",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0508.jpg",
+        "de_audio_url": "audio/50/de_audio/0773.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0773.mp3",
+        "de_word": "das Halstuch",
+        "hr_word": "rubac za vrat",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0540.jpg",
+        "de_audio_url": "audio/50/de_audio/0774.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0774.mp3",
+        "de_word": "das Hemd",
+        "hr_word": "ko\u0161ulja",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0546.jpg",
+        "de_audio_url": "audio/50/de_audio/0775.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0775.mp3",
+        "de_word": "der Schuh",
+        "hr_word": "cipela",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1214.jpg",
+        "de_audio_url": "audio/50/de_audio/0776.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0776.mp3",
+        "de_word": "die Schuhsohle",
+        "hr_word": "potplatak cipele",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/2117.jpg",
+        "de_audio_url": "audio/50/de_audio/0777.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0777.mp3",
+        "de_word": "die Seide",
+        "hr_word": "svila",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1272.jpg",
+        "de_audio_url": "audio/50/de_audio/0778.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0778.mp3",
+        "de_word": "der Skistiefel",
+        "hr_word": "skija\u0161ke \u010dizme",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1108.jpg",
+        "de_audio_url": "audio/50/de_audio/0779.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0779.mp3",
+        "de_word": "der Rock",
+        "hr_word": "suknja",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0980.jpg",
+        "de_audio_url": "audio/50/de_audio/0780.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0780.mp3",
+        "de_word": "der Pantoffel",
+        "hr_word": "papu\u010da",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1462.jpg",
+        "de_audio_url": "audio/50/de_audio/0781.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0781.mp3",
+        "de_word": "der Turnschuh",
+        "hr_word": "tenisica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1194.jpg",
+        "de_audio_url": "audio/50/de_audio/0782.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0782.mp3",
+        "de_word": "der Schneestiefel",
+        "hr_word": "\u010dizma za snijeg",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1279.jpg",
+        "de_audio_url": "audio/50/de_audio/0783.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0783.mp3",
+        "de_word": "die Socke",
+        "hr_word": "\u010darapa",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1733.jpg",
+        "de_audio_url": "audio/50/de_audio/0784.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0784.mp3",
+        "de_word": "das Sonderangebot",
+        "hr_word": "posebna ponuda",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0363.jpg",
+        "de_audio_url": "audio/50/de_audio/0785.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0785.mp3",
+        "de_word": "der Fleck",
+        "hr_word": "mrlja",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1903.jpg",
+        "de_audio_url": "audio/50/de_audio/0786.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0786.mp3",
+        "de_word": "die Str\u00fcmpfe",
+        "hr_word": "hulahupke",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1361.jpg",
+        "de_audio_url": "audio/50/de_audio/0787.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0787.mp3",
+        "de_word": "der Strohhut",
+        "hr_word": "slamnati \u0161e\u0161ir",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1355.jpg",
+        "de_audio_url": "audio/50/de_audio/0788.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0788.mp3",
+        "de_word": "die Streifen",
+        "hr_word": "pruge",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1871.jpg",
+        "de_audio_url": "audio/50/de_audio/0789.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0789.mp3",
+        "de_word": "der Anzug",
+        "hr_word": "odijelo",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1288.jpg",
+        "de_audio_url": "audio/50/de_audio/0790.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0790.mp3",
+        "de_word": "die Sonnenbrille",
+        "hr_word": "sun\u010dane nao\u010dale",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1110.jpg",
+        "de_audio_url": "audio/50/de_audio/0791.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0791.mp3",
+        "de_word": "der Pullover",
+        "hr_word": "pulover",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0073.jpg",
+        "de_audio_url": "audio/50/de_audio/0792.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0792.mp3",
+        "de_word": "der Badeanzug",
+        "hr_word": "kupa\u0107i kostim",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0724.jpg",
+        "de_audio_url": "audio/50/de_audio/0793.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0793.mp3",
+        "de_word": "die Krawatte",
+        "hr_word": "kravata",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0950.jpg",
+        "de_audio_url": "audio/50/de_audio/0794.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0794.mp3",
+        "de_word": "das Oberteil",
+        "hr_word": "grudnjak",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0074.jpg",
+        "de_audio_url": "audio/50/de_audio/0795.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0795.mp3",
+        "de_word": "die Badehose",
+        "hr_word": "kupa\u0107e ga\u0107ice",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1929.jpg",
+        "de_audio_url": "audio/50/de_audio/0796.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0796.mp3",
+        "de_word": "die Unterw\u00e4sche",
+        "hr_word": "donje rublje",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1475.jpg",
+        "de_audio_url": "audio/50/de_audio/0797.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0797.mp3",
+        "de_word": "das Unterhemd",
+        "hr_word": "potko\u0161ulja",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1559.jpg",
+        "de_audio_url": "audio/50/de_audio/0798.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0798.mp3",
+        "de_word": "die Weste",
+        "hr_word": "prsluk",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/0049.jpg",
+        "de_audio_url": "audio/50/de_audio/0799.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0799.mp3",
+        "de_word": "die Armbanduhr",
+        "hr_word": "ru\u010dni sat",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1926.jpg",
+        "de_audio_url": "audio/50/de_audio/0800.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0800.mp3",
+        "de_word": "das Brautkleid",
+        "hr_word": "vjen\u010danica",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1572.jpg",
+        "de_audio_url": "audio/50/de_audio/0801.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0801.mp3",
+        "de_word": "die Winterkleidung",
+        "hr_word": "zimska odje\u0107a",
+        "category": "Kleidung"
+    },
+    {
+        "pic_url": "images/50/1093.jpg",
+        "de_audio_url": "audio/50/de_audio/0802.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0802.mp3",
+        "de_word": "der Rei\u00dfverschluss",
+        "hr_word": "patentni zatvara\u010d",
+        "category": "Kleidung"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1983.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1305.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1305.mp3",
+        "de_word": "der Arm",
+        "hr_word": "ruka",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1124.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1306.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1306.mp3",
+        "de_word": "der R\u00fccken",
+        "hr_word": "le\u0111a",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0467.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1307.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1307.mp3",
+        "de_word": "die Glatze",
+        "hr_word": "\u0107ela",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0099.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1308.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1308.mp3",
+        "de_word": "der Bart",
+        "hr_word": "brada",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1920.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1309.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1309.mp3",
+        "de_word": "das Blut",
+        "hr_word": "krv",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0685.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1310.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1310.mp3",
+        "de_word": "der Knochen",
+        "hr_word": "kost",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1042.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1311.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1311.mp3",
+        "de_word": "der Popo",
+        "hr_word": "stra\u017enjica",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1620.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1312.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1312.mp3",
+        "de_word": "der Zopf",
+        "hr_word": "pletenica",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0426.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1313.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1313.mp3",
+        "de_word": "das Gehirn",
+        "hr_word": "mozak",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1921.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1314.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1314.mp3",
+        "de_word": "die Brust",
+        "hr_word": "dojka",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0954.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1315.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1315.mp3",
+        "de_word": "das Ohr",
+        "hr_word": "uho",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0061.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1316.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1316.mp3",
+        "de_word": "das Auge",
+        "hr_word": "oko",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0449.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1317.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1317.mp3",
+        "de_word": "das Gesicht",
+        "hr_word": "lice",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1982.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1318.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1318.mp3",
+        "de_word": "der Finger",
+        "hr_word": "prst",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0354.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1319.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1319.mp3",
+        "de_word": "der Fingerabdruck",
+        "hr_word": "otisak prsta",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0321.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1320.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1320.mp3",
+        "de_word": "die Faust",
+        "hr_word": "\u0161aka",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0397.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1321.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1321.mp3",
+        "de_word": "der Fu\u00df",
+        "hr_word": "stopalo",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0501.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1322.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1322.mp3",
+        "de_word": "das Haar",
+        "hr_word": "kosa",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0386.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1323.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1323.mp3",
+        "de_word": "die Frisur",
+        "hr_word": "frizura",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0512.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1324.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1324.mp3",
+        "de_word": "die Hand",
+        "hr_word": "ruka",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0708.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1325.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1325.mp3",
+        "de_word": "der Kopf",
+        "hr_word": "glava",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0547.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1326.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1326.mp3",
+        "de_word": "das Herz",
+        "hr_word": "srce",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1604.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1327.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1327.mp3",
+        "de_word": "der Zeigefinger",
+        "hr_word": "ka\u017eiprst",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0937.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1328.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1328.mp3",
+        "de_word": "die Niere",
+        "hr_word": "bubreg",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0682.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1329.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1329.mp3",
+        "de_word": "das Knie",
+        "hr_word": "koljeno",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0112.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1330.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1330.mp3",
+        "de_word": "das Bein",
+        "hr_word": "noga",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0804.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1331.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1331.mp3",
+        "de_word": "die Lippe",
+        "hr_word": "usna",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0899.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1332.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1332.mp3",
+        "de_word": "der Mund",
+        "hr_word": "usta",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1754.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1333.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1333.mp3",
+        "de_word": "die Haarlocke",
+        "hr_word": "uvojak",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1266.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1334.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1334.mp3",
+        "de_word": "das Skelett",
+        "hr_word": "kostur",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0528.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1335.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1335.mp3",
+        "de_word": "die Haut",
+        "hr_word": "ko\u017ea",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1434.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1336.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1336.mp3",
+        "de_word": "der Sch\u00e4del",
+        "hr_word": "lubanja",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1464.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1337.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1337.mp3",
+        "de_word": "die T\u00e4towierung",
+        "hr_word": "tetova\u017ea",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1870.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1338.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1338.mp3",
+        "de_word": "der Hals",
+        "hr_word": "grlo",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/0220.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1339.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1339.mp3",
+        "de_word": "der Daumen",
+        "hr_word": "palac",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1602.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1340.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1340.mp3",
+        "de_word": "der Zeh",
+        "hr_word": "no\u017eni prst",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1629.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1341.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1341.mp3",
+        "de_word": "die Zunge",
+        "hr_word": "jezik",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1591.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1342.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1342.mp3",
+        "de_word": "der Zahn",
+        "hr_word": "zub",
+        "category": "K\u00f6rper"
+    },
+    {
+        "pic_url": "https:\/\/www.50languages.com\/vocab\/images\/1008.jpg",
+        "de_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/DE\/1343.mp3",
+        "hr_audio_url": "https:\/\/www.goethe-verlag.com\/book2\/_alleima\/_mp3\/HR\/1343.mp3",
+        "de_word": "die Per\u00fccke",
+        "hr_word": "vlasulja",
+        "category": "K\u00f6rper"
+    }
+]
