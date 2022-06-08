@@ -1,0 +1,170 @@
+[
+    {
+        "pic_url": "images/50/1909.jpg",
+        "de_audio_url": "audio/50/de_audio/1782.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1782.mp3",
+        "de_word": "die B\u00e4ckerei",
+        "hr_word": "pekarnica",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1358.jpg",
+        "de_audio_url": "audio/50/de_audio/1783.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1783.mp3",
+        "de_word": "der Strichcode",
+        "hr_word": "crti\u010dni kod",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0176.jpg",
+        "de_audio_url": "audio/50/de_audio/1784.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1784.mp3",
+        "de_word": "die Buchhandlung",
+        "hr_word": "knji\u017eara",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0195.jpg",
+        "de_audio_url": "audio/50/de_audio/1785.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1785.mp3",
+        "de_word": "das Caf\u00e9",
+        "hr_word": "kafi\u0107",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1860.jpg",
+        "de_audio_url": "audio/50/de_audio/1786.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1786.mp3",
+        "de_word": "die Drogerie",
+        "hr_word": "drogerija",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1861.jpg",
+        "de_audio_url": "audio/50/de_audio/1787.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1787.mp3",
+        "de_word": "die Reinigung",
+        "hr_word": "kemijska \u010distionica",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1908.jpg",
+        "de_audio_url": "audio/50/de_audio/1788.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1788.mp3",
+        "de_word": "der Blumenladen",
+        "hr_word": "cvje\u0107arnica",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0441.jpg",
+        "de_audio_url": "audio/50/de_audio/1789.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1789.mp3",
+        "de_word": "das Geschenk",
+        "hr_word": "poklon",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1888.jpg",
+        "de_audio_url": "audio/50/de_audio/1790.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1790.mp3",
+        "de_word": "der Markt",
+        "hr_word": "tr\u017enica",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0841.jpg",
+        "de_audio_url": "audio/50/de_audio/1791.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1791.mp3",
+        "de_word": "die Markthalle",
+        "hr_word": "natkrivena tr\u017enica",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1896.jpg",
+        "de_audio_url": "audio/50/de_audio/1792.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1792.mp3",
+        "de_word": "der Zeitungskiosk",
+        "hr_word": "kiosk",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1952.jpg",
+        "de_audio_url": "audio/50/de_audio/1793.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1793.mp3",
+        "de_word": "die Apotheke",
+        "hr_word": "ljekarna",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1895.jpg",
+        "de_audio_url": "audio/50/de_audio/1794.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1794.mp3",
+        "de_word": "das Postamt",
+        "hr_word": "po\u0161ta",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1465.jpg",
+        "de_audio_url": "audio/50/de_audio/1795.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1795.mp3",
+        "de_word": "die T\u00f6pferei",
+        "hr_word": "lon\u010darstvo",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1931.jpg",
+        "de_audio_url": "audio/50/de_audio/1796.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1796.mp3",
+        "de_word": "der Verkauf",
+        "hr_word": "prodaja",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/2130.jpg",
+        "de_audio_url": "audio/50/de_audio/1797.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1797.mp3",
+        "de_word": "der Laden",
+        "hr_word": "trgovina",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0269.jpg",
+        "de_audio_url": "audio/50/de_audio/1798.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1798.mp3",
+        "de_word": "der Einkauf",
+        "hr_word": "kupovina",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0270.jpg",
+        "de_audio_url": "audio/50/de_audio/1799.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1799.mp3",
+        "de_word": "die Einkaufstasche",
+        "hr_word": "torba za kupovinu",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1811.jpg",
+        "de_audio_url": "audio/50/de_audio/1800.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1800.mp3",
+        "de_word": "der Einkaufskorb",
+        "hr_word": "ko\u0161arica za kupovinu",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/0271.jpg",
+        "de_audio_url": "audio/50/de_audio/1801.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1801.mp3",
+        "de_word": "der Einkaufswagen",
+        "hr_word": "kolica za kupovinu",
+        "category": "Einkauf"
+    },
+    {
+        "pic_url": "images/50/1970.jpg",
+        "de_audio_url": "audio/50/de_audio/1802.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1802.mp3",
+        "de_word": "der Einkaufsbummel",
+        "hr_word": "\u0161etnja po trgovinama",
+        "category": "Einkauf"
+    }
+]

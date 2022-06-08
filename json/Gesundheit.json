@@ -1,0 +1,362 @@
+[
+    {
+        "pic_url": "images/50/0722.jpg",
+        "de_audio_url": "audio/50/de_audio/1612.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1612.mp3",
+        "de_word": "der Krankenwagen",
+        "hr_word": "vozilo prve pomo\u0107i",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1484.jpg",
+        "de_audio_url": "audio/50/de_audio/1613.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1613.mp3",
+        "de_word": "der Verband",
+        "hr_word": "zavoj",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2057.jpg",
+        "de_audio_url": "audio/50/de_audio/1614.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1614.mp3",
+        "de_word": "die Geburt",
+        "hr_word": "ro\u0111enje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1829.jpg",
+        "de_audio_url": "audio/50/de_audio/1615.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1615.mp3",
+        "de_word": "der Blutdruck",
+        "hr_word": "krvni tlak",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1857.jpg",
+        "de_audio_url": "audio/50/de_audio/1616.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1616.mp3",
+        "de_word": "die K\u00f6rperpflege",
+        "hr_word": "njega tijela",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1756.jpg",
+        "de_audio_url": "audio/50/de_audio/1617.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1617.mp3",
+        "de_word": "der Schnupfen",
+        "hr_word": "prehlada",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1817.jpg",
+        "de_audio_url": "audio/50/de_audio/1618.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1618.mp3",
+        "de_word": "die Creme",
+        "hr_word": "krema",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0738.jpg",
+        "de_audio_url": "audio/50/de_audio/1619.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1619.mp3",
+        "de_word": "die Kr\u00fccke",
+        "hr_word": "\u0161take",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0052.jpg",
+        "de_audio_url": "audio/50/de_audio/1620.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1620.mp3",
+        "de_word": "die Untersuchung",
+        "hr_word": "pregled",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0304.jpg",
+        "de_audio_url": "audio/50/de_audio/1621.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1621.mp3",
+        "de_word": "die Ersch\u00f6pfung",
+        "hr_word": "iscrpljenost",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0450.jpg",
+        "de_audio_url": "audio/50/de_audio/1622.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1622.mp3",
+        "de_word": "die Gesichtsmaske",
+        "hr_word": "maska \u200b\u200bza lice",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2114.jpg",
+        "de_audio_url": "audio/50/de_audio/1623.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1623.mp3",
+        "de_word": "der Verbandskasten",
+        "hr_word": "kutija prve pomo\u0107i",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1735.jpg",
+        "de_audio_url": "audio/50/de_audio/1624.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1624.mp3",
+        "de_word": "die Heilung",
+        "hr_word": "ozdravljenje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1737.jpg",
+        "de_audio_url": "audio/50/de_audio/1625.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1625.mp3",
+        "de_word": "die Gesundheit",
+        "hr_word": "zdravlje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0582.jpg",
+        "de_audio_url": "audio/50/de_audio/1626.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1626.mp3",
+        "de_word": "das H\u00f6rger\u00e4t",
+        "hr_word": "slu\u0161no pomagalo",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2041.jpg",
+        "de_audio_url": "audio/50/de_audio/1627.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1627.mp3",
+        "de_word": "das Krankenhaus",
+        "hr_word": "bolnica",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1322.jpg",
+        "de_audio_url": "audio/50/de_audio/1628.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1628.mp3",
+        "de_word": "die Spritze",
+        "hr_word": "injekcija",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2090.jpg",
+        "de_audio_url": "audio/50/de_audio/1629.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1629.mp3",
+        "de_word": "die Verletzung",
+        "hr_word": "ozljeda",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0825.jpg",
+        "de_audio_url": "audio/50/de_audio/1630.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1630.mp3",
+        "de_word": "das Makeup",
+        "hr_word": "\u0161minka",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0845.jpg",
+        "de_audio_url": "audio/50/de_audio/1631.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1631.mp3",
+        "de_word": "die Massage",
+        "hr_word": "masa\u017ea",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2005.jpg",
+        "de_audio_url": "audio/50/de_audio/1632.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1632.mp3",
+        "de_word": "die Medizin",
+        "hr_word": "lijekovi",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2004.jpg",
+        "de_audio_url": "audio/50/de_audio/1633.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1633.mp3",
+        "de_word": "das Medikament",
+        "hr_word": "lijek",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0910.jpg",
+        "de_audio_url": "audio/50/de_audio/1634.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1634.mp3",
+        "de_word": "der M\u00f6rser",
+        "hr_word": "stupa",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0901.jpg",
+        "de_audio_url": "audio/50/de_audio/1635.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1635.mp3",
+        "de_word": "der Mundschutz",
+        "hr_word": "maska za usta",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0925.jpg",
+        "de_audio_url": "audio/50/de_audio/1636.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1636.mp3",
+        "de_word": "der Nagelknipser",
+        "hr_word": "grickalica za nokte",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1643.jpg",
+        "de_audio_url": "audio/50/de_audio/1637.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1637.mp3",
+        "de_word": "das \u00dcbergewicht",
+        "hr_word": "prekomjerna te\u017eina",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2055.jpg",
+        "de_audio_url": "audio/50/de_audio/1638.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1638.mp3",
+        "de_word": "die Operation",
+        "hr_word": "operacija",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1182.jpg",
+        "de_audio_url": "audio/50/de_audio/1639.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1639.mp3",
+        "de_word": "der Schmerz",
+        "hr_word": "bol",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/0993.jpg",
+        "de_audio_url": "audio/50/de_audio/1640.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1640.mp3",
+        "de_word": "das Parf\u00fcm",
+        "hr_word": "parfem",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1024.jpg",
+        "de_audio_url": "audio/50/de_audio/1641.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1641.mp3",
+        "de_word": "die Pille",
+        "hr_word": "pilula",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1846.jpg",
+        "de_audio_url": "audio/50/de_audio/1642.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1642.mp3",
+        "de_word": "die Schwangerschaft",
+        "hr_word": "trudno\u0107a",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1069.jpg",
+        "de_audio_url": "audio/50/de_audio/1643.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1643.mp3",
+        "de_word": "der Rasierer",
+        "hr_word": "aparat za brijanje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1073.jpg",
+        "de_audio_url": "audio/50/de_audio/1644.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1644.mp3",
+        "de_word": "die Rasur",
+        "hr_word": "brijanje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1070.jpg",
+        "de_audio_url": "audio/50/de_audio/1645.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1645.mp3",
+        "de_word": "der Rasierpinsel",
+        "hr_word": "\u010detkica za brijanje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1168.jpg",
+        "de_audio_url": "audio/50/de_audio/1646.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1646.mp3",
+        "de_word": "der Schlaf",
+        "hr_word": "spavanje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1076.jpg",
+        "de_audio_url": "audio/50/de_audio/1647.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1647.mp3",
+        "de_word": "der Raucher",
+        "hr_word": "pu\u0161a\u010d",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1077.jpg",
+        "de_audio_url": "audio/50/de_audio/1648.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1648.mp3",
+        "de_word": "das Rauchverbot",
+        "hr_word": "zabrana pu\u0161enja",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1289.jpg",
+        "de_audio_url": "audio/50/de_audio/1649.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1649.mp3",
+        "de_word": "die Sonnencreme",
+        "hr_word": "krema za sun\u010danje",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1538.jpg",
+        "de_audio_url": "audio/50/de_audio/1650.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1650.mp3",
+        "de_word": "das Wattest\u00e4bchen",
+        "hr_word": "\u0161tapi\u0107 za uho",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1593.jpg",
+        "de_audio_url": "audio/50/de_audio/1651.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1651.mp3",
+        "de_word": "die Zahnb\u00fcrste",
+        "hr_word": "\u010detkica za zube",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1594.jpg",
+        "de_audio_url": "audio/50/de_audio/1652.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1652.mp3",
+        "de_word": "die Zahnpasta",
+        "hr_word": "pasta za zube",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1596.jpg",
+        "de_audio_url": "audio/50/de_audio/1653.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1653.mp3",
+        "de_word": "der Zahnstocher",
+        "hr_word": "\u010da\u010dkalica",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2119.jpg",
+        "de_audio_url": "audio/50/de_audio/1654.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1654.mp3",
+        "de_word": "das Opfer",
+        "hr_word": "\u017ertva",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/2018.jpg",
+        "de_audio_url": "audio/50/de_audio/1655.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1655.mp3",
+        "de_word": "die Personenwaage",
+        "hr_word": "osobna vaga",
+        "category": "Gesundheit"
+    },
+    {
+        "pic_url": "images/50/1111.jpg",
+        "de_audio_url": "audio/50/de_audio/1656.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1656.mp3",
+        "de_word": "der Rollstuhl",
+        "hr_word": "invalidska kolica",
+        "category": "Gesundheit"
+    }
+]

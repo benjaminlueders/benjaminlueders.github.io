@@ -1,0 +1,658 @@
+[
+    {
+        "pic_url": "images/50/0038.jpg",
+        "de_audio_url": "audio/50/de_audio/0985.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0985.mp3",
+        "de_word": "der Appetit",
+        "hr_word": "apetit",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2110.jpg",
+        "de_audio_url": "audio/50/de_audio/0986.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0986.mp3",
+        "de_word": "die Vorspeise",
+        "hr_word": "predjelo",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2046.jpg",
+        "de_audio_url": "audio/50/de_audio/0987.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0987.mp3",
+        "de_word": "der Schinken",
+        "hr_word": "\u0161unka",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0418.jpg",
+        "de_audio_url": "audio/50/de_audio/0988.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0988.mp3",
+        "de_word": "die Geburtstagstorte",
+        "hr_word": "ro\u0111endanska torta",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0650.jpg",
+        "de_audio_url": "audio/50/de_audio/0989.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0989.mp3",
+        "de_word": "der Keks",
+        "hr_word": "keks",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0160.jpg",
+        "de_audio_url": "audio/50/de_audio/0990.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0990.mp3",
+        "de_word": "die Bratwurst",
+        "hr_word": "kobasica za ro\u0161tilj",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0170.jpg",
+        "de_audio_url": "audio/50/de_audio/0991.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0991.mp3",
+        "de_word": "das Brot",
+        "hr_word": "kruh",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0392.jpg",
+        "de_audio_url": "audio/50/de_audio/0992.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0992.mp3",
+        "de_word": "das Fr\u00fchst\u00fcck",
+        "hr_word": "doru\u010dak",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0173.jpg",
+        "de_audio_url": "audio/50/de_audio/0993.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0993.mp3",
+        "de_word": "das Br\u00f6tchen",
+        "hr_word": "pecivo",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0183.jpg",
+        "de_audio_url": "audio/50/de_audio/0994.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0994.mp3",
+        "de_word": "die Butter",
+        "hr_word": "maslac",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2136.jpg",
+        "de_audio_url": "audio/50/de_audio/0995.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0995.mp3",
+        "de_word": "die Kantine",
+        "hr_word": "kafeterija",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0739.jpg",
+        "de_audio_url": "audio/50/de_audio/0996.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0996.mp3",
+        "de_word": "der Kuchen",
+        "hr_word": "kola\u010d",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0153.jpg",
+        "de_audio_url": "audio/50/de_audio/0997.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0997.mp3",
+        "de_word": "das Bonbon",
+        "hr_word": "bombon",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0198.jpg",
+        "de_audio_url": "audio/50/de_audio/0998.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0998.mp3",
+        "de_word": "die Cashewnuss",
+        "hr_word": "ka\u0161u orah",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0755.jpg",
+        "de_audio_url": "audio/50/de_audio/0999.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0999.mp3",
+        "de_word": "der K\u00e4se",
+        "hr_word": "sir",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0648.jpg",
+        "de_audio_url": "audio/50/de_audio/1000.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1000.mp3",
+        "de_word": "der Kaugummi",
+        "hr_word": "\u017evaka\u0107a guma",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1910.jpg",
+        "de_audio_url": "audio/50/de_audio/1001.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1001.mp3",
+        "de_word": "das H\u00e4hnchen",
+        "hr_word": "piletina",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1198.jpg",
+        "de_audio_url": "audio/50/de_audio/1002.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1002.mp3",
+        "de_word": "die Schokolade",
+        "hr_word": "\u010dokolada",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0694.jpg",
+        "de_audio_url": "audio/50/de_audio/1003.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1003.mp3",
+        "de_word": "die Kokosnuss",
+        "hr_word": "kokosov orah",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0613.jpg",
+        "de_audio_url": "audio/50/de_audio/1004.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1004.mp3",
+        "de_word": "die Kaffeebohnen",
+        "hr_word": "zrna kave",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1131.jpg",
+        "de_audio_url": "audio/50/de_audio/1005.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1005.mp3",
+        "de_word": "die Sahne",
+        "hr_word": "krema",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0760.jpg",
+        "de_audio_url": "audio/50/de_audio/1006.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1006.mp3",
+        "de_word": "der K\u00fcmmel",
+        "hr_word": "kumin",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2054.jpg",
+        "de_audio_url": "audio/50/de_audio/1007.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1007.mp3",
+        "de_word": "der Nachtisch",
+        "hr_word": "desert",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0228.jpg",
+        "de_audio_url": "audio/50/de_audio/1008.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1008.mp3",
+        "de_word": "das Dessert",
+        "hr_word": "desert",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1825.jpg",
+        "de_audio_url": "audio/50/de_audio/1009.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1009.mp3",
+        "de_word": "das Abendessen",
+        "hr_word": "ve\u010dera",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0438.jpg",
+        "de_audio_url": "audio/50/de_audio/1010.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1010.mp3",
+        "de_word": "das Gericht",
+        "hr_word": "jelo",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1397.jpg",
+        "de_audio_url": "audio/50/de_audio/1011.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1011.mp3",
+        "de_word": "der Teig",
+        "hr_word": "tijesto",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0261.jpg",
+        "de_audio_url": "audio/50/de_audio/1012.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1012.mp3",
+        "de_word": "das Ei",
+        "hr_word": "jaje",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2082.jpg",
+        "de_audio_url": "audio/50/de_audio/1013.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1013.mp3",
+        "de_word": "das Mehl",
+        "hr_word": "bra\u0161no",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1038.jpg",
+        "de_audio_url": "audio/50/de_audio/1014.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1014.mp3",
+        "de_word": "die Pommes frites",
+        "hr_word": "pomfrit",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1304.jpg",
+        "de_audio_url": "audio/50/de_audio/1015.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1015.mp3",
+        "de_word": "das Spiegelei",
+        "hr_word": "pr\u017eeno jaje",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0520.jpg",
+        "de_audio_url": "audio/50/de_audio/1016.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1016.mp3",
+        "de_word": "die Haselnuss",
+        "hr_word": "lje\u0161njak",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0276.jpg",
+        "de_audio_url": "audio/50/de_audio/1017.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1017.mp3",
+        "de_word": "die Eiscreme",
+        "hr_word": "sladoled",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1831.jpg",
+        "de_audio_url": "audio/50/de_audio/1018.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1018.mp3",
+        "de_word": "das Ketchup",
+        "hr_word": "ke\u010dap",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0774.jpg",
+        "de_audio_url": "audio/50/de_audio/1019.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1019.mp3",
+        "de_word": "die Lasagne",
+        "hr_word": "lazanje",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0766.jpg",
+        "de_audio_url": "audio/50/de_audio/1020.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1020.mp3",
+        "de_word": "die Lakritze",
+        "hr_word": "slatki\u0161",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0875.jpg",
+        "de_audio_url": "audio/50/de_audio/1021.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1021.mp3",
+        "de_word": "das Mittagessen",
+        "hr_word": "ru\u010dak",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0826.jpg",
+        "de_audio_url": "audio/50/de_audio/1022.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1022.mp3",
+        "de_word": "die Makkaroni",
+        "hr_word": "makaroni",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0641.jpg",
+        "de_audio_url": "audio/50/de_audio/1023.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1023.mp3",
+        "de_word": "der Kartoffelbrei",
+        "hr_word": "pire krumpir",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1957.jpg",
+        "de_audio_url": "audio/50/de_audio/1024.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1024.mp3",
+        "de_word": "das Fleisch",
+        "hr_word": "meso",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0201.jpg",
+        "de_audio_url": "audio/50/de_audio/1025.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1025.mp3",
+        "de_word": "der Champignon",
+        "hr_word": "gljiva",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0944.jpg",
+        "de_audio_url": "audio/50/de_audio/1026.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1026.mp3",
+        "de_word": "die Nudel",
+        "hr_word": "tjestenina",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0503.jpg",
+        "de_audio_url": "audio/50/de_audio/1027.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1027.mp3",
+        "de_word": "die Haferflocken",
+        "hr_word": "zobena pahuljice",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0974.jpg",
+        "de_audio_url": "audio/50/de_audio/1028.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1028.mp3",
+        "de_word": "die Paella",
+        "hr_word": "paella",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1011.jpg",
+        "de_audio_url": "audio/50/de_audio/1029.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1029.mp3",
+        "de_word": "der Pfannkuchen",
+        "hr_word": "pala\u010dinka",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0298.jpg",
+        "de_audio_url": "audio/50/de_audio/1030.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1030.mp3",
+        "de_word": "die Erdnuss",
+        "hr_word": "kikiriki",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2104.jpg",
+        "de_audio_url": "audio/50/de_audio/1031.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1031.mp3",
+        "de_word": "der Pfeffer",
+        "hr_word": "papar",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1014.jpg",
+        "de_audio_url": "audio/50/de_audio/1032.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1032.mp3",
+        "de_word": "der Pfefferstreuer",
+        "hr_word": "staklenka za papar",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1013.jpg",
+        "de_audio_url": "audio/50/de_audio/1033.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1033.mp3",
+        "de_word": "die Pfefferm\u00fchle",
+        "hr_word": "mlin za papar",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0306.jpg",
+        "de_audio_url": "audio/50/de_audio/1034.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1034.mp3",
+        "de_word": "die Essiggurke",
+        "hr_word": "krastavac",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1002.jpg",
+        "de_audio_url": "audio/50/de_audio/1035.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1035.mp3",
+        "de_word": "die Pastete",
+        "hr_word": "pita",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1031.jpg",
+        "de_audio_url": "audio/50/de_audio/1036.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1036.mp3",
+        "de_word": "die Pizza",
+        "hr_word": "pizza",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1041.jpg",
+        "de_audio_url": "audio/50/de_audio/1037.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1037.mp3",
+        "de_word": "das Popcorn",
+        "hr_word": "kokice",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0640.jpg",
+        "de_audio_url": "audio/50/de_audio/1038.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1038.mp3",
+        "de_word": "die Kartoffel",
+        "hr_word": "krumpir",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0642.jpg",
+        "de_audio_url": "audio/50/de_audio/1039.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1039.mp3",
+        "de_word": "die Kartoffelchips",
+        "hr_word": "\u010dips",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1043.jpg",
+        "de_audio_url": "audio/50/de_audio/1040.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1040.mp3",
+        "de_word": "die Praline",
+        "hr_word": "praline",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2068.jpg",
+        "de_audio_url": "audio/50/de_audio/1041.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1041.mp3",
+        "de_word": "die Salzstangen",
+        "hr_word": "slani \u0161tapi\u0107i",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1116.jpg",
+        "de_audio_url": "audio/50/de_audio/1042.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1042.mp3",
+        "de_word": "die Rosine",
+        "hr_word": "gro\u017e\u0111ice",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1088.jpg",
+        "de_audio_url": "audio/50/de_audio/1043.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1043.mp3",
+        "de_word": "der Reis",
+        "hr_word": "ri\u017ea",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1223.jpg",
+        "de_audio_url": "audio/50/de_audio/1044.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1044.mp3",
+        "de_word": "der Schweinebraten",
+        "hr_word": "pe\u010dena svinjetina",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1135.jpg",
+        "de_audio_url": "audio/50/de_audio/1045.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1045.mp3",
+        "de_word": "der Salat",
+        "hr_word": "salata",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1134.jpg",
+        "de_audio_url": "audio/50/de_audio/1046.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1046.mp3",
+        "de_word": "die Salami",
+        "hr_word": "salama",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0764.jpg",
+        "de_audio_url": "audio/50/de_audio/1047.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1047.mp3",
+        "de_word": "der Lachs",
+        "hr_word": "losos",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1136.jpg",
+        "de_audio_url": "audio/50/de_audio/1048.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1048.mp3",
+        "de_word": "der Salzstreuer",
+        "hr_word": "soljenka",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1141.jpg",
+        "de_audio_url": "audio/50/de_audio/1049.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1049.mp3",
+        "de_word": "das Sandwich",
+        "hr_word": "sendvi\u010d",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/2058.jpg",
+        "de_audio_url": "audio/50/de_audio/1050.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1050.mp3",
+        "de_word": "die So\u00dfe",
+        "hr_word": "umak",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1580.jpg",
+        "de_audio_url": "audio/50/de_audio/1051.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1051.mp3",
+        "de_word": "die Wurst",
+        "hr_word": "kobasica",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1255.jpg",
+        "de_audio_url": "audio/50/de_audio/1052.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1052.mp3",
+        "de_word": "der Sesam",
+        "hr_word": "sezam",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1367.jpg",
+        "de_audio_url": "audio/50/de_audio/1053.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1053.mp3",
+        "de_word": "die Suppe",
+        "hr_word": "juha",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1295.jpg",
+        "de_audio_url": "audio/50/de_audio/1054.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1054.mp3",
+        "de_word": "die Spaghetti",
+        "hr_word": "\u0161pageti",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0457.jpg",
+        "de_audio_url": "audio/50/de_audio/1055.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1055.mp3",
+        "de_word": "das Gew\u00fcrz",
+        "hr_word": "za\u010din",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1335.jpg",
+        "de_audio_url": "audio/50/de_audio/1056.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1056.mp3",
+        "de_word": "das Steak",
+        "hr_word": "odrezak",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0296.jpg",
+        "de_audio_url": "audio/50/de_audio/1057.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1057.mp3",
+        "de_word": "die Erdbeertorte",
+        "hr_word": "kola\u010d od jagode",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1622.jpg",
+        "de_audio_url": "audio/50/de_audio/1058.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1058.mp3",
+        "de_word": "der Zucker",
+        "hr_word": "\u0161e\u0107er",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0274.jpg",
+        "de_audio_url": "audio/50/de_audio/1059.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1059.mp3",
+        "de_word": "der Eisbecher",
+        "hr_word": "sladoledni kup",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1287.jpg",
+        "de_audio_url": "audio/50/de_audio/1060.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1060.mp3",
+        "de_word": "die Sonnenblumenkerne",
+        "hr_word": "sjemenke suncokreta",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1371.jpg",
+        "de_audio_url": "audio/50/de_audio/1061.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1061.mp3",
+        "de_word": "das Sushi",
+        "hr_word": "sushi",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1432.jpg",
+        "de_audio_url": "audio/50/de_audio/1062.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1062.mp3",
+        "de_word": "die Torte",
+        "hr_word": "torta",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1425.jpg",
+        "de_audio_url": "audio/50/de_audio/1063.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1063.mp3",
+        "de_word": "der Toast",
+        "hr_word": "tost",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1513.jpg",
+        "de_audio_url": "audio/50/de_audio/1064.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1064.mp3",
+        "de_word": "die Waffel",
+        "hr_word": "vafl",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/0109.jpg",
+        "de_audio_url": "audio/50/de_audio/1065.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1065.mp3",
+        "de_word": "die Bedienung",
+        "hr_word": "posluga",
+        "category": "Essen"
+    },
+    {
+        "pic_url": "images/50/1517.jpg",
+        "de_audio_url": "audio/50/de_audio/1066.mp3",
+        "hr_audio_url": "audio/50/hr_audio/1066.mp3",
+        "de_word": "die Walnuss",
+        "hr_word": "orah",
+        "category": "Essen"
+    }
+]

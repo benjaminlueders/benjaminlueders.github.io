@@ -1,0 +1,562 @@
+[
+    {
+        "pic_url": "images/50/0025.jpg",
+        "de_audio_url": "audio/50/de_audio/0609.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0609.mp3",
+        "de_word": "der Angler",
+        "hr_word": "ribi\u010d",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0039.jpg",
+        "de_audio_url": "audio/50/de_audio/0610.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0610.mp3",
+        "de_word": "das Aquarium",
+        "hr_word": "akvarij",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0077.jpg",
+        "de_audio_url": "audio/50/de_audio/0611.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0611.mp3",
+        "de_word": "das Badetuch",
+        "hr_word": "ru\u010dnik za kupanje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1526.jpg",
+        "de_audio_url": "audio/50/de_audio/0612.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0612.mp3",
+        "de_word": "der Wasserball",
+        "hr_word": "lopta za pla\u017eu",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0103.jpg",
+        "de_audio_url": "audio/50/de_audio/0613.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0613.mp3",
+        "de_word": "der Bauchtanz",
+        "hr_word": "trbu\u0161ni ples",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0130.jpg",
+        "de_audio_url": "audio/50/de_audio/0614.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0614.mp3",
+        "de_word": "das Bingo",
+        "hr_word": "bingo",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1307.jpg",
+        "de_audio_url": "audio/50/de_audio/0615.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0615.mp3",
+        "de_word": "das Spielbrett",
+        "hr_word": "plo\u010da",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0155.jpg",
+        "de_audio_url": "audio/50/de_audio/0616.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0616.mp3",
+        "de_word": "das Bowling",
+        "hr_word": "kuglanje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1249.jpg",
+        "de_audio_url": "audio/50/de_audio/0617.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0617.mp3",
+        "de_word": "die Seilbahn",
+        "hr_word": "\u017ei\u010dara",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0196.jpg",
+        "de_audio_url": "audio/50/de_audio/0618.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0618.mp3",
+        "de_word": "das Camping",
+        "hr_word": "kampiranje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1833.jpg",
+        "de_audio_url": "audio/50/de_audio/0619.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0619.mp3",
+        "de_word": "der Gaskocher",
+        "hr_word": "kampersko kuhalo",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0633.jpg",
+        "de_audio_url": "audio/50/de_audio/0620.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0620.mp3",
+        "de_word": "die Kanutour",
+        "hr_word": "vo\u017enja kanuom",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0639.jpg",
+        "de_audio_url": "audio/50/de_audio/0621.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0621.mp3",
+        "de_word": "das Kartenspiel",
+        "hr_word": "karta\u0161ka igra",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0636.jpg",
+        "de_audio_url": "audio/50/de_audio/0622.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0622.mp3",
+        "de_word": "der Karneval",
+        "hr_word": "karneval",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0643.jpg",
+        "de_audio_url": "audio/50/de_audio/0623.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0623.mp3",
+        "de_word": "das Karussell",
+        "hr_word": "vrtuljak",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1196.jpg",
+        "de_audio_url": "audio/50/de_audio/0624.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0624.mp3",
+        "de_word": "die Schnitzerei",
+        "hr_word": "rezbarenje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1148.jpg",
+        "de_audio_url": "audio/50/de_audio/0625.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0625.mp3",
+        "de_word": "das Schachspiel",
+        "hr_word": "\u0161ah",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1147.jpg",
+        "de_audio_url": "audio/50/de_audio/0626.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0626.mp3",
+        "de_word": "die Schachfigur",
+        "hr_word": "\u0161ahovska figura",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/2045.jpg",
+        "de_audio_url": "audio/50/de_audio/0627.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0627.mp3",
+        "de_word": "der Kriminalroman",
+        "hr_word": "kriminalisti\u010dki roman",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0729.jpg",
+        "de_audio_url": "audio/50/de_audio/0628.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0628.mp3",
+        "de_word": "das Kreuzwortr\u00e4tsel",
+        "hr_word": "kri\u017ealjka",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1586.jpg",
+        "de_audio_url": "audio/50/de_audio/0629.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0629.mp3",
+        "de_word": "der W\u00fcrfel",
+        "hr_word": "kocka",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1381.jpg",
+        "de_audio_url": "audio/50/de_audio/0630.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0630.mp3",
+        "de_word": "der Tanz",
+        "hr_word": "ples",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0219.jpg",
+        "de_audio_url": "audio/50/de_audio/0631.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0631.mp3",
+        "de_word": "das Dartspiel",
+        "hr_word": "pikado",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0797.jpg",
+        "de_audio_url": "audio/50/de_audio/0632.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0632.mp3",
+        "de_word": "der Liegestuhl",
+        "hr_word": "le\u017ealjka",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1175.jpg",
+        "de_audio_url": "audio/50/de_audio/0633.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0633.mp3",
+        "de_word": "das Schlauchboot",
+        "hr_word": "gumenjak",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1850.jpg",
+        "de_audio_url": "audio/50/de_audio/0634.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0634.mp3",
+        "de_word": "die Diskothek",
+        "hr_word": "diskoteka",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0240.jpg",
+        "de_audio_url": "audio/50/de_audio/0635.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0635.mp3",
+        "de_word": "das Dominospiel",
+        "hr_word": "domino",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1342.jpg",
+        "de_audio_url": "audio/50/de_audio/0636.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0636.mp3",
+        "de_word": "die Stickerei",
+        "hr_word": "vez",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1506.jpg",
+        "de_audio_url": "audio/50/de_audio/0637.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0637.mp3",
+        "de_word": "das Volksfest",
+        "hr_word": "sajam",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1103.jpg",
+        "de_audio_url": "audio/50/de_audio/0638.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0638.mp3",
+        "de_word": "das Riesenrad",
+        "hr_word": "veliki kota\u010d",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0341.jpg",
+        "de_audio_url": "audio/50/de_audio/0639.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0639.mp3",
+        "de_word": "das Fest",
+        "hr_word": "proslava",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0349.jpg",
+        "de_audio_url": "audio/50/de_audio/0640.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0640.mp3",
+        "de_word": "das Feuerwerk",
+        "hr_word": "vatromet",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1306.jpg",
+        "de_audio_url": "audio/50/de_audio/0641.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0641.mp3",
+        "de_word": "das Spiel",
+        "hr_word": "igra",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0477.jpg",
+        "de_audio_url": "audio/50/de_audio/0642.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0642.mp3",
+        "de_word": "das Golfspiel",
+        "hr_word": "golf",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0507.jpg",
+        "de_audio_url": "audio/50/de_audio/0643.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0643.mp3",
+        "de_word": "das Halma",
+        "hr_word": "halma",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1521.jpg",
+        "de_audio_url": "audio/50/de_audio/0644.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0644.mp3",
+        "de_word": "die Wanderung",
+        "hr_word": "pje\u0161a\u010denje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1823.jpg",
+        "de_audio_url": "audio/50/de_audio/0645.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0645.mp3",
+        "de_word": "das Hobby",
+        "hr_word": "hobi",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0335.jpg",
+        "de_audio_url": "audio/50/de_audio/0646.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0646.mp3",
+        "de_word": "die Ferien",
+        "hr_word": "praznici",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1089.jpg",
+        "de_audio_url": "audio/50/de_audio/0647.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0647.mp3",
+        "de_word": "die Reise",
+        "hr_word": "putovanje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0757.jpg",
+        "de_audio_url": "audio/50/de_audio/0648.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0648.mp3",
+        "de_word": "der K\u00f6nig",
+        "hr_word": "kralj",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1724.jpg",
+        "de_audio_url": "audio/50/de_audio/0649.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0649.mp3",
+        "de_word": "die Freizeit",
+        "hr_word": "slobodno vrijeme",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1540.jpg",
+        "de_audio_url": "audio/50/de_audio/0650.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0650.mp3",
+        "de_word": "der Webstuhl",
+        "hr_word": "razboj",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1447.jpg",
+        "de_audio_url": "audio/50/de_audio/0651.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0651.mp3",
+        "de_word": "das Tretboot",
+        "hr_word": "pedalina",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0126.jpg",
+        "de_audio_url": "audio/50/de_audio/0652.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0652.mp3",
+        "de_word": "das Bilderbuch",
+        "hr_word": "slikovnica",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1309.jpg",
+        "de_audio_url": "audio/50/de_audio/0653.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0653.mp3",
+        "de_word": "der Spielplatz",
+        "hr_word": "dje\u010dje igrali\u0161te",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1308.jpg",
+        "de_audio_url": "audio/50/de_audio/0654.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0654.mp3",
+        "de_word": "die Spielkarte",
+        "hr_word": "igra\u0107a karta",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1057.jpg",
+        "de_audio_url": "audio/50/de_audio/0655.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0655.mp3",
+        "de_word": "das Puzzle",
+        "hr_word": "slagalica",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0789.jpg",
+        "de_audio_url": "audio/50/de_audio/0656.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0656.mp3",
+        "de_word": "die Lekt\u00fcre",
+        "hr_word": "\u0161tivo",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0302.jpg",
+        "de_audio_url": "audio/50/de_audio/0657.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0657.mp3",
+        "de_word": "die Erholung",
+        "hr_word": "oporavak",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/2118.jpg",
+        "de_audio_url": "audio/50/de_audio/0658.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0658.mp3",
+        "de_word": "das Restaurant",
+        "hr_word": "restoran",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1156.jpg",
+        "de_audio_url": "audio/50/de_audio/0659.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0659.mp3",
+        "de_word": "das Schaukelpferd",
+        "hr_word": "konji\u0107 za ljuljanje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1119.jpg",
+        "de_audio_url": "audio/50/de_audio/0660.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0660.mp3",
+        "de_word": "das Roulette",
+        "hr_word": "rulet",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1573.jpg",
+        "de_audio_url": "audio/50/de_audio/0661.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0661.mp3",
+        "de_word": "die Wippe",
+        "hr_word": "klackalica",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1257.jpg",
+        "de_audio_url": "audio/50/de_audio/0662.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0662.mp3",
+        "de_word": "die Show",
+        "hr_word": "predstava",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1265.jpg",
+        "de_audio_url": "audio/50/de_audio/0663.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0663.mp3",
+        "de_word": "das Skateboard",
+        "hr_word": "skejtbord",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1271.jpg",
+        "de_audio_url": "audio/50/de_audio/0664.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0664.mp3",
+        "de_word": "der Skilift",
+        "hr_word": "vu\u010dnica",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/0649.jpg",
+        "de_audio_url": "audio/50/de_audio/0665.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0665.mp3",
+        "de_word": "der Kegel",
+        "hr_word": "\u010dunj",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1170.jpg",
+        "de_audio_url": "audio/50/de_audio/0666.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0666.mp3",
+        "de_word": "der Schlafsack",
+        "hr_word": "vre\u0107a za spavanje",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1630.jpg",
+        "de_audio_url": "audio/50/de_audio/0667.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0667.mp3",
+        "de_word": "der Zuschauer",
+        "hr_word": "gledatelj",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1916.jpg",
+        "de_audio_url": "audio/50/de_audio/0668.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0668.mp3",
+        "de_word": "die Geschichte",
+        "hr_word": "pri\u010da",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1730.jpg",
+        "de_audio_url": "audio/50/de_audio/0669.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0669.mp3",
+        "de_word": "das Schwimmbad",
+        "hr_word": "bazen",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1155.jpg",
+        "de_audio_url": "audio/50/de_audio/0670.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0670.mp3",
+        "de_word": "die Schaukel",
+        "hr_word": "ljulja\u010dka",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1421.jpg",
+        "de_audio_url": "audio/50/de_audio/0671.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0671.mp3",
+        "de_word": "der Tischfu\u00dfball",
+        "hr_word": "stolni nogomet",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1609.jpg",
+        "de_audio_url": "audio/50/de_audio/0672.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0672.mp3",
+        "de_word": "das Zelt",
+        "hr_word": "\u0161ator",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1708.jpg",
+        "de_audio_url": "audio/50/de_audio/0673.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0673.mp3",
+        "de_word": "der Tourismus",
+        "hr_word": "turizam",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1435.jpg",
+        "de_audio_url": "audio/50/de_audio/0674.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0674.mp3",
+        "de_word": "der Tourist",
+        "hr_word": "turist",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1310.jpg",
+        "de_audio_url": "audio/50/de_audio/0675.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0675.mp3",
+        "de_word": "das Spielzeug",
+        "hr_word": "igra\u010dka",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1728.jpg",
+        "de_audio_url": "audio/50/de_audio/0676.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0676.mp3",
+        "de_word": "der Urlaub",
+        "hr_word": "godi\u0161nji odmor",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1298.jpg",
+        "de_audio_url": "audio/50/de_audio/0677.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0677.mp3",
+        "de_word": "der Spaziergang",
+        "hr_word": "\u0161etnja",
+        "category": "Freizeit"
+    },
+    {
+        "pic_url": "images/50/1723.jpg",
+        "de_audio_url": "audio/50/de_audio/0678.mp3",
+        "hr_audio_url": "audio/50/hr_audio/0678.mp3",
+        "de_word": "der Zoo",
+        "hr_word": "zoolo\u0161ki vrt",
+        "category": "Freizeit"
+    }
+]
